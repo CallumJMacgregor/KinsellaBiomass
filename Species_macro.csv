@@ -1,0 +1,1174 @@
+SYSTEM,RANK,FAMILY,NAME,SPECIES,RIS_BINOMIAL,AUTHORITY,FOREWING_LB,FOREWING_UB,EXCLUDE_FROM_FINAL
+37,Species,Hepialidae,Triodia sylvina,Triodia sylvina,Hepialus sylvina,"(Linnaeus, 1761)",12,26,N
+40,Species,Hepialidae,Korscheltellus lupulina,Korscheltellus lupulina,Hepialus lupulinus,"(Linnaeus, 1758)",11,20,N
+42,Species,Hepialidae,Korscheltellus fusconebulosa,Korscheltellus fusconebulosa,Korscheltellus fusconebulosa,"(De Geer, 1778)",14,26,N
+46,Species,Hepialidae,Phymatopus hecta,Phymatopus hecta,Phymatopus hecta,"(Linnaeus, 1758)",12,16,N
+49,Subspecies,Hepialidae,Hepialus humuli humuli,Hepialus humuli,Hepialus humuli,"(Linnaeus, 1758)",21,35,N
+51,Subspecies,Hepialidae,Hepialus humuli thulensis,Hepialus humuli,Hepialus humuli,"Newman, 1865",21,35,N
+2943,Species,Cossidae,Cossus cossus,Cossus cossus,Cossus cossus,"(Linnaeus, 1758)",32,42,N
+2948,Species,Cossidae,Zeuzera pyrina,Zeuzera pyrina,Zeuzera pyrina,"(Linnaeus, 1761)",22,35,N
+2952,Species,Cossidae,Phragmataecia castaneae,Phragmataecia castaneae,Phragmataecia castaneae,"(Hübner, 1790)",15,23,N
+2958,Species,Sesiidae,Pennisetia hylaeiformis,Pennisetia hylaeiformis,Pennisetia hylaeiformis,"(Laspeyres, 1801)",11,13,N
+2962,Species,Sesiidae,Sesia apiformis,Sesia apiformis,Sesia apiformis,"(Clerck, 1759)",17,21,N
+2964,Species,Sesiidae,Sesia bembeciformis,Sesia bembeciformis,Sesia bembeciformis,"(Hübner, [1806])",15,19,N
+2968,Species,Sesiidae,Paranthrene tabaniformis,Paranthrene tabaniformis,Paranthrene tabaniformis,"(Rottemburg, 1775)",13,14,N
+2971,Species,Sesiidae,Synanthedon scoliaeformis,Synanthedon scoliaeformis,Synanthedon scoliaeformis,"(Borkhausen, 1789)",12,15,N
+2973,Species,Sesiidae,Synanthedon spheciformis,Synanthedon spheciformis,Synanthedon spheciformis,"([Denis & Schiffermüller], 1775)",12,14,N
+2975,Species,Sesiidae,Synanthedon culiciformis,Synanthedon culiciformis,Synanthedon culiciformis,"(Linnaeus, 1758)",12,14,N
+2977,Species,Sesiidae,Synanthedon formicaeformis,Synanthedon formicaeformis,Synanthedon formicaeformis,"(Esper, 1782)",9,11,N
+2979,Species,Sesiidae,Synanthedon flaviventris,Synanthedon flaviventris,Synanthedon flaviventris,"(Staudinger, 1883)",8,9,N
+2981,Species,Sesiidae,Synanthedon andrenaeformis,Synanthedon andrenaeformis,Synanthedon andrenaeformis,"(Laspeyres, 1801)",9,11,N
+2984,Species,Sesiidae,Synanthedon myopaeformis,Synanthedon myopaeformis,Synanthedon myopaeformis,"(Borkhausen, 1789)",9,11,N
+2986,Species,Sesiidae,Synanthedon vespiformis,Synanthedon vespiformis,Synanthedon vespiformis,"(Linnaeus, 1761)",10,12,N
+2988,Species,Sesiidae,Synanthedon tipuliformis,Synanthedon tipuliformis,Synanthedon tipuliformis,"(Clerck, 1759)",8,10,N
+2992,Species,Sesiidae,Bembecia ichneumoniformis,Bembecia ichneumoniformis,Bembecia ichneumoniformis,"([Denis & Schiffermüller], 1775)",9,12,N
+2996,Species,Sesiidae,Pyropteron chrysidiformis,Pyropteron chrysidiformis,Pyropteron chrysidiformis,"(Esper, 1782)",9,12,N
+2998,Species,Sesiidae,Pyropteron muscaeformis,Pyropteron muscaeformis,Pyropteron muscaeformis,"(Esper, 1783)",6,8,N
+3003,Species,Limacodidae,Apoda limacodes,Apoda limacodes,Apoda limacodes,"(Hufnagel, 1766)",10,13,N
+3009,Species,Limacodidae,Heterogenea asella,Heterogenea asella,Heterogenea asella,"([Denis & Schiffermüller], 1775)",5,11,N
+3017,Species,Zygaenidae,Jordanita globulariae,Jordanita globulariae,Jordanita globulariae,"(Hübner, 1793)",10,15,N
+3021,Subspecies,Zygaenidae,Adscita statices statices,Adscita statices,Adscita statices,"(Linnaeus, 1758)",11,15,N
+3023,Subspecies,Zygaenidae,Adscita geryon geryon,Adscita geryon,Adscita geryon,"(Hübner, [1813])",9,12,N
+3029,Subspecies,Zygaenidae,Zygaena purpuralis purpuralis,Zygaena purpuralis,Zygaena purpuralis,"(Brünnich, 1763)",14,16,N
+3030,Subspecies,Zygaenidae,Zygaena purpuralis caledonensis,Zygaena purpuralis,Zygaena purpuralis,"Reiss, 1931",14,16,N
+3032,Subspecies,Zygaenidae,Zygaena purpuralis segontii,Zygaena purpuralis,Zygaena purpuralis,"Tremewan, 1958",14,16,N
+3033,Subspecies,Zygaenidae,Zygaena purpuralis sabulosa,Zygaena purpuralis,Zygaena purpuralis,"Tremewan, 1976",14,16,N
+3035,Subspecies,Zygaenidae,Zygaena loti loti,Zygaena loti,Zygaena loti,"([Denis & Schiffermüller], 1775)",14,16,N
+3037,Subspecies,Zygaenidae,Zygaena loti scotica,Zygaena loti,Zygaena loti,"(Rowland-Brown, 1919)",14,16,N
+3039,Subspecies,Zygaenidae,Zygaena exulans exulans,Zygaena exulans,Zygaena exulans,"(Hohenwarth, 1792)",10,16,N
+3040,Subspecies,Zygaenidae,Zygaena exulans subochracea,Zygaena exulans,Zygaena exulans,"White, 1872",10,16,N
+3042,Subspecies,Zygaenidae,Zygaena viciae viciae,Zygaena viciae,Zygaena viciae,"([Denis & Schiffermüller], 1775)",12,14,N
+3044,Subspecies,Zygaenidae,Zygaena viciae ytenensis,Zygaena viciae,Zygaena viciae,"Briggs, 1888",12,14,N
+3046,Subspecies,Zygaenidae,Zygaena viciae argyllensis,Zygaena viciae,Zygaena viciae,"Tremewan, 1967",12,14,N
+3047,Subspecies,Zygaenidae,Zygaena filipendulae filipendulae,Zygaena filipendulae,Zygaena filipendulae,"(Linnaeus, 1758)",15,19,N
+3048,Subspecies,Zygaenidae,Zygaena filipendulae stephensi,Zygaena filipendulae,Zygaena filipendulae,"Dupont, 1900",15,19,N
+3050,Subspecies,Zygaenidae,Zygaena filipendulae pulcherrima,Zygaena filipendulae,Zygaena filipendulae,"Verity, 1921",15,19,N
+3051,Subspecies,Zygaenidae,Zygaena lonicerae lonicerae,Zygaena lonicerae,Zygaena lonicerae,"(Scheven, 1777)",15,19,N
+3053,Subspecies,Zygaenidae,Zygaena lonicerae latomarginata,Zygaena lonicerae,Zygaena lonicerae,"(Tutt, 1899)",15,19,N
+3054,Subspecies,Zygaenidae,Zygaena lonicerae insularis,Zygaena lonicerae,Zygaena lonicerae,"Tremewan, 1960",15,19,N
+3055,Subspecies,Zygaenidae,Zygaena lonicerae jocelynae,Zygaena lonicerae,Zygaena lonicerae,"Tremewan, 1962",15,19,N
+3056,Subspecies,Zygaenidae,Zygaena trifolii trifolii,Zygaena trifolii,Zygaena trifolii,"(Esper, 1783)",14,19,N
+3058,Subspecies,Zygaenidae,Zygaena trifolii decreta,Zygaena trifolii,Zygaena trifolii,"Verity, 1925",14,19,N
+3059,Subspecies,Zygaenidae,Zygaena trifolii palustrella,Zygaena trifolii,Zygaena trifolii,"Verity, 1925",14,19,N
+3060,Subspecies,Zygaenidae,Zygaena trifolii subsyracusia,Zygaena trifolii,Zygaena trifolii,"Verity, 1925",14,19,N
+3852,Species,Drepanidae,Falcaria lacertinaria,Falcaria lacertinaria,Falcaria lacertinaria,"(Linnaeus, 1758)",14,18,N
+3855,Species,Drepanidae,Watsonalla binaria,Watsonalla binaria,Watsonalla binaria,"(Hufnagel, 1767)",13,18,N
+3858,Species,Drepanidae,Watsonalla cultraria,Watsonalla cultraria,Watsonalla cultraria,"(Fabricius, 1775)",12,17,N
+3862,Species,Drepanidae,Drepana curvatula,Drepana curvatula,Drepana curvatula,"(Borkhausen, 1790)",16,21,N
+3864,Species,Drepanidae,Drepana falcataria,Drepana falcataria,Drepana falcataria,"(Linnaeus, 1758)",17,21,N
+3867,Species,Drepanidae,Sabra harpagula,Sabra harpagula,Sabra harpagula,"(Esper, 1786)",17,20,N
+3872,Species,Drepanidae,Cilix glaucata,Cilix glaucata,Cilix glaucata,"(Scopoli, 1763)",10,13,N
+3876,Species,Drepanidae,Thyatira batis,Thyatira batis,Thyatira batis,"(Linnaeus, 1758)",16,19,N
+3879,Species,Drepanidae,Habrosyne pyritoides,Habrosyne pyritoides,Habrosyne pyritoides,"(Hufnagel, 1766)",17,20,N
+3883,Subspecies,Drepanidae,Tethea ocularis ocularis,Tethea ocularis,Tethea ocularis,"(Linnaeus, 1767)",16,20,N
+3884,Subspecies,Drepanidae,Tethea ocularis octogesimea,Tethea ocularis,Tethea ocularis,"(Hübner, 1786)",16,20,N
+3886,Subspecies,Drepanidae,Tethea or or,Tethea or,Tethea or,"([Denis & Schiffermüller], 1775)",16,19,N
+3888,Subspecies,Drepanidae,Tethea or scotica,Tethea or,Tethea or,"(Tutt, 1888)",16,19,N
+3889,Subspecies,Drepanidae,Tethea or hibernica,Tethea or,Tethea or,"(Turner, 1927",16,19,N
+3891,Species,Drepanidae,Tetheella fluctuosa,Tetheella fluctuosa,Tetheella fluctuosa,"(Hübner, [1803])",17,21,N
+3894,Species,Drepanidae,Ochropacha duplaris,Ochropacha duplaris,Ochropacha duplaris,"(Linnaeus, 1761)",14,18,N
+3897,Subspecies,Drepanidae,Cymatophorina diluta diluta,Cymatophorina diluta,Cymatophorina diluta,"([Denis & Schiffermüller], 1775)",15,17,N
+3898,Subspecies,Drepanidae,Cymatophorina diluta hartwiegi,Cymatophorina diluta,Cymatophorina diluta,"(Reisser, 1927)",15,17,N
+3901,Species,Drepanidae,Polyploca ridens,Polyploca ridens,Polyploca ridens,"(Fabricius, 1787)",15,17,N
+3904,Subspecies,Drepanidae,Achlya flavicornis flavicornis,Achlya flavicornis,Achlya flavicornis,"(Linnaeus, 1758)",17,20,N
+3905,Subspecies,Drepanidae,Achlya flavicornis galbanus,Achlya flavicornis,Achlya flavicornis,"(Tutt, 1891)",17,20,N
+3907,Subspecies,Drepanidae,Achlya flavicornis scotica,Achlya flavicornis,Achlya flavicornis,"(Tutt, 1888)",17,20,N
+3913,Species,Lasiocampidae,Poecilocampa populi,Poecilocampa populi,Poecilocampa populi,"(Linnaeus, 1758)",15,22,N
+3916,Species,Lasiocampidae,Trichiura crataegi,Trichiura crataegi,Trichiura crataegi,"(Linnaeus, 1758)",14,17,N
+3922,Species,Lasiocampidae,Malacosoma neustria,Malacosoma neustria,Malacosoma neustria,"(Linnaeus, 1758)",13,21,N
+3924,Species,Lasiocampidae,Malacosoma castrensis,Malacosoma castrensis,Malacosoma castrensis,"(Linnaeus, 1758)",13,21,N
+3930,Species,Lasiocampidae,Eriogaster lanestris,Eriogaster lanestris,Eriogaster lanestris,"(Linnaeus, 1758)",15,21,N
+3935,Subspecies,Lasiocampidae,Lasiocampa trifolii trifolii,Lasiocampa trifolii,Lasiocampa trifolii,"([Denis & Schiffermüller], 1775)",21,30,N
+3937,Subspecies,Lasiocampidae,Lasiocampa trifolii flava,Lasiocampa trifolii,Lasiocampa trifolii,"Chalmers-Hunt, 1962",21,30,N
+3940,Subspecies,Lasiocampidae,Lasiocampa quercus quercus,Lasiocampa quercus,Lasiocampa quercus,"(Linnaeus, 1758)",25,40,N
+3942,Subspecies,Lasiocampidae,Lasiocampa quercus callunae,Lasiocampa quercus,Lasiocampa quercus,"Palmer, 1847",25,40,N
+3946,Species,Lasiocampidae,Macrothylacia rubi,Macrothylacia rubi,Macrothylacia rubi,"(Linnaeus, 1758)",22,31,N
+3951,Species,Lasiocampidae,Dendrolimus pini,Dendrolimus pini,Dendrolimus pini,"(Linnaeus, 1758)",29,42,N
+3955,Species,Lasiocampidae,Euthrix potatoria,Euthrix potatoria,Euthrix potatoria,"(Linnaeus, 1758)",21,35,N
+3960,Species,Lasiocampidae,Phyllodesma ilicifolia,Phyllodesma ilicifolia,Phyllodesma ilicifolia,"(Linnaeus, 1758)",18,20,N
+3964,Species,Lasiocampidae,Gastropacha quercifolia,Gastropacha quercifolia,Gastropacha quercifolia,"(Linnaeus, 1758)",28,42,N
+3969,Species,Endromidae,Endromis versicolora,Endromis versicolora,Endromis versicolora,"(Linnaeus, 1758)",27,39,N
+3976,Species,Saturniidae,Saturnia pavonia,Saturnia pavonia,Saturnia pavonia,"(Linnaeus, 1758)",27,41,N
+3982,Species,Sphingidae,Mimas tiliae,Mimas tiliae,Mimas tiliae,"(Linnaeus, 1758)",23,39,N
+3985,Species,Sphingidae,Smerinthus ocellata,Smerinthus ocellata,Smerinthus ocellata,"(Linnaeus, 1758)",36,44,N
+3988,Species,Sphingidae,Laothoe populi,Laothoe populi,Laothoe populi,"(Linnaeus, 1758)",30,46,N
+3993,Species,Sphingidae,Agrius convolvuli,Agrius convolvuli,Agrius convolvuli,"(Linnaeus, 1758)",50,55,N
+3996,Species,Sphingidae,Acherontia atropos,Acherontia atropos,Acherontia atropos,"(Linnaeus, 1758)",52,60,N
+4000,Species,Sphingidae,Sphinx ligustri,Sphinx ligustri,Sphinx ligustri,"Linnaeus, 1758",41,55,N
+4002,Species,Sphingidae,Sphinx pinastri,Sphinx pinastri,Sphinx pinastri,"Linnaeus, 1758",35,41,N
+4007,Species,Sphingidae,Hemaris tityus,Hemaris tityus,Hemaris tityus,"(Linnaeus, 1758)",18,21,N
+4009,Species,Sphingidae,Hemaris fuciformis,Hemaris fuciformis,Hemaris fuciformis,"(Linnaeus, 1758)",20,24,N
+4013,Species,Sphingidae,Macroglossum stellatarum,Macroglossum stellatarum,Macroglossum stellatarum,"(Linnaeus, 1758)",20,24,N
+4016,Species,Sphingidae,Daphnis nerii,Daphnis nerii,Daphnis nerii,"(Linnaeus, 1758)",48,51,N
+4019,Species,Sphingidae,Proserpinus proserpina,Proserpinus proserpina,Proserpinus proserpina,"(Pallas, 1772)",18,21,N
+4022,Species,Sphingidae,Hyles euphorbiae,Hyles euphorbiae,Hyles euphorbiae,"(Linnaeus, 1758)",28,31,N
+4024,Species,Sphingidae,Hyles gallii,Hyles gallii,Hyles gallii,"(Rottemburg, 1775)",34,38,N
+4026,Species,Sphingidae,Hyles livornica,Hyles livornica,Hyles livornica,"(Esper, [1804])",33,42,N
+4030,Species,Sphingidae,Deilephila elpenor,Deilephila elpenor,Deilephila elpenor,"(Linnaeus, 1758)",28,33,N
+4032,Species,Sphingidae,Deilephila porcellus,Deilephila porcellus,Deilephila porcellus,"(Linnaeus, 1758)",21,25,N
+4035,Species,Sphingidae,Hippotion celerio,Hippotion celerio,Hippotion celerio,"(Linnaeus, 1758)",33,35,N
+4042,Species,Geometridae,Idaea serpentata,Idaea serpentata,Idaea serpentata,"(Hufnagel, 1767)",10,11,N
+4044,Species,Geometridae,Idaea muricata,Idaea muricata,Idaea muricata,"(Hufnagel, 1767)",8,10,N
+4046,Species,Geometridae,Idaea ochrata,Idaea ochrata,Idaea ochrata,"(Scopoli, 1763)",10,12,N
+4048,Species,Geometridae,Idaea rusticata,Idaea rusticata,Idaea rusticata,"([Denis & Schiffermüller], 1775)",9,11,N
+4052,Species,Geometridae,Idaea dilutaria,Idaea dilutaria,Idaea dilutaria,"(Hübner, [1799])",8,10,N
+4056,Species,Geometridae,Idaea fuscovenosa,Idaea fuscovenosa,Idaea fuscovenosa,"(Goeze, 1781)",9,11,N
+4060,Species,Geometridae,Idaea humiliata,Idaea humiliata,Idaea humiliata,"(Hufnagel, 1767)",9,10,N
+4063,Species,Geometridae,Idaea seriata,Idaea seriata,Idaea seriata,"(Schrank, 1802)",9,11,N
+4067,Species,Geometridae,Idaea subsericeata,Idaea subsericeata,Idaea subsericeata,"(Haworth, 1809)",10,12,N
+4069,Species,Geometridae,Idaea sylvestraria,Idaea sylvestraria,Idaea sylvestraria,"(Hübner, [1799])",10,11,N
+4073,Species,Geometridae,Idaea dimidiata,Idaea dimidiata,Idaea dimidiata,"(Hufnagel, 1767)",9,11,N
+4076,Species,Geometridae,Idaea trigeminata,Idaea trigeminata,Idaea trigeminata,"(Haworth, 1809)",10,11,N
+4078,Species,Geometridae,Idaea biselata,Idaea biselata,Idaea biselata,"(Hufnagel, 1767)",10,11,N
+4081,Subspecies,Geometridae,Idaea contiguaria contiguaria,Idaea contiguaria,Idaea contiguaria,"(Hübner, [1799])",9,11,N
+4083,Subspecies,Geometridae,Idaea contiguaria britanniae,Idaea contiguaria,Idaea contiguaria,"(Müller, 1936)",9,11,N
+4085,Species,Geometridae,Idaea emarginata,Idaea emarginata,Idaea emarginata,"(Linnaeus, 1758)",11,13,N
+4087,Species,Geometridae,Idaea aversata,Idaea aversata,Idaea aversata,"(Linnaeus, 1758)",14,16,N
+4089,Species,Geometridae,Idaea degeneraria,Idaea degeneraria,Idaea degeneraria,"(Hübner, [1799])",13,15,N
+4091,Species,Geometridae,Idaea straminata,Idaea straminata,Idaea straminata,"(Borkhausen, 1794)",13,15,N
+4097,Species,Geometridae,Scopula immorata,Scopula immorata,Scopula immorata,"(Linnaeus, 1758)",11,14,N
+4099,Species,Geometridae,Scopula nigropunctata,Scopula nigropunctata,Scopula nigropunctata,"(Hufnagel, 1767)",14,16,N
+4103,Species,Geometridae,Scopula ornata,Scopula ornata,Scopula ornata,"(Scopoli, 1763)",12,13,N
+4105,Species,Geometridae,Scopula rubiginata,Scopula rubiginata,Scopula rubiginata,"(Hufnagel, 1767)",9,11,N
+4109,Species,Geometridae,Scopula marginepunctata,Scopula marginepunctata,Scopula marginepunctata,"(Goeze, 1781)",12,15,N
+4113,Species,Geometridae,Scopula imitaria,Scopula imitaria,Scopula imitaria,"(Hübner, [1799])",13,15,N
+4115,Species,Geometridae,Scopula immutata,Scopula immutata,Scopula immutata,"(Linnaeus, 1758)",12,13,N
+4117,Species,Geometridae,Scopula ternata,Scopula ternata,Scopula ternata,"Schrank, 1802",12,15,N
+4120,Subspecies,Geometridae,Scopula floslactata floslactata,Scopula floslactata,Scopula floslactata,"(Haworth, 1809)",13,16,N
+4124,Subspecies,Geometridae,Scopula lactata scotica,Scopula lactata,Scopula lactata,"Cockayne, 1951",13,16,N
+4125,Species,Geometridae,Scopula emutaria,Scopula emutaria,Scopula emutaria,"(Hübner, [1809])",11,13,N
+4129,Species,Geometridae,Timandra comae,Timandra comae,Timandra comae,"Schmidt, 1931",15,18,N
+4138,Species,Geometridae,Cyclophora pendularia,Cyclophora pendularia,Cyclophora pendularia,"(Clerck, 1759)",12,14,N
+4141,Species,Geometridae,Cyclophora annularia,Cyclophora annularia,Cyclophora annularia,"(Fabricius, 1775)",11,14,N
+4145,Species,Geometridae,Cyclophora albipunctata,Cyclophora albipunctata,Cyclophora albipunctata,"(Hufnagel, 1767)",12,14,N
+4148,Species,Geometridae,Cyclophora puppillaria,Cyclophora puppillaria,Cyclophora puppillaria,"(Hübner, [1799])",12,15,N
+4150,Species,Geometridae,Cyclophora ruficiliaria,Cyclophora ruficiliaria,Cyclophora ruficiliaria,"(Herrich-Schäffer, 1855)",12,16,N
+4153,Species,Geometridae,Cyclophora porata,Cyclophora porata,Cyclophora porata,"(Linnaeus, 1767)",12,14,N
+4155,Species,Geometridae,Cyclophora punctaria,Cyclophora punctaria,Cyclophora punctaria,"(Linnaeus, 1758)",13,16,N
+4159,Species,Geometridae,Cyclophora linearia,Cyclophora linearia,Cyclophora linearia,"(Hübner, [1799])",14,16,N
+4164,Species,Geometridae,Rhodometra sacraria,Rhodometra sacraria,Rhodometra sacraria,"(Linnaeus, 1767)",12,14,N
+4169,Species,Geometridae,Phibalapteryx virgata,Phibalapteryx virgata,Phibalapteryx virgata,"(Hufnagel, 1767)",10,12,N
+4174,Subspecies,Geometridae,Scotopteryx mucronata mucronata,Scotopteryx mucronata,Scotopteryx mucronata,"(Scopoli, 1763)",15,19,N
+4175,Subspecies,Geometridae,Scotopteryx mucronata umbrifera,Scotopteryx mucronata,Scotopteryx mucronata,"(Heydemann, 1925)",15,19,N
+4177,Subspecies,Geometridae,Scotopteryx mucronata scotica,Scotopteryx mucronata,Scotopteryx mucronata,"(Cockayne, 1940)",15,19,N
+4178,Subspecies,Geometridae,Scotopteryx luridata luridata,Scotopteryx luridata,Scotopteryx luridata,"(Hufnagel, 1767)",15,19,N
+4180,Subspecies,Geometridae,Scotopteryx luridata plumbaria,Scotopteryx luridata,Scotopteryx luridata,"(Fabricius, 1775)",15,19,N
+4182,Species,Geometridae,Scotopteryx peribolata,Scotopteryx peribolata,Scotopteryx peribolata,"(Hübner, [1817])",13,15,N
+4184,Subspecies,Geometridae,Scotopteryx bipunctaria bipunctaria,Scotopteryx bipunctaria,Scotopteryx bipunctaria,"([Denis & Schiffermüller], 1775)",15,18,N
+4185,Subspecies,Geometridae,Scotopteryx bipunctaria cretata,Scotopteryx bipunctaria,Scotopteryx bipunctaria,"(Prout, 1937)",15,18,N
+4187,Species,Geometridae,Scotopteryx moeniata,Scotopteryx moeniata,Scotopteryx moeniata,"(Scopoli, 1763)",17,22,N
+4189,Species,Geometridae,Scotopteryx chenopodiata,Scotopteryx chenopodiata,Scotopteryx chenopodiata,"(Linnaeus, 1758)",16,19,N
+4193,Species,Geometridae,Orthonama vittata,Orthonama vittata,Orthonama vittata,"(Borkhausen, 1794)",11,14,N
+4196,Species,Geometridae,Nycterosea obstipata,Nycterosea obstipata,Nycterosea obstipata,"(Fabricius, 1794)",12,14,N
+4200,Subspecies,Geometridae,Xanthorhoe decoloraria decoloraria,Xanthorhoe decoloraria,Xanthorhoe decoloraria,"(Esper, [1806])",12,15,N
+4203,Subspecies,Geometridae,Xanthorhoe decoloraria hethlandica,Xanthorhoe decoloraria,Xanthorhoe decoloraria,"(Prout, 1901)",12,15,N
+4204,Subspecies,Geometridae,Xanthorhoe fluctuata fluctuata,Xanthorhoe fluctuata,Xanthorhoe fluctuata,"(Linnaeus, 1758)",13,16,N
+4206,Subspecies,Geometridae,Xanthorhoe fluctuata thules,Xanthorhoe fluctuata,Xanthorhoe fluctuata,"(Prout, 1914)",13,16,N
+4207,Species,Geometridae,Xanthorhoe biriviata,Xanthorhoe biriviata,Xanthorhoe biriviata,"(Borkhausen, 1794)",12,14,N
+4209,Species,Geometridae,Xanthorhoe spadicearia,Xanthorhoe spadicearia,Xanthorhoe spadicearia,"([Denis & Schiffermüller], 1775)",12,13,N
+4213,Species,Geometridae,Xanthorhoe ferrugata,Xanthorhoe ferrugata,Xanthorhoe ferrugata,"(Clerck, 1759)",12,13,N
+4216,Species,Geometridae,Xanthorhoe designata,Xanthorhoe designata,Xanthorhoe designata,"(Hufnagel, 1767)",11,14,N
+4219,Subspecies,Geometridae,Xanthorhoe montanata montanata,Xanthorhoe montanata,Xanthorhoe montanata,"([Denis & Schiffermüller], 1775)",14,17,N
+4221,Subspecies,Geometridae,Xanthorhoe montanata shetlandica,Xanthorhoe montanata,Xanthorhoe montanata,"(Weir, 1880)",14,17,N
+4222,Species,Geometridae,Xanthorhoe quadrifasiata,Xanthorhoe quadrifasiata,Xanthorhoe quadrifasiata,"(Clerck, 1759)",14,16,N
+4226,Species,Geometridae,Catarhoe cuculata,Catarhoe cuculata,Catarhoe cuculata,"(Hufnagel, 1767)",12,14,N
+4229,Species,Geometridae,Catarhoe rubidata,Catarhoe rubidata,Catarhoe rubidata,"([Denis & Schiffermüller], 1775)",13,15,N
+4232,Species,Geometridae,Costaconvexa polygrammata,Costaconvexa polygrammata,Costaconvexa polygrammata,"(Borkhausen, 1794)",11,12,N
+4235,Species,Geometridae,Camptogramma bilineata,Camptogramma bilineata,Camptogramma bilineata,"(Linnaeus, 1758)",13,16,N
+4241,Species,Geometridae,Epirrhoe tristata,Epirrhoe tristata,Epirrhoe tristata,"(Linnaeus, 1758)",11,13,N
+4243,Subspecies,Geometridae,Epirrhoe alternata alternata,Epirrhoe alternata,Epirrhoe alternata,"(Müller, 1764)",13,14,N
+4248,Subspecies,Geometridae,Epirrhoe alternata obscurata,Epirrhoe alternata,Epirrhoe alternata,"(South, 1888)",13,14,N
+4249,Species,Geometridae,Epirrhoe rivata,Epirrhoe rivata,Epirrhoe rivata,"(Hübner, [1813])",14,16,N
+4251,Species,Geometridae,Epirrhoe galiata,Epirrhoe galiata,Epirrhoe galiata,"([Denis & Schiffermüller], 1775)",13,15,N
+4255,Species,Geometridae,Euphyia biangulata,Euphyia biangulata,Euphyia biangulata,"(Haworth, 1809)",14,17,N
+4258,Species,Geometridae,Euphyia unangulata,Euphyia unangulata,Euphyia unangulata,"(Haworth, 1809)",13,15,N
+4262,Species,Geometridae,Earophila badiata,Earophila badiata,Anticlea badiata,"([Denis & Schiffermüller], 1775)",14,18,N
+4265,Species,Geometridae,Anticlea derivata,Anticlea derivata,Anticlea derivata,"([Denis & Schiffermüller], 1775)",14,16,N
+4269,Species,Geometridae,Mesoleuca albicillata,Mesoleuca albicillata,Mesoleuca albicillata,"(Linnaeus, 1758)",15,18,N
+4272,Species,Geometridae,Pelurga comitata,Pelurga comitata,Pelurga comitata,"(Linnaeus, 1758)",16,18,N
+4275,Species,Geometridae,Larentia clavaria,Larentia clavaria,Larentia clavaria,"(Haworth, 1809)",19,22,N
+4280,Subspecies,Geometridae,Entephria flavicinctata flavicinctata,Entephria flavicinctata,Entephria flavicinctata,"(Hübner, [1813])",17,18,N
+4282,Subspecies,Geometridae,Entephria flavicinctata ruficinctata,Entephria flavicinctata,Entephria flavicinctata,"(Guenée, 1858)",17,18,N
+4283,Species,Geometridae,Entephria caesiata,Entephria caesiata,Entephria caesiata,"([Denis & Schiffermüller], 1775)",16,19,N
+4285,Subspecies,Geometridae,Entephria caesiata hethlandicaria,Entephria caesiata,Entephria caesiata,"(Bang-Haas, 1910)",16,19,N
+4287,Species,Geometridae,Spargania luctuata,Spargania luctuata,Spargania luctuata,"([Denis & Schiffermüller], 1775)",14,15,N
+4292,Species,Geometridae,Hydriomena furcata,Hydriomena furcata,Hydriomena furcata,"(Thunberg, 1784)",14,18,N
+4296,Species,Geometridae,Hydriomena impluviata,Hydriomena impluviata,Hydriomena impluviata,"([Denis & Schiffermüller], 1775)",13,16,N
+4300,Species,Geometridae,Hydriomena ruberata,Hydriomena ruberata,Hydriomena ruberata,"(Freyer, [1831])",14,17,N
+4305,Species,Geometridae,Pennithera firmata,Pennithera firmata,Pennithera firmata,"(Hübner, [1822])",13,16,N
+4309,Species,Geometridae,Thera cognata,Thera cognata,Thera cognata,"(Thunberg, 1792)",11,14,N
+4313,Species,Geometridae,Thera britannica,Thera britannica,Thera britannica,"(Turner, 1925)",13,17,N
+4316,Species,Geometridae,Thera vetustata,Thera vetustata,Thera vetustata,"([Denis & Schiffermüller], 1775)",12,14,N
+4318,Species,Geometridae,Thera obeliscata,Thera obeliscata,Thera obeliscata,"(Hübner, [1787])",13,17,N
+4322,Subspecies,Geometridae,Thera juniperata juniperata,Thera juniperata,Thera juniperata,"(Linnaeus, 1758)",11,14,N
+4324,Subspecies,Geometridae,Thera juniperata scotica,Thera juniperata,Thera juniperata,"White, 1871",11,14,N
+4325,Subspecies,Geometridae,Thera juniperata orcadensis,Thera juniperata,Thera juniperata,"Cockayne, 1950",11,14,N
+4326,Species,Geometridae,Thera cupressata,Thera cupressata,Thera cupressata,"(Geyer, [1831])",12,15,N
+4329,Subspecies,Geometridae,Plemyria rubiginata rubiginata,Plemyria rubiginata,Plemyria rubiginata,"([Denis & Schiffermüller], 1775)",12,15,N
+4332,Subspecies,Geometridae,Plemyria rubiginata plumbata,Plemyria rubiginata,Plemyria rubiginata,"(Curtis, 1837)",12,15,N
+4334,Species,Geometridae,Cidaria fulvata,Cidaria fulvata,Cidaria fulvata,"(Forster, 1771)",12,14,N
+4337,Species,Geometridae,Electrophaes corylata,Electrophaes corylata,Electrophaes corylata,"(Thunberg, 1792)",14,16,N
+4340,Species,Geometridae,Cosmorhoe ocellata,Cosmorhoe ocellata,Cosmorhoe ocellata,"(Linnaeus, 1758)",13,15,N
+4343,Species,Geometridae,Eustroma reticulata,Eustroma reticulata,Eustroma reticulata,"([Denis & Schiffermüller], 1775)",13,14,N
+4346,Species,Geometridae,Eulithis prunata,Eulithis prunata,Eulithis prunata,"(Linnaeus, 1758)",17,19,N
+4348,Species,Geometridae,Eulithis testata,Eulithis testata,Eulithis testata,"(Linnaeus, 1761)",13,19,N
+4350,Species,Geometridae,Eulithis populata,Eulithis populata,Eulithis populata,"(Linnaeus, 1758)",13,18,N
+4353,Species,Geometridae,Eulithis mellinata,Eulithis mellinata,Eulithis mellinata,"(Fabricius, 1787)",16,18,N
+4357,Species,Geometridae,Gandaritis pyraliata,Gandaritis pyraliata,Eulithis pyraliata,"([Denis & Schiffermüller], 1775)",15,18,N
+4360,Species,Geometridae,Ecliptopera silaceata,Ecliptopera silaceata,Ecliptopera silaceata,"([Denis & Schiffermüller], 1775)",13,17,N
+4363,Species,Geometridae,Chloroclysta siterata,Chloroclysta siterata,Chloroclysta siterata,"(Hufnagel, 1767)",14,17,N
+4366,Species,Geometridae,Chloroclysta miata,Chloroclysta miata,Chloroclysta miata,"(Linnaeus, 1758)",15,17,N
+4369,Subspecies,Geometridae,Dysstroma truncata truncata,Dysstroma truncata,Chloroclysta truncata,"(Hufnagel, 1767)",14,19,N
+4372,Subspecies,Geometridae,Dysstroma truncata concinnata,Dysstroma truncata,Chloroclysta truncata,"(Stephens, 1831)",14,19,N
+4374,Subspecies,Geometridae,Dysstroma citrata citrata,Dysstroma citrata,Dysstroma citrata,"(Linnaeus, 1761)",14,19,N
+4377,Subspecies,Geometridae,Dysstroma citrata pythonissata,Dysstroma citrata,Dysstroma citrata,"(Millière, 1870)",14,19,N
+4379,Species,Geometridae,Colostygia olivata,Colostygia olivata,Colostygia olivata,"([Denis & Schiffermüller], 1775)",13,15,N
+4382,Species,Geometridae,Colostygia pectinataria,Colostygia pectinataria,Colostygia pectinataria,"(Knoch, 1781)",12,15,N
+4386,Species,Geometridae,Colostygia multistrigaria,Colostygia multistrigaria,Colostygia multistrigaria,"(Haworth, 1809)",13,17,N
+4389,Subspecies,Geometridae,Coenotephria salicata salicata,Coenotephria salicata,Coenotephria salicata,"(Hübner, [1799])",12,15,N
+4391,Subspecies,Geometridae,Coenotephria salicata latentaria,Coenotephria salicata,Coenotephria salicata,"(Curtis, 1830)",12,15,N
+4394,Species,Geometridae,Lampropteryx suffumata,Lampropteryx suffumata,Lampropteryx suffumata,"([Denis & Schiffermüller], 1775)",14,17,N
+4397,Species,Geometridae,Lampropteryx otregiata,Lampropteryx otregiata,Lampropteryx otregiata,"(Metcalfe, 1917)",12,14,N
+4401,Species,Geometridae,Operophtera fagata,Operophtera fagata,Operophtera fagata,"(Scharfenberg, 1805)",14,18,N
+4404,Species,Geometridae,Operophtera brumata,Operophtera brumata,Operophtera brumata,"(Linnaeus, 1758)",13,16,N
+4407,Species,Geometridae,Epirrita dilutata,Epirrita dilutata,Epirrita dilutata,"([Denis & Schiffermüller], 1775)",15,20,N
+4409,Species,Geometridae,Epirrita christyi,Epirrita christyi,Epirrita christyi,"(Allen, 1906)",15,20,N
+4411,Species,Geometridae,Epirrita autumnata,Epirrita autumnata,Epirrita autumnata,"(Borkhausen, 1794)",16,20,N
+4414,Species,Geometridae,Epirrita filigrammaria,Epirrita filigrammaria,Epirrita filigrammaria,"(Herrich-Schäffer, 1846)",14,18,N
+4418,Species,Geometridae,Asthena albulata,Asthena albulata,Asthena albulata,"(Hufnagel, 1767)",9,11,N
+4422,Species,Geometridae,Euchoeca nebulata,Euchoeca nebulata,Euchoeca nebulata,"(Scopoli, 1763)",9,12,N
+4427,Species,Geometridae,Hydrelia sylvata,Hydrelia sylvata,Hydrelia sylvata,"([Denis & Schiffermüller], 1775)",11,13,N
+4430,Species,Geometridae,Hydrelia flammeolaria,Hydrelia flammeolaria,Hydrelia flammeolaria,"(Hufnagel, 1767)",9,11,N
+4434,Species,Geometridae,Venusia cambrica,Venusia cambrica,Venusia cambrica,"Curtis, 1839",13,15,N
+4437,Species,Geometridae,Venusia blomeri,Venusia blomeri,Venusia blomeri,"(Curtis, 1832)",10,13,N
+4440,Species,Geometridae,Minoa murinata,Minoa murinata,Minoa murinata,"(Scopoli, 1763)",9,11,N
+4445,Species,Geometridae,Philereme vetulata,Philereme vetulata,Philereme vetulata,"([Denis & Schiffermüller], 1775)",13,16,N
+4447,Subspecies,Geometridae,Philereme transversata transversata,Philereme transversata,Philereme transversata,"(Hufnagel, 1767)",17,20,N
+4449,Subspecies,Geometridae,Philereme transversata britannica,Philereme transversata,Philereme transversata,"(Lempke, 1968)",17,20,N
+4453,Subspecies,Geometridae,Rheumaptera hastata hastata,Rheumaptera hastata,Rheumaptera hastata,"(Linnaeus, 1758)",16,19,N
+4455,Subspecies,Geometridae,Rheumaptera hastata nigrescens,Rheumaptera hastata,Rheumaptera hastata,"(Cockerell, 1889)",13,15,N
+4457,Species,Geometridae,Hydria undulata,Hydria undulata,Hydria undulata,"(Linnaeus, 1758)",16,19,N
+4459,Species,Geometridae,Hydria cervinalis,Hydria cervinalis,Hydria cervinalis,"(Scopoli, 1763)",19,22,N
+4463,Species,Geometridae,Triphosa dubitata,Triphosa dubitata,Triphosa dubitata,"(Linnaeus, 1758)",19,22,N
+4466,Species,Geometridae,Pareulype berberata,Pareulype berberata,Pareulype berberata,"([Denis & Schiffermüller], 1775)",13,15,N
+4470,Species,Geometridae,Coenocalpe lapidata,Coenocalpe lapidata,Coenocalpe lapidata,"(Hübner, [1809])",13,16,N
+4473,Species,Geometridae,Horisme vitalbata,Horisme vitalbata,Horisme vitalbata,"([Denis & Schiffermüller], 1775)",14,17,N
+4475,Species,Geometridae,Horisme tersata,Horisme tersata,Horisme tersata,"([Denis & Schiffermüller], 1775)",14,18,N
+4478,Species,Geometridae,Melanthia procellata,Melanthia procellata,Melanthia procellata,"([Denis & Schiffermüller], 1775)",16,18,N
+4481,Species,Geometridae,Anticollix sparsata,Anticollix sparsata,Anticollix sparsata,"(Treitschke, 1828)",11,13,N
+4486,Species,Geometridae,Odezia atrata,Odezia atrata,Odezia atrata,"(Linnaeus, 1758)",12,15,N
+4490,Subspecies,Geometridae,Carsia sororiata sororiata,Carsia sororiata,Carsia sororiata,"(Hübner, [1813])",11,15,N
+4493,Subspecies,Geometridae,Carsia sororiata anglica,Carsia sororiata,Carsia sororiata,"Prout, 1937",11,15,N
+4496,Subspecies,Geometridae,Aplocera plagiata plagiata,Aplocera plagiata,Aplocera plagiata,"(Linnaeus, 1758)",19,22,N
+4498,Subspecies,Geometridae,Aplocera plagiata scotica,Aplocera plagiata,Aplocera plagiata,"(Richardson, 1952)",19,22,N
+4499,Species,Geometridae,Aplocera efformata,Aplocera efformata,Aplocera efformata,"(Guenée, [1858])",16,19,N
+4501,Species,Geometridae,Aplocera praeformata,Aplocera praeformata,Aplocera praeformata,"(Hübner, [1826])",20,25,N
+4504,Species,Geometridae,Chesias legatella,Chesias legatella,Chesias legatella,"([Denis & Schiffermüller], 1775)",17,19,N
+4507,Subspecies,Geometridae,Chesias rufata rufata,Chesias rufata,Chesias rufata,"(Fabricius, 1775)",14,16,N
+4509,Subspecies,Geometridae,Chesias rufata scotica,Chesias rufata,Chesias rufata,"(Richardson, 1952)",14,16,N
+4511,Species,Geometridae,Lithostege griseata,Lithostege griseata,Lithostege griseata,"([Denis & Schiffermüller], 1775)",14,16,N
+4516,Subspecies,Geometridae,Mesotype didymata didymata,Mesotype didymata,Perizoma didymata,"(Linnaeus, 1758)",11,15,N
+4518,Subspecies,Geometridae,Mesotype didymata hethlandica,Mesotype didymata,Perizoma didymata,"(Rebel, 1910)",11,15,N
+4520,Species,Geometridae,Perizoma affinitata,Perizoma affinitata,Perizoma affinitata,"(Stephens, 1831)",12,15,N
+4522,Species,Geometridae,Perizoma alchemillata,Perizoma alchemillata,Perizoma alchemillata,"(Linnaeus, 1758)",9,11,N
+4524,Species,Geometridae,Perizoma bifaciata,Perizoma bifaciata,Perizoma bifaciata,"(Haworth, 1809)",9,11,N
+4527,Subspecies,Geometridae,Perizoma minorata minorata,Perizoma minorata,Perizoma minorata,"(Treitschke, 1828)",8,10,N
+4529,Subspecies,Geometridae,Perizoma minorata ericetata,Perizoma minorata,Perizoma minorata,"(Stephens, 1831)",8,10,N
+4531,Subspecies,Geometridae,Perizoma blandiata blandiata,Perizoma blandiata,Perizoma blandiata,"([Denis & Schiffermüller], 1775)",9,11,N
+4534,Subspecies,Geometridae,Perizoma blandiata perfasciata,Perizoma blandiata,Perizoma blandiata,"(Prout, 1914)",9,11,N
+4535,Subspecies,Geometridae,Perizoma albulata albulata,Perizoma albulata,Perizoma albulata,"([Denis & Schiffermüller], 1775)",10,12,N
+4537,Subspecies,Geometridae,Perizoma albulata subfasciaria,Perizoma albulata,Perizoma albulata,"(Boheman, 1853)",10,12,N
+4538,Species,Geometridae,Perizoma flavofasciata,Perizoma flavofasciata,Perizoma flavofasciata,"(Thunberg, 1792)",11,14,N
+4542,Species,Geometridae,Martania taeniata,Martania taeniata,Martania taeniata,"(Stephens, 1831)",11,12,N
+4545,Species,Geometridae,Gagitodes sagittata,Gagitodes sagittata,Gagitodes sagittata,"(Fabricius, 1787)",13,17,N
+4549,Species,Geometridae,Gymnoscelis rufifasciata,Gymnoscelis rufifasciata,Gymnoscelis rufifasciata,"(Haworth, 1809)",8,10,N
+4553,Species,Geometridae,Chloroclystis v-ata,Chloroclystis v-ata,Chloroclystis v-ata,"(Haworth, 1809)",8,11,N
+4557,Species,Geometridae,Pasiphila chloerata,Pasiphila chloerata,Pasiphila chloerata,"(Mabille, 1870)",9,10,N
+4559,Species,Geometridae,Pasiphila rectangulata,Pasiphila rectangulata,Pasiphila rectangulata,"(Linnaeus, 1758)",8,11,N
+4561,Species,Geometridae,Pasiphila debiliata,Pasiphila debiliata,Pasiphila debiliata,"(Hübner, [1817])",9,11,N
+4565,Species,Geometridae,Eupithecia haworthiata,Eupithecia haworthiata,Eupithecia haworthiata,"Doubleday, 1856",8,9,N
+4568,Species,Geometridae,Eupithecia tenuiata,Eupithecia tenuiata,Eupithecia tenuiata,"(Hübner, [1813])",8,10,N
+4570,Species,Geometridae,Eupithecia inturbata,Eupithecia inturbata,Eupithecia inturbata,"(Hübner, [1817])",8,10,N
+4573,Species,Geometridae,Eupithecia abietaria,Eupithecia abietaria,Eupithecia abietaria,"(Goeze, 1781)",11,15,N
+4577,Species,Geometridae,Eupithecia linariata,Eupithecia linariata,Eupithecia linariata,"([Denis & Schiffermüller], 1775)",9,10,N
+4579,Species,Geometridae,Eupithecia pulchellata,Eupithecia pulchellata,Eupithecia pulchellata,"Stephens, 1831",10,12,N
+4582,Species,Geometridae,Eupithecia ultimaria,Eupithecia ultimaria,Eupithecia ultimaria,"Boisduval, 1840",7,10,N
+4584,Species,Geometridae,Eupithecia plumbeolata,Eupithecia plumbeolata,Eupithecia plumbeolata,"(Haworth, 1809)",9,10,N
+4586,Species,Geometridae,Eupithecia pygmaeata,Eupithecia pygmaeata,Eupithecia pygmaeata,"(Hübner, [1799])",8,9,N
+4588,Subspecies,Geometridae,Eupithecia venosata venosata,Eupithecia venosata,Eupithecia venosata,"(Fabricius, 1787)",10,14,N
+4590,Subspecies,Geometridae,Eupithecia venosata ochracae,Eupithecia venosata,Eupithecia venosata,"Gregson, 1886",10,14,N
+4591,Subspecies,Geometridae,Eupithecia venosata fumosae,Eupithecia venosata,Eupithecia venosata,"Gregson, 1887",10,14,N
+4592,Subspecies,Geometridae,Eupithecia venosata hebridensis,Eupithecia venosata,Eupithecia venosata,"Curtis, 1944",10,14,N
+4593,Subspecies,Geometridae,Eupithecia venosata plumbea,Eupithecia venosata,Eupithecia venosata,"Huggins, 1962",10,14,N
+4594,Species,Geometridae,Eupithecia abbreviata,Eupithecia abbreviata,Eupithecia abbreviata,"Stephens, 1831",10,12,N
+4596,Species,Geometridae,Eupithecia dodoneata,Eupithecia dodoneata,Eupithecia dodoneata,"Guenée, [1858]",8,11,N
+4598,Species,Geometridae,Eupithecia pusillata,Eupithecia pusillata,Eupithecia pusillata,"([Denis & Schiffermüller], 1775)",9,11,N
+4605,Species,Geometridae,Eupithecia phoeniceata,Eupithecia phoeniceata,Eupithecia phoeniceata,"(Rambur, 1834)",10,11,N
+4607,Species,Geometridae,Eupithecia tripunctaria,Eupithecia tripunctaria,Eupithecia tripunctaria,"Herrich-Schäffer, 1852",10,12,N
+4610,Species,Geometridae,Eupithecia virgaureata,Eupithecia virgaureata,Eupithecia virgaureata,"Doubleday, 1861",10,11,N
+4612,Species,Geometridae,Eupithecia tantillaria,Eupithecia tantillaria,Eupithecia tantillaria,"Boisduval, 1840",9,11,N
+4614,Species,Geometridae,Eupithecia lariciata,Eupithecia lariciata,Eupithecia lariciata,"(Freyer, 1841)",10,12,N
+4616,Species,Geometridae,Eupithecia egenaria,Eupithecia egenaria,Eupithecia egenaria,"Herrich-Schäffer, 1848",11,13,N
+4618,Species,Geometridae,Eupithecia pimpinellata,Eupithecia pimpinellata,Eupithecia pimpinellata,"(Hübner, [1813])",11,12,N
+4620,Species,Geometridae,Eupithecia simpliciata,Eupithecia simpliciata,Eupithecia simpliciata,"(Haworth, 1809)",11,13,N
+4622,Species,Geometridae,Eupithecia sinuosaria,Eupithecia sinuosaria,Eupithecia sinuosaria,"(Eversmann, 1848)",10,12,N
+4624,Species,Geometridae,Eupithecia nanata,Eupithecia nanata,Eupithecia nanata angusta,"(Hübner, [1813])",9,12,N
+4626,Species,Geometridae,Eupithecia innotata,Eupithecia innotata,Eupithecia innotata,"(Hufnagel, 1767)",10,12,N
+4630,Species,Geometridae,Eupithecia irriguata,Eupithecia irriguata,Eupithecia irriguata,"(Hübner, [1813])",9,11,N
+4632,Species,Geometridae,Eupithecia indigata,Eupithecia indigata,Eupithecia indigata,"(Hübner, [1813])",8,10,N
+4634,Species,Geometridae,Eupithecia distinctaria,Eupithecia distinctaria,Eupithecia distinctaria,"Herrich-Schäffer, 1848",8,10,N
+4638,Species,Geometridae,Eupithecia centaureata,Eupithecia centaureata,Eupithecia centaureata,"([Denis & Schiffermüller], 1775)",10,12,N
+4641,Species,Geometridae,Eupithecia insigniata,Eupithecia insigniata,Eupithecia insigniata,"(Hübner, 1790)",10,12,N
+4644,Species,Geometridae,Eupithecia trisignaria,Eupithecia trisignaria,Eupithecia trisignaria,"Herrich-Schäffer, 1848",10,11,N
+4646,Subspecies,Geometridae,Eupithecia intricata intricata,Eupithecia intricata,Eupithecia intricata,"(Zetterstedt, 1839)",12,13,N
+4651,Subspecies,Geometridae,Eupithecia intricata hibernica,Eupithecia intricata,Eupithecia intricata,"Mere, 1964",12,13,N
+4653,Subspecies,Geometridae,Eupithecia satyrata satyrata,Eupithecia satyrata,Eupithecia satyrata,"(Hübner, [1813])",9,13,N
+4656,Subspecies,Geometridae,Eupithecia satyrata curzoni,Eupithecia satyrata,Eupithecia satyrata,"Gregson, 1884",9,13,N
+4657,Subspecies,Geometridae,Eupithecia extensaria extensaria,Eupithecia extensaria,Eupithecia extensaria,"(Freyer, 1844)",11,13,N
+4658,Subspecies,Geometridae,Eupithecia extensaria occidua,Eupithecia extensaria,Eupithecia extensaria,"Prout, 1914",11,13,N
+4660,Species,Geometridae,Eupithecia absinthiata,Eupithecia absinthiata,Eupithecia absinthiata,"(Clerck, 1759)",11,13,N
+4667,Species,Geometridae,Eupithecia expallidata,Eupithecia expallidata,Eupithecia expallidata,"Doubleday, 1856",12,13,N
+4669,Species,Geometridae,Eupithecia valerianata,Eupithecia valerianata,Eupithecia valerianata,"(Hübner, [1813])",8,10,N
+4671,Species,Geometridae,Eupithecia assimilata,Eupithecia assimilata,Eupithecia assimilata,"Doubleday, 1856",9,12,N
+4673,Species,Geometridae,Eupithecia vulgata,Eupithecia vulgata,Eupithecia vulgata,"(Haworth, 1809)",10,12,N
+4677,Species,Geometridae,Eupithecia exiguata,Eupithecia exiguata,Eupithecia exiguata,"(Hübner, [1813])",11,12,N
+4680,Subspecies,Geometridae,Eupithecia denotata denotata,Eupithecia denotata,Eupithecia denotata,"(Hübner, [1813])",11,13,N
+4684,Species,Geometridae,Eupithecia millefoliata,Eupithecia millefoliata,Eupithecia millefoliata,"Rössler, 1866",12,13,N
+4686,Species,Geometridae,Eupithecia icterata,Eupithecia icterata,Eupithecia icterata,"(Villers, 1789)",11,13,N
+4690,Species,Geometridae,Eupithecia succenturiata,Eupithecia succenturiata,Eupithecia succenturiata,"(Linnaeus, 1758)",12,13,N
+4692,Species,Geometridae,Eupithecia subumbrata,Eupithecia subumbrata,Eupithecia subumbrata,"([Denis & Schiffermüller], 1775)",10,12,N
+4695,Species,Geometridae,Eupithecia subfuscata,Eupithecia subfuscata,Eupithecia subfuscata,"(Haworth, 1809)",10,12,N
+4700,Species,Geometridae,Lobophora halterata,Lobophora halterata,Lobophora halterata,"(Hufnagel, 1767)",12,15,N
+4704,Species,Geometridae,Pterapherapteryx sexalata,Pterapherapteryx sexalata,Pterapherapteryx sexalata,"(Retzius, 1783)",9,12,N
+4708,Species,Geometridae,Acasis viretata,Acasis viretata,Acasis viretata,"(Hübner, [1799])",10,14,N
+4711,Species,Geometridae,Trichopteryx polycommata,Trichopteryx polycommata,Trichopteryx polycommata,"([Denis & Schiffermüller], 1775)",14,17,N
+4713,Species,Geometridae,Trichopteryx carpinata,Trichopteryx carpinata,Trichopteryx carpinata,"(Borkhausen, 1794)",13,18,N
+4718,Species,Geometridae,Archiearis parthenias,Archiearis parthenias,Archiearis parthenias,"(Linnaeus, 1761)",16,19,N
+4721,Species,Geometridae,Boudinotiana notha,Boudinotiana notha,Boudinotiana notha,"(Hübner, [1803])",15,17,N
+4727,Species,Geometridae,Abraxas grossulariata,Abraxas grossulariata,Abraxas grossulariata,"(Linnaeus, 1758)",18,25,N
+4730,Species,Geometridae,Abraxas sylvata,Abraxas sylvata,Abraxas sylvata,"(Scopoli, 1763)",18,22,N
+4735,Species,Geometridae,Lomaspilis marginata,Lomaspilis marginata,Lomaspilis marginata,"(Linnaeus, 1758)",11,14,N
+4738,Species,Geometridae,Ligdia adustata,Ligdia adustata,Ligdia adustata,"([Denis & Schiffermüller], 1775)",12,14,N
+4741,Species,Geometridae,Stegania cararia,Stegania cararia,Stegania cararia,"(Hübner, 1790)",10,12,N
+4743,Species,Geometridae,Stegania trimaculata,Stegania trimaculata,Stegania trimaculata,"(Villers, 1789)",10,13,N
+4747,Species,Geometridae,Macaria notata,Macaria notata,Macaria notata,"(Linnaeus, 1758)",14,16,N
+4749,Species,Geometridae,Macaria alternata,Macaria alternata,Macaria alternata,"([Denis & Schiffermüller], 1775)",13,15,N
+4752,Species,Geometridae,Macaria signaria,Macaria signaria,Macaria signaria,"(Hübner, [1809])",13,14,N
+4754,Species,Geometridae,Macaria liturata,Macaria liturata,Macaria liturata,"(Clerck, 1759)",14,17,N
+4756,Species,Geometridae,Macaria wauaria,Macaria wauaria,Macaria wauaria,"(Linnaeus, 1758)",14,17,N
+4759,Species,Geometridae,Macaria carbonaria,Macaria carbonaria,Macaria carbonaria,"(Clerck, 1759)",10,11,N
+4761,Species,Geometridae,Macaria brunneata,Macaria brunneata,Macaria brunneata,"(Thunberg, 1784)",11,13,N
+4764,Subspecies,Geometridae,Chiasmia clathrata clathrata,Chiasmia clathrata,Chiasmia clathrata,"(Linnaeus, 1758)",11,15,N
+4766,Subspecies,Geometridae,Chiasmia clathrata hugginsi,Chiasmia clathrata,Chiasmia clathrata,"(Baynes, 1959)",11,15,N
+4767,Species,Geometridae,Chiasmia aestimaria,Chiasmia aestimaria,Chiasmia aestimaria,"(Hübner, [1809])",11,14,N
+4770,Species,Geometridae,Isturgia limbaria,Isturgia limbaria,Isturgia limbaria,"(Fabricius, 1775)",13,15,N
+4775,Species,Geometridae,Cepphis advenaria,Cepphis advenaria,Cepphis advenaria,"(Hübner, 1790)",14,17,N
+4778,Species,Geometridae,Petrophora chlorosata,Petrophora chlorosata,Petrophora chlorosata,"(Scopoli, 1763)",15,18,N
+4783,Species,Geometridae,Plagodis pulveraria,Plagodis pulveraria,Plagodis pulveraria,"(Linnaeus, 1758)",17,19,N
+4785,Species,Geometridae,Plagodis dolabraria,Plagodis dolabraria,Plagodis dolabraria,"(Linnaeus, 1767)",16,19,N
+4789,Species,Geometridae,Pachycnemia hippocastanaria,Pachycnemia hippocastanaria,Pachycnemia hippocastanaria,"(Hübner, [1799])",14,16,N
+4793,Species,Geometridae,Opisthograptis luteolata,Opisthograptis luteolata,Opisthograptis luteolata,"(Linnaeus, 1758)",14,21,N
+4797,Species,Geometridae,Epione repandaria,Epione repandaria,Epione repandaria,"(Hufnagel, 1767)",13,16,N
+4800,Species,Geometridae,Epione vespertaria,Epione vespertaria,Epione vespertaria,"(Linnaeus, 1767)",12,14,N
+4804,Species,Geometridae,Pseudopanthera macularia,Pseudopanthera macularia,Pseudopanthera macularia,"(Linnaeus, 1758)",13,15,N
+4809,Species,Geometridae,Angerona prunaria,Angerona prunaria,Angerona prunaria,"(Linnaeus, 1758)",20,30,N
+4813,Species,Geometridae,Apeira syringaria,Apeira syringaria,Apeira syringaria,"(Linnaeus, 1758)",19,22,N
+4816,Species,Geometridae,Ennomos autumnaria,Ennomos autumnaria,Ennomos autumnaria,"(Werneburg, 1859)",21,28,N
+4819,Species,Geometridae,Ennomos quercinaria,Ennomos quercinaria,Ennomos quercinaria,"(Hufnagel, 1767)",18,22,N
+4822,Species,Geometridae,Ennomos alniaria,Ennomos alniaria,Ennomos alniaria,"(Linnaeus, 1758)",16,20,N
+4825,Species,Geometridae,Ennomos fuscantaria,Ennomos fuscantaria,Ennomos fuscantaria,"(Haworth, 1809)",17,21,N
+4827,Species,Geometridae,Ennomos erosaria,Ennomos erosaria,Ennomos erosaria,"([Denis & Schiffermüller], 1775)",17,21,N
+4832,Species,Geometridae,Selenia dentaria,Selenia dentaria,Selenia dentaria,"(Fabricius, 1775)",14,23,N
+4836,Species,Geometridae,Selenia lunularia,Selenia lunularia,Selenia lunularia,"(Hübner, [1788])",16,22,N
+4839,Species,Geometridae,Selenia tetralunaria,Selenia tetralunaria,Selenia tetralunaria,"(Hufnagel, 1767)",17,23,N
+4845,Species,Geometridae,Odontopera bidentata,Odontopera bidentata,Odontopera bidentata,"(Clerck, 1759)",20,24,N
+4848,Species,Geometridae,Crocallis elinguaria,Crocallis elinguaria,Crocallis elinguaria,"(Linnaeus, 1758)",18,22,N
+4850,Species,Geometridae,Crocallis dardoinaria,Crocallis dardoinaria,Crocallis dardoinaria,"Donzel, 1840",18,24,N
+4854,Species,Geometridae,Ourapteryx sambucaria,Ourapteryx sambucaria,Ourapteryx sambucaria,"(Linnaeus, 1758)",22,30,N
+4859,Species,Geometridae,Colotois pennaria,Colotois pennaria,Colotois pennaria,"(Linnaeus, 1761)",19,23,N
+4862,Species,Geometridae,Alsophila aescularia,Alsophila aescularia,Alsophila aescularia,"([Denis & Schiffermüller], 1775)",16,19,N
+4866,Species,Geometridae,Apocheima hispidaria,Apocheima hispidaria,Apocheima hispidaria,"([Denis & Schiffermüller], 1775)",15,17,N
+4869,Species,Geometridae,Phigalia pilosaria,Phigalia pilosaria,Phigalia pilosaria,"([Denis & Schiffermüller], 1775)",19,24,N
+4873,Species,Geometridae,Lycia hirtaria,Lycia hirtaria,Lycia hirtaria,"(Clerck, 1759)",19,23,N
+4875,Subspecies,Geometridae,Lycia lapponaria lapponaria,Lycia lapponaria,Lycia lapponaria,"(Boisduval, 1840)",14,16,N
+4876,Subspecies,Geometridae,Lycia lapponaria scotica,Lycia lapponaria,Lycia lapponaria,"(Harrison, 1916)",14,16,N
+4878,Subspecies,Geometridae,Lycia zonaria zonaria,Lycia zonaria,Lycia zonaria,"([Denis & Schiffermüller], 1775)",13,16,N
+4879,Subspecies,Geometridae,Lycia zonaria britannica,Lycia zonaria ,Lycia zonaria ,"(Harrison, 1912)",13,16,N
+4881,Subspecies,Geometridae,Lycia zonaria atlantica,Lycia zonaria,Lycia zonaria,"(Harrison, 1938)",13,16,N
+4883,Species,Geometridae,Biston strataria,Biston strataria,Biston strataria,"(Hufnagel, 1767)",17,27,N
+4886,Species,Geometridae,Biston betularia,Biston betularia,Biston betularia,"(Linnaeus, 1758)",22,28,N
+4889,Species,Geometridae,Agriopis leucophaearia,Agriopis leucophaearia,Agriopis leucophaearia,"([Denis & Schiffermüller], 1775)",14,17,N
+4891,Species,Geometridae,Agriopis aurantiaria,Agriopis aurantiaria,Agriopis aurantiaria,"(Hübner, [1799])",17,21,N
+4893,Species,Geometridae,Agriopis marginaria,Agriopis marginaria,Agriopis marginaria,"(Fabricius, [1777])",16,20,N
+4897,Species,Geometridae,Erannis defoliaria,Erannis defoliaria,Erannis defoliaria,"(Clerck, 1759)",18,25,N
+4901,Species,Geometridae,Menophra abruptaria,Menophra abruptaria,Menophra abruptaria,"(Thunberg, 1792)",18,21,N
+4904,Species,Geometridae,Peribatodes rhomboidaria,Peribatodes rhomboidaria,Peribatodes rhomboidaria,"([Denis & Schiffermüller], 1775)",17,24,N
+4907,Species,Geometridae,Peribatodes umbraria,Peribatodes umbraria,Peribatodes umbraria,"(Hübner, [1809])",20,25,N
+4909,Species,Geometridae,Peribatodes secundaria,Peribatodes secundaria,Peribatodes secundaria,"([Denis & Schiffermüller], 1775)",17,20,N
+4911,Species,Geometridae,Peribatodes ilicaria,Peribatodes ilicaria,Peribatodes ilicaria,"(Geyer, [1833])",16,20,N
+4915,Subspecies,Geometridae,Selidosema brunnearia brunnearia,Selidosema brunnearia,Selidosema brunnearia,"(Villers, 1789)",16,22,N
+4918,Subspecies,Geometridae,Selidosema brunnearia scandinaviaria,Selidosema brunnearia,Selidosema brunnearia,"Staudinger, 1901",16,22,N
+4920,Subspecies,Geometridae,Selidosema brunnearia tyronensis,Selidosema brunnearia,Selidosema brunnearia,"Cockayne, 1951",16,22,N
+4922,Subspecies,Geometridae,Cleora cinctaria cinctaria,Cleora cinctaria,Cleora cinctaria,"([Denis & Schiffermüller], 1775)",16,20,N
+4924,Subspecies,Geometridae,Cleora cinctaria bowesi,Cleora cinctaria,Cleora cinctaria,"Richardson, 1952",16,20,N
+4926,Species,Geometridae,Deileptenia ribeata,Deileptenia ribeata,Deileptenia ribeata,"(Clerck, 1759)",18,26,N
+4930,Subspecies,Geometridae,Alcis repandata repandata,Alcis repandata,Alcis repandata,"(Linnaeus, 1758)",19,26,N
+4932,Subspecies,Geometridae,Alcis repandata muraria,Alcis repandata,Alcis repandata,"Curtis, 1826",19,26,N
+4933,Subspecies,Geometridae,Alcis repandata sodorensium,Alcis repandata,Alcis repandata,"(Weir, 1881)",19,26,N
+4934,Species,Geometridae,Alcis jubata,Alcis jubata,Alcis jubata,"(Thunberg, 1788)",13,16,N
+4938,Species,Geometridae,Hypomecis roboraria,Hypomecis roboraria,Hypomecis roboraria,"([Denis & Schiffermüller], 1775)",23,32,N
+4940,Species,Geometridae,Hypomecis punctinalis,Hypomecis punctinalis,Hypomecis punctinalis,"(Scopoli, 1763)",22,26,N
+4944,Species,Geometridae,Fagivorina arenaria,Fagivorina arenaria,Fagivorina arenaria,"(Hufnagel, 1767)",15,17,N
+4949,Species,Geometridae,Ectropis crepuscularia,Ectropis crepuscularia,Ectropis crepuscularia,"([Denis & Schiffermüller], 1775)",15,22,N
+4960,Species,Geometridae,Paradarisa consonaria,Paradarisa consonaria,Paradarisa consonaria,"(Hübner, [1799])",18,20,N
+4963,Species,Geometridae,Parectropis similaria,Parectropis similaria,Parectropis similaria,"(Hufnagel, 1767)",17,20,N
+4968,Species,Geometridae,Aethalura punctulata,Aethalura punctulata,Aethalura punctulata,"([Denis & Schiffermüller], 1775)",13,16,N
+4972,Species,Geometridae,Ematurga atomaria,Ematurga atomaria,Ematurga atomaria,"(Linnaeus, 1758)",12,15,N
+4976,Species,Geometridae,Bupalus piniaria,Bupalus piniaria,Bupalus piniaria,"(Linnaeus, 1758)",17,19,N
+4980,Species,Geometridae,Cabera pusaria,Cabera pusaria,Cabera pusaria,"(Linnaeus, 1758)",15,17,N
+4984,Species,Geometridae,Cabera exanthemata,Cabera exanthemata,Cabera exanthemata,"(Scopoli, 1763)",14,16,N
+4989,Species,Geometridae,Lomographa bimaculata,Lomographa bimaculata,Lomographa bimaculata,"(Fabricius, 1775)",13,14,N
+4992,Species,Geometridae,Lomographa temerata,Lomographa temerata,Lomographa temerata,"([Denis & Schiffermüller], 1775)",13,15,N
+4996,Species,Geometridae,Aleucis distinctata,Aleucis distinctata,Aleucis distinctata,"(Herrich-Schäffer, [1839])",13,14,N
+5001,Species,Geometridae,Theria primaria,Theria primaria,Theria primaria,"(Haworth, 1809)",14,17,N
+5006,Species,Geometridae,Campaea margaritaria,Campaea margaritaria,Campaea margaritata,"(Linnaeus, 1761)",18,26,N
+5010,Species,Geometridae,Hylaea fasciaria,Hylaea fasciaria,Hylaea fasciaria,"(Linnaeus, 1758)",17,21,N
+5011,Species,Geometridae,Pungeleria capreolaria,Pungeleria capreolaria,Pungeleria capreolaria,"([Denis & Schiffermüller], 1775)",16,18,N
+5017,Species,Geometridae,Gnophos obfuscata,Gnophos obfuscata,Gnophos obfuscata,"([Denis & Schiffermüller], 1775)",17,21,N
+5022,Subspecies,Geometridae,Gnophos dumetata dumetata,Gnophos dumetata,Gnophos dumetata,"Treitschke, 1827",18,20,N
+5023,Subspecies,Geometridae,Gnophos dumetata hibernica,Gnophos dumetata,Gnophos dumetata,"(Forder, 1993)",18,20,N
+5027,Species,Geometridae,Charissa obscurata,Charissa obscurata,Charissa obscurata,"([Denis & Schiffermüller], 1775)",15,18,N
+5032,Species,Geometridae,Cleorodes lichenaria,Cleorodes lichenaria,Cleorodes lichenaria,"(Hufnagel, 1767)",14,18,N
+5035,Species,Geometridae,Glacies coracina,Glacies coracina,Glacies coracina,"(Esper, 1805)",10,13,N
+5038,Species,Geometridae,Pseudocoremia suavis,Pseudocoremia suavis,Pseudocoremia suavis,"Butler, 1879",14,15,N
+5041,Species,Geometridae,Siona lineata,Siona lineata,Siona lineata,"(Scopoli, 1763)",19,22,N
+5047,Species,Geometridae,Dyscia fagaria,Dyscia fagaria,Dyscia fagaria,"(Thunberg, 1784)",15,21,N
+5053,Subspecies,Geometridae,Aspitates gilvaria gilvaria,Aspitates gilvaria,Aspitates gilvaria,"([Denis & Schiffermüller], 1775)",15,18,N
+5055,Subspecies,Geometridae,Aspitates gilvaria burrenensis,Aspitates gilvaria,Aspitates gilvaria,"Cockayne, 1951",15,18,N
+5057,Species,Geometridae,Aspitates ochrearia,Aspitates ochrearia,Aspitates ochrearia,"(Rossi, 1794)",12,16,N
+5061,Species,Geometridae,Perconia strigillaria,Perconia strigillaria,Perconia strigillaria,"(Hübner, [1787])",15,20,N
+5066,Species,Geometridae,Aplasta ononaria,Aplasta ononaria,Aplasta ononaria,"(Fuessly, 1783)",13,14,N
+5069,Subspecies,Geometridae,Pseudoterpna pruinata pruinata,Pseudoterpna pruinata,Pseudoterpna pruinata,"(Hufnagel, 1767)",14,19,N
+5072,Subspecies,Geometridae,Pseudoterpna pruinata atropunctaria,Pseudoterpna pruinata,Pseudoterpna pruinata,"(Walker, 1863)",14,19,N
+5074,Species,Geometridae,Pseudoterpna coronillaria,Pseudoterpna coronillaria,Pseudoterpna coronillaria,"(Hübner, [1817])",16,20,N
+5078,Species,Geometridae,Geometra papilionaria,Geometra papilionaria,Geometra papilionaria,"(Linnaeus, 1758)",24,29,N
+5082,Species,Geometridae,Comibaena bajularia,Comibaena bajularia,Comibaena bajularia,"([Denis & Schiffermüller], 1775)",14,17,N
+5086,Subspecies,Geometridae,Thetidia smaragdaria smaragdaria,Thetidia smaragdaria,Thetidia smaragdaria,"(Fabricius, 1787)",14,17,N
+5087,Subspecies,Geometridae,Thetidia smaragdaria maritima,Thetidia smaragdaria,Thetidia smaragdaria,"(Prout, 1935)",14,17,N
+5091,Species,Geometridae,Hemistola chrysoprasaria,Hemistola chrysoprasaria,Hemistola chrysoprasaria,"(Esper, 1795)",17,20,N
+5097,Species,Geometridae,Jodis lactearia,Jodis lactearia,Jodis lactearia,"(Linnaeus, 1758)",11,13,N
+5102,Species,Geometridae,Thalera fimbrialis,Thalera fimbrialis,Thalera fimbrialis,"(Scopoli, 1763)",15,16,N
+5107,Species,Geometridae,Hemithea aestivaria,Hemithea aestivaria,Hemithea aestivaria,"(Hübner, 1789)",14,17,N
+5113,Species,Geometridae,Chlorissa viridata,Chlorissa viridata,Chlorissa viridata,"(Linnaeus, 1758)",11,13,N
+5115,Species,Geometridae,Chlorissa cloraria,Chlorissa cloraria,Chlorissa cloraria,"(Hübner, [1813])",11,13,N
+5121,Species,Notodontidae,Thaumetopoea processionea,Thaumetopoea processionea,Thaumetopoea processionea,"(Linnaeus, 1758)",14,17,N
+5123,Species,Notodontidae,Thaumetopoea pityocampa,Thaumetopoea pityocampa,Thaumetopoea pityocampa,"([Denis & Schiffermüller], 1775)",16,22,N
+5128,Species,Notodontidae,Cerura vinula,Cerura vinula,Cerura vinula,"(Linnaeus, 1758)",29,38,N
+5131,Species,Notodontidae,Cerura erminea,Cerura erminea,Cerura erminea,"(Esper, 1783)",27,33,N
+5134,Species,Notodontidae,Furcula furcula,Furcula furcula,Furcula furcula,"(Clerck, 1759)",14,18,N
+5136,Species,Notodontidae,Furcula bicuspis,Furcula bicuspis,Furcula bicuspis,"(Borkhausen, 1790)",16,19,N
+5138,Species,Notodontidae,Furcula bifida,Furcula bifida,Furcula bifida,"(Brahm, 1787)",16,22,N
+5143,Species,Notodontidae,Harpyia milhauseri,Harpyia milhauseri,Harpyia milhauseri,"(Fabricius, 1775)",21,24,N
+5146,Species,Notodontidae,Stauropus fagi,Stauropus fagi,Stauropus fagi,"(Linnaeus, 1758)",24,33,N
+5151,Species,Notodontidae,Drymonia dodonaea,Drymonia dodonaea,Drymonia dodonaea,"([Denis & Schiffermüller], 1775)",17,20,N
+5154,Species,Notodontidae,Drymonia ruficornis,Drymonia ruficornis,Drymonia ruficornis,"(Hufnagel, 1766)",16,20,N
+5158,Species,Notodontidae,Notodonta dromedarius,Notodonta dromedarius,Notodonta dromedarius,"(Linnaeus, 1767)",18,24,N
+5160,Species,Notodontidae,Notodonta ziczac,Notodonta ziczac,Notodonta ziczac,"(Linnaeus, 1758)",17,24,N
+5162,Species,Notodontidae,Notodonta torva,Notodonta torva,Notodonta torva,"(Hübner, [1803])",19,25,N
+5164,Species,Notodontidae,Notodonta tritophus,Notodonta tritophus,Notodonta tritophus,"([Denis & Schiffermüller], 1775)",22,27,N
+5168,Species,Notodontidae,Peridea anceps,Peridea anceps,Peridea anceps,"(Goeze, 1781)",23,32,N
+5172,Species,Notodontidae,Pheosia tremula,Pheosia tremula,Pheosia tremula,"(Clerck, 1759)",22,28,N
+5175,Species,Notodontidae,Pheosia gnoma,Pheosia gnoma,Pheosia gnoma,"(Fabricius, [1777])",20,26,N
+5179,Species,Notodontidae,Leucodonta bicoloria,Leucodonta bicoloria,Leucodonta bicoloria,"([Denis & Schiffermüller], 1775)",16,19,N
+5182,Species,Notodontidae,Pterostoma palpina,Pterostoma palpina,Pterostoma palpina,"(Clerck, 1759)",18,25,N
+5185,Species,Notodontidae,Ptilodon capucina,Ptilodon capucina,Ptilodon capucina,"(Linnaeus, 1758)",17,22,N
+5188,Species,Notodontidae,Ptilodon cucullina,Ptilodon cucullina,Ptilodon cucullina,"([Denis & Schiffermüller], 1775)",15,20,N
+5192,Species,Notodontidae,Odontosia carmelita,Odontosia carmelita,Odontosia carmelita,"(Esper, [1798])",18,21,N
+5195,Species,Notodontidae,Ptilophora plumigera,Ptilophora plumigera,Ptilophora plumigera,"([Denis & Schiffermüller], 1775)",16,19,N
+5199,Species,Notodontidae,Phalera bucephala,Phalera bucephala,Phalera bucephala,"(Linnaeus, 1758)",22,34,N
+5203,Subspecies,Notodontidae,Gluphisia crenata crenata,Gluphisia crenata,Gluphisia crenata,"(Esper, 1785)",14,15,N
+5204,Subspecies,Notodontidae,Gluphisia crenata vertunea,Gluphisia crenata,Gluphisia crenata,"Bray, 1929",14,15,N
+5207,Species,Notodontidae,Clostera curtula,Clostera curtula,Clostera curtula,"(Linnaeus, 1758)",13,18,N
+5210,Species,Notodontidae,Clostera pigra,Clostera pigra,Clostera pigra,"(Hufnagel, 1766)",11,14,N
+5212,Species,Notodontidae,Clostera anachoreta,Clostera anachoreta,Clostera anachoreta,"([Denis & Schiffermüller], 1775)",14,19,N
+5218,Species,Erebidae,Scoliopteryx libatrix,Scoliopteryx libatrix,Scoliopteryx libatrix,"(Linnaeus, 1758)",19,23,N
+5222,Species,Erebidae,Rivula sericealis,Rivula sericealis,Rivula sericealis,"(Scopoli, 1763)",13,15,N
+5227,Species,Erebidae,Hypena proboscidalis,Hypena proboscidalis,Hypena proboscidalis,"(Linnaeus, 1758)",15,19,N
+5229,Species,Erebidae,Hypena rostralis,Hypena rostralis,Hypena rostralis,"(Linnaeus, 1758)",13,15,N
+5231,Species,Erebidae,Hypena obesalis,Hypena obesalis,Hypena obesalis,"Treitschke, 1829",18,22,N
+5233,Species,Erebidae,Hypena obsitalis,Hypena obsitalis,Hypena obsitalis,"(Hübner, [1813])",15,17,N
+5234,Species,Erebidae,Hypena lividalis,Hypena lividalis,Hypena lividalis,"(Hübner, [1813])",10,13,N
+5236,Species,Erebidae,Hypena crassalis,Hypena crassalis,Hypena crassalis,"(Fabricius, 1787)",14,16,N
+5243,Species,Erebidae,Arctornis l-nigrum,Arctornis l-nigrum,Arctornis l-nigrum,"(Müller, 1764)",19,27,N
+5247,Species,Erebidae,Leucoma salicis,Leucoma salicis,Leucoma salicis,"(Linnaeus, 1758)",18,27,N
+5251,Species,Erebidae,Lymantria monacha,Lymantria monacha,Lymantria monacha,"(Linnaeus, 1758)",18,28,N
+5253,Species,Erebidae,Lymantria dispar,Lymantria dispar,Lymantria dispar,"(Linnaeus, 1758)",20,35,N
+5257,Species,Erebidae,Euproctis chrysorrhoea,Euproctis chrysorrhoea,Euproctis chrysorrhoea,"(Linnaeus, 1758)",16,20,N
+5260,Species,Erebidae,Euproctis similis,Euproctis similis,Euproctis similis,"(Fuessly, 1775)",16,23,N
+5266,Species,Erebidae,Laelia coenosa,Laelia coenosa,Laelia coenosa,"(Hübner, [1808])",16,21,N
+5270,Species,Erebidae,Calliteara pudibunda,Calliteara pudibunda,Calliteara pudibunda,"(Linnaeus, 1758)",21,31,N
+5273,Species,Erebidae,Dicallomera fascelina,Dicallomera fascelina,Dicallomera fascelina,"(Linnaeus, 1758)",18,28,N
+5277,Species,Erebidae,Orgyia antiqua,Orgyia antiqua,Orgyia antiqua,"(Linnaeus, 1758)",12,17,N
+5281,Species,Erebidae,Orgyia recens,Orgyia recens,Orgyia recens,"(Hübner, [1819])",13,17,N
+5287,Species,Erebidae,Spilosoma lutea,Spilosoma lutea,Spilosoma luteum,"(Hufnagel, 1766)",17,22,N
+5290,Species,Erebidae,Spilosoma lubricipeda,Spilosoma lubricipeda,Spilosoma lubricipeda,"(Linnaeus, 1758)",18,23,N
+5293,Species,Erebidae,Spilosoma urticae,Spilosoma urticae,Spilosoma urticae,"(Esper, 1789)",18,21,N
+5294,Species,Erebidae,Hyphantria cunea,Hyphantria cunea,Hyphantria cunea,"(Drury, 1773)",15,18,N
+5297,Species,Erebidae,Diaphora mendica,Diaphora mendica,Diaphora mendica,"(Clerck, 1759)",14,19,N
+5300,Species,Erebidae,Diacrisia sannio,Diacrisia sannio,Diacrisia sannio,"(Linnaeus, 1758)",17,22,N
+5304,Subspecies,Erebidae,Phragmatobia fuliginosa fuliginosa,Phragmatobia fuliginosa,Phragmatobia fuliginosa,"(Linnaeus, 1758)",14,19,N
+5306,Subspecies,Erebidae,Phragmatobia fuliginosa borealis,Phragmatobia fuliginosa,Phragmatobia fuliginosa,"(Staudinger, 1871)",14,19,N
+5309,Subspecies,Erebidae,Parasemia plantaginis plantaginis,Parasemia plantaginis,Parasemia plantaginis,"(Linnaeus, 1758)",17,20,N
+5311,Subspecies,Erebidae,Parasemia plantaginis insularum,Parasemia plantaginis,Parasemia plantaginis,"Seitz, 1910",17,20,N
+5313,Species,Erebidae,Arctia caja,Arctia caja,Arctia caja,"(Linnaeus, 1758)",28,37,N
+5315,Subspecies,Erebidae,Arctia villica villica,Arctia villica,Arctia villica,"(Linnaeus, 1758)",25,32,N
+5317,Subspecies,Erebidae,Arctia villica britannica,Arctia villica,Arctia villica,"Oberthür, 1911",25,32,N
+5319,Species,Erebidae,Hyphoraia testudinaria,Hyphoraia testudinaria,Hyphoraia testudinaria,"(Geoffroy, 1785)",17,22,N
+5322,Species,Erebidae,Callimorpha dominula,Callimorpha dominula,Callimorpha dominula,"(Linnaeus, 1758)",23,27,N
+5325,Species,Erebidae,Euplagia quadripunctaria,Euplagia quadripunctaria,Euplagia quadripunctaria,"(Poda, 1761)",28,33,N
+5329,Species,Erebidae,Tyria jacobaeae,Tyria jacobaeae,Tyria jacobaeae,"(Linnaeus, 1758)",17,23,N
+5332,Subspecies,Erebidae,Coscinia cribraria cribraria,Coscinia cribraria,Coscinia cribraria,"(Linnaeus, 1758)",15,18,N
+5335,Subspecies,Erebidae,Coscinia cribraria bivittata,Coscinia cribraria,Coscinia cribraria,"(South, 1900)",15,18,N
+5336,Subspecies,Erebidae,Coscinia cribraria arenaria,Coscinia cribraria,Coscinia cribraria,"(Lempke, 1937)",15,18,N
+5337,Species,Erebidae,Coscinia striata,Coscinia striata,Coscinia striata,"(Linnaeus, 1758)",15,22,N
+5340,Species,Erebidae,Utetheisa pulchella,Utetheisa pulchella,Utetheisa pulchella,"(Linnaeus, 1758)",15,22,N
+5344,Species,Erebidae,Miltochrista miniata,Miltochrista miniata,Miltochrista miniata,"(Forster, 1771)",12,15,N
+5347,Species,Erebidae,Nudaria mundana,Nudaria mundana,Nudaria mundana,"(Linnaeus, 1761)",10,12,N
+5350,Species,Erebidae,Thumatha senex,Thumatha senex,Thumatha senex,"(Hübner, [1808])",10,11,N
+5353,Species,Erebidae,Cybosia mesomella,Cybosia mesomella,Cybosia mesomella,"(Linnaeus, 1758)",13,16,N
+5356,Species,Erebidae,Pelosia muscerda,Pelosia muscerda,Pelosia muscerda,"(Hufnagel, 1766)",13,16,N
+5358,Species,Erebidae,Pelosia obtusa,Pelosia obtusa,Pelosia obtusa,"(Herrich-Schäffer, 1851)",12,14,N
+5361,Species,Erebidae,Lithosia quadra,Lithosia quadra,Lithosia quadra,"(Linnaeus, 1758)",18,26,N
+5365,Species,Erebidae,Atolmis rubricollis,Atolmis rubricollis,Atolmis rubricollis,"(Linnaeus, 1758)",15,18,N
+5368,Species,Erebidae,Eilema depressa,Eilema depressa,Eilema depressa,"(Esper, 1787)",15,17,N
+5373,Species,Erebidae,Eilema griseola,Eilema griseola,Eilema griseola,"(Hübner, [1803])",15,18,N
+5376,Species,Erebidae,Eilema lurideola,Eilema lurideola,Eilema lurideola,"(Zincken, 1817)",14,17,N
+5379,Species,Erebidae,Eilema complana,Eilema complana,Eilema complana,"(Linnaeus, 1758)",15,18,N
+5380,Subspecies,Erebidae,Eilema complana sericea,Eilema complana,Eilema complana,"(Gregson, 1869)",14,17,N
+5382,Species,Erebidae,Eilema caniola,Eilema caniola,Eilema caniola,"(Hübner, [1808])",15,17,N
+5384,Subspecies,Erebidae,Eilema pygmaeola pygmaeola,Eilema pygmaeola,Eilema pygmaeola,"(Doubleday, 1847)",10,15,N
+5387,Subspecies,Erebidae,Eilema pygmaeola pallifrons,Eilema pygmaeola,Eilema pygmaeola,"(Zeller, 1847)",10,15,N
+5389,Species,Erebidae,Eilema sororcula,Eilema sororcula,Eilema sororcula,"(Hufnagel, 1766)",13,16,N
+5393,Species,Erebidae,Setina irrorella,Setina irrorella,Setina irrorella,"(Linnaeus, 1758)",11,18,N
+5397,Species,Erebidae,Paracolax tristalis,Paracolax tristalis,Paracolax tristalis,"(Fabricius, 1794)",14,16,N
+5401,Species,Erebidae,Macrochilo cribrumalis,Macrochilo cribrumalis,Macrochilo cribrumalis,"(Hübner, 1793)",13,14,N
+5405,Species,Erebidae,Herminia tarsipennalis,Herminia tarsipennalis,Zanclognatha tarsipennalis,"Treitschke, 1835",13,16,N
+5407,Species,Erebidae,Herminia tarsicrinalis,Herminia tarsicrinalis,Herminia tarsicrinalis,"(Knoch, 1782)",12,14,N
+5409,Species,Erebidae,Herminia grisealis,Herminia grisealis,Herminia grisealis,"([Denis & Schiffermüller], 1775)",11,13,N
+5413,Species,Erebidae,Pechipogo strigilata,Pechipogo strigilata,Pechipogo strigilata,"(Linnaeus, 1758)",14,16,N
+5416,Species,Erebidae,Pechipogo plumigeralis,Pechipogo plumigeralis,Pechipogo plumigeralis,"(Hübner, [1825])",15,17,N
+5419,Species,Erebidae,Zanclognatha lunalis,Zanclognatha lunalis,Zanclognatha lunalis,"(Scopoli, 1763)",14,17,N
+5421,Species,Erebidae,Zanclognatha zelleralis,Zanclognatha zelleralis,Zanclognatha zelleralis,"(Wocke, 1850)",14,17,N
+5425,Species,Erebidae,Hypenodes humidalis,Hypenodes humidalis,Hypenodes humidalis,"Doubleday, 1850",6,8,N
+5429,Species,Erebidae,Schrankia costaestrigalis,Schrankia costaestrigalis,Schrankia costaestrigalis,"(Stephens, 1834)",9,11,N
+5431,Species,Erebidae,Schrankia taenialis,Schrankia taenialis,Schrankia taenialis,"(Hübner, [1809])",9,11,N
+5437,Species,Erebidae,Lygephila pastinum,Lygephila pastinum,Lygephila pastinum,"(Treitschke, 1826)",18,21,N
+5439,Species,Erebidae,Lygephila craccae,Lygephila craccae,Lygephila craccae,"([Denis & Schiffermüller], 1775)",18,20,N
+5442,Species,Erebidae,Tathorhynchus exsiccata,Tathorhynchus exsiccata,Tathorhynchus exsiccata,"(Lederer, 1855)",13,18,N
+5446,Species,Erebidae,Parascotia fuliginaria,Parascotia fuliginaria,Parascotia fuliginaria,"(Linnaeus, 1761)",11,14,N
+5450,Species,Erebidae,Phytometra viridaria,Phytometra viridaria,Phytometra viridaria,"(Clerck, 1759)",9,11,N
+5453,Species,Erebidae,Colobochyla salicalis,Colobochyla salicalis,Colobochyla salicalis,"([Denis & Schiffermüller], 1775)",13,15,N
+5456,Species,Erebidae,Laspeyria flexula,Laspeyria flexula,Laspeyria flexula,"([Denis & Schiffermüller], 1775)",13,15,N
+5459,Species,Erebidae,Trisateles emortualis,Trisateles emortualis,Trisateles emortualis,"([Denis & Schiffermüller], 1775)",14,14,N
+5462,Species,Erebidae,Eublemma minutata,Eublemma minutata,Eublemma minutata,"(Fabricius, 1794)",7,8,N
+5466,Species,Erebidae,Eublemma ostrina,Eublemma ostrina,Eublemma ostrina,"(Hübner, [1808])",8,9,N
+5468,Species,Erebidae,Eublemma parva,Eublemma parva,Eublemma parva,"(Hübner, [1808])",7,8,N
+5470,Species,Erebidae,Eublemma purpurina,Eublemma purpurina,Eublemma purpurina,"([Denis & Schiffermüller], 1775)",10,15,N
+5475,Species,Erebidae,Catocala nymphagoga,Catocala nymphagoga,Catocala nymphagoga,"(Esper, 1787)",17,21,N
+5477,Species,Erebidae,Catocala fraxini,Catocala fraxini,Catocala fraxini,"(Linnaeus, 1758)",41,48,N
+5479,Species,Erebidae,Catocala conjuncta,Catocala conjuncta,Catocala conjuncta,"(Esper, 1787)",25,29,N
+5481,Species,Erebidae,Catocala nupta,Catocala nupta,Catocala nupta,"(Linnaeus, 1767)",33,40,N
+5483,Species,Erebidae,Catocala electa,Catocala electa,Catocala electa,"(Vieweg, 1790)",33,39,N
+5485,Species,Erebidae,Catocala elocata,Catocala elocata,Catocala elocata,"(Esper, 1787)",39,43,N
+5487,Species,Erebidae,Catocala sponsa,Catocala sponsa,Catocala sponsa,"(Linnaeus, 1767)",29,34,N
+5489,Species,Erebidae,Catocala promissa,Catocala promissa,Catocala promissa,"([Denis & Schiffermüller], 1775)",26,32,N
+5494,Species,Erebidae,Euclidia glyphica,Euclidia glyphica,Euclidia glyphica,"(Linnaeus, 1758)",13,15,N
+5497,Species,Erebidae,Euclidia mi,Euclidia mi,Euclidia mi,"(Clerck, 1759)",13,16,N
+5501,Species,Erebidae,Catephia alchymista,Catephia alchymista,Catephia alchymista,"([Denis & Schiffermüller], 1775)",19,21,N
+5504,Species,Erebidae,Minucia lunaris,Minucia lunaris,Minucia lunaris,"([Denis & Schiffermüller], 1775)",23,26,N
+5507,Species,Erebidae,Dysgonia algira,Dysgonia algira,Dysgonia algira,"(Linnaeus, 1767)",17,23,N
+5510,Species,Erebidae,Grammodes stolida,Grammodes stolida,Grammodes stolida,"(Fabricius, 1775)",14,16,N
+5516,Species,Noctuidae,Abrostola tripartita,Abrostola tripartita,Abrostola tripartita,"(Hufnagel, 1766)",15,17,N
+5520,Species,Noctuidae,Abrostola triplasia,Abrostola triplasia,Abrostola triplasia,"(Linnaeus, 1758)",14,18,N
+5526,Species,Noctuidae,Trichoplusia ni,Trichoplusia ni,Trichoplusia ni,"(Hübner, [1803])",15,17,N
+5529,Species,Noctuidae,Thysanoplusia orichalcea,Thysanoplusia orichalcea,Thysanoplusia orichalcea,"(Fabricius, 1775)",17,20,N
+5530,Species,Noctuidae,Thysanoplusia daubei,Thysanoplusia daubei,Thysanoplusia daubei,"(Boisduval, 1833)",12,14,N
+5533,Species,Noctuidae,Ctenoplusia limbirena,Ctenoplusia limbirena,Ctenoplusia limbirena,"(Guenée, 1852)",15,18,N
+5535,Species,Noctuidae,Ctenoplusia accentifera,Ctenoplusia accentifera,Ctenoplusia accentifera,"(Lefebvre, 1827)",11,14,N
+5538,Species,Noctuidae,Vittaplusia vittata,Vittaplusia vittata,Vittaplusia vittata,"(Wallengren, 1856)",15,18,N
+5541,Species,Noctuidae,Chrysodeixis chalcites,Chrysodeixis chalcites,Chrysodeixis chalcites,"(Esper, [1803])",15,18,N
+5543,Species,Noctuidae,Chrysodeixis acuta,Chrysodeixis acuta,Chrysodeixis acuta,"(Walker, 1857)",14,18,N
+5548,Species,Noctuidae,Macdunnoughia confusa,Macdunnoughia confusa,Macdunnoughia confusa,"(Stephens, 1850)",12,17,N
+5551,Species,Noctuidae,Diachrysia chryson,Diachrysia chryson,Diachrysia chryson,"(Esper, 1798)",20,24,N
+5554,Species,Noctuidae,Diachrysia chrysitis,Diachrysia chrysitis,Diachrysia chrysitis,"(Linnaeus, 1758)",16,19,N
+5557,Species,Noctuidae,Euchalcia variabilis,Euchalcia variabilis,Euchalcia variabilis,"(Piller & Mitterpacher, 1783)",17,19,N
+5562,Species,Noctuidae,Polychrysia moneta,Polychrysia moneta,Polychrysia moneta,"(Fabricius, 1787)",17,20,N
+5565,Species,Noctuidae,Autographa gamma,Autographa gamma,Autographa gamma,"(Linnaeus, 1758)",13,21,N
+5567,Species,Noctuidae,Autographa pulchrina,Autographa pulchrina,Autographa pulchrina,"(Haworth, 1809)",17,20,N
+5569,Species,Noctuidae,Autographa jota,Autographa jota,Autographa jota,"(Linnaeus, 1758)",17,21,N
+5571,Species,Noctuidae,Autographa bractea,Autographa bractea,Autographa bractea,"([Denis & Schiffermüller], 1775)",18,21,N
+5574,Species,Noctuidae,Megalographa biloba,Megalographa biloba,Megalographa biloba,"(Stephens, 1830)",15,18,N
+5577,Species,Noctuidae,Cornutiplusia circumflexa,Cornutiplusia circumflexa,Cornutiplusia circumflexa,"(Linnaeus, 1767)",16,21,N
+5580,Species,Noctuidae,Syngrapha interrogationis,Syngrapha interrogationis,Syngrapha interrogationis,"(Linnaeus, 1758)",15,18,N
+5583,Species,Noctuidae,Plusia festucae,Plusia festucae,Plusia festucae,"(Linnaeus, 1758)",14,19,N
+5585,Subspecies,Noctuidae,Plusia putnami putnami,Plusia putnami,Plusia putnami,"Grote, 1873",14,15,N
+5587,Subspecies,Noctuidae,Plusia putnami gracilis,Plusia putnami,Plusia putnami,"Lempke, 1966",14,15,N
+5592,Species,Noctuidae,Deltote pygarga,Deltote pygarga,Deltote pygarga,"(Hufnagel, 1766)",11,12,N
+5595,Species,Noctuidae,Deltote deceptoria,Deltote deceptoria,Deltote deceptoria,"(Scopoli, 1763)",12,13,N
+5597,Species,Noctuidae,Deltote uncula,Deltote uncula,Deltote uncula,"(Clerck, 1759)",11,12,N
+5599,Species,Noctuidae,Deltote bankiana,Deltote bankiana,Deltote bankiana,"(Fabricius, 1775)",10,12,N
+5606,Species,Noctuidae,Acontia lucida,Acontia lucida,Acontia lucida,"(Hufnagel, 1766)",12,15,N
+5609,Species,Noctuidae,Acontia trabealis,Acontia trabealis,Acontia trabealis,"(Scopoli, 1763)",10,11,N
+5613,Species,Noctuidae,Aedia leucomelas,Aedia leucomelas,Aedia leucomelas,"(Linnaeus, 1758)",15,18,N
+5612,Species,Noctuidae,Aedia funesta,Aedia funesta,Aedia funesta,"(Esper, 1798)",15,16,N
+5616,Species,Noctuidae,Tyta luctuosa,Tyta luctuosa,Tyta luctuosa,"([Denis & Schiffermüller], 1775)",12,13,N
+5620,Species,Noctuidae,Colocasia coryli,Colocasia coryli,Colocasia coryli,"(Linnaeus, 1758)",14,17,N
+5624,Species,Noctuidae,Diloba caeruleocephala,Diloba caeruleocephala,Diloba caeruleocephala,"(Linnaeus, 1758)",15,19,N
+5628,Species,Noctuidae,Moma alpium,Moma alpium,Moma alpium,"(Osbeck, 1778)",17,20,N
+5632,Species,Noctuidae,Simyra albovenosa,Simyra albovenosa,Simyra albovenosa,"(Goeze, 1781)",16,20,N
+5637,Species,Noctuidae,Acronicta alni,Acronicta alni,Acronicta alni,"(Linnaeus, 1767)",16,19,N
+5640,Species,Noctuidae,Acronicta tridens,Acronicta tridens,Acronicta tridens,"([Denis & Schiffermüller], 1775)",17,20,N
+5642,Species,Noctuidae,Acronicta psi,Acronicta psi,Acronicta psi,"(Linnaeus, 1758)",17,20,N
+5645,Species,Noctuidae,Acronicta aceris,Acronicta aceris,Acronicta aceris,"(Linnaeus, 1758)",18,22,N
+5647,Species,Noctuidae,Acronicta leporina,Acronicta leporina,Acronicta leporina,"(Linnaeus, 1758)",16,21,N
+5650,Species,Noctuidae,Acronicta strigosa,Acronicta strigosa,Acronicta strigosa,"([Denis & Schiffermüller], 1775)",13,15,N
+5653,Subspecies,Noctuidae,Acronicta menyanthidis menyanthidis,Acronicta menyanthidis,Acronicta menyanthidis,"(Esper, 1798)",16,20,N
+5655,Subspecies,Noctuidae,Acronicta menyanthidis scotica,Acronicta menyanthidis,Acronicta menyanthidis,"(Tutt, 1891)",16,20,N
+5656,Species,Noctuidae,Acronicta auricoma,Acronicta auricoma,Acronicta auricoma,"([Denis & Schiffermüller], 1775)",16,17,N
+5658,Species,Noctuidae,Acronicta cinerea,Acronicta cinerea,Acronicta cinerea,"(Hufnagel, 1766)",14,16,N
+5662,Species,Noctuidae,Acronicta rumicis,Acronicta rumicis,Acronicta rumicis,"(Linnaeus, 1758)",16,20,N
+5665,Species,Noctuidae,Subacronicta megacephala,Subacronicta megacephala,Acronicta megacephala,"([Denis & Schiffermüller], 1775)",17,20,N
+5668,Species,Noctuidae,Craniophora ligustri,Craniophora ligustri,Craniophora ligustri,"([Denis & Schiffermüller], 1775)",17,19,N
+5672,Species,Noctuidae,Panemeria tenebrata,Panemeria tenebrata,Panemeria tenebrata,"(Scopoli, 1763)",8,10,N
+5675,Species,Noctuidae,Synthymia fixa,Synthymia fixa,Synthymia fixa,"(Fabricius, 1787)",14,18,N
+5680,Species,Noctuidae,Cucullia absinthii,Cucullia absinthii,Cucullia absinthii,"(Linnaeus, 1761)",16,19,N
+5682,Species,Noctuidae,Cucullia artemisiae,Cucullia artemisiae,Cucullia artemisiae,"(Hufnagel, 1766)",16,19,N
+5685,Species,Noctuidae,Cucullia umbratica,Cucullia umbratica,Cucullia umbratica,"(Linnaeus, 1758)",22,26,N
+5687,Species,Noctuidae,Cucullia chamomillae,Cucullia chamomillae,Cucullia chamomillae,"([Denis & Schiffermüller], 1775)",19,23,N
+5689,Subspecies,Noctuidae,Cucullia gnaphalii gnaphalii,Cucullia gnaphalii,Cucullia gnaphalii,"(Hübner, [1813])",17,19,N
+5691,Subspecies,Noctuidae,Cucullia gnaphalii occidentalis,Cucullia gnaphalii,Cucullia gnaphalii,"Boursin, 1944",17,19,N
+5692,Species,Noctuidae,Cucullia asteris,Cucullia asteris,Cucullia asteris,"([Denis & Schiffermüller], 1775)",19,23,N
+5695,Species,Noctuidae,Cucullia scrophulariae,Cucullia scrophulariae,Cucullia scrophulariae,"([Denis & Schiffermüller], 1775)",18,22,N
+5697,Species,Noctuidae,Cucullia lychnitis,Cucullia lychnitis,Cucullia lychnitis,"Rambur, 1833",18,21,N
+5699,Species,Noctuidae,Cucullia verbasci,Cucullia verbasci,Cucullia verbasci,"(Linnaeus, 1758)",19,24,N
+5703,Species,Noctuidae,Calophasia lunula,Calophasia lunula,Calophasia lunula,"(Hufnagel, 1766)",14,15,N
+5705,Species,Noctuidae,Calophasia platyptera,Calophasia platyptera,Calophasia platyptera,"(Esper, 1788)",12,15,N
+5708,Species,Noctuidae,Stilbia anomala,Stilbia anomala,Stilbia anomala,"(Haworth, 1812)",13,17,N
+5713,Species,Noctuidae,Amphipyra pyramidea,Amphipyra pyramidea,Amphipyra pyramidea,"(Linnaeus, 1758)",21,26,N
+5715,Subspecies,Noctuidae,Amphipyra berbera berbera,Amphipyra berbera,Amphipyra berbera berbera,"Rungs, 1949",21,26,N
+5716,Subspecies,Noctuidae,Amphipyra berbera svenssoni,Amphipyra berbera,Amphipyra berbera berbera,"Fletcher, 1968",21,26,N
+5718,Species,Noctuidae,Amphipyra tragopoginis,Amphipyra tragopoginis,Amphipyra tragopoginis,"(Clerck, 1759)",16,18,N
+5722,Species,Noctuidae,Asteroscopus sphinx,Asteroscopus sphinx,Asteroscopus sphinx,"(Hufnagel, 1766)",17,22,N
+5725,Species,Noctuidae,Brachionycha nubeculosa,Brachionycha nubeculosa,Brachionycha nubeculosa,"(Esper, 1785)",20,24,N
+5728,Species,Noctuidae,Meganephria bimaculosa,Meganephria bimaculosa,Meganephria bimaculosa,"(Linnaeus, 1767)",22,26,N
+5731,Species,Noctuidae,Allophyes oxyacanthae,Allophyes oxyacanthae,Allophyes oxyacanthae,"(Linnaeus, 1758)",17,20,N
+5734,Species,Noctuidae,Xylocampa areola,Xylocampa areola,Xylocampa areola,"(Esper, 1789)",15,18,N
+5738,Species,Noctuidae,Pyrrhia umbra,Pyrrhia umbra,Pyrrhia umbra,"(Hufnagel, 1766)",16,19,N
+5741,Species,Noctuidae,Protoschinia scutosa,Protoschinia scutosa,Protoschinia scutosa,"([Denis & Schiffermüller], 1775)",15,16,N
+5744,Species,Noctuidae,Heliothis viriplaca,Heliothis viriplaca,Heliothis viriplaca,"(Hufnagel, 1766)",13,15,N
+5747,Subspecies,Noctuidae,Heliothis maritima maritima,Heliothis maritima,Heliothis maritima,"Graslin, 1855",13,17,N
+5749,Subspecies,Noctuidae,Heliothis maritima warneckei,Heliothis maritima,Heliothis maritima,"Boursin, 1964",13,17,N
+5751,Subspecies,Noctuidae,Heliothis maritima bulgarica,Heliothis maritima,Heliothis maritima,"sensu auctt. nec (Draudt, 1938)",13,17,N
+5752,Species,Noctuidae,Heliothis peltigera,Heliothis peltigera,Heliothis peltigera,"([Denis & Schiffermüller], 1775)",16,19,N
+5754,Species,Noctuidae,Heliothis nubigera,Heliothis nubigera,Heliothis nubigera,"Herrich-Schäffer, 1851",16,20,N
+5757,Species,Noctuidae,Helicoverpa armigera,Helicoverpa armigera,Helicoverpa armigera,"(Hübner, [1808])",16,19,N
+5761,Species,Noctuidae,Periphanes delphinii,Periphanes delphinii,Periphanes delphinii,"(Linnaeus, 1758)",14,15,N
+5762,Species,Noctuidae,Condica capensis,Condica capensis,Condica capensis,"(Guenée, 1852)",12,17,N
+5766,Species,Noctuidae,Acosmetia caliginosa,Acosmetia caliginosa,Acosmetia caliginosa,"(Hübner, [1813])",9,15,N
+5770,Species,Noctuidae,Eucarta virgo,Eucarta virgo,Eucarta virgo,"(Treitschke, 1835)",13,15,N
+5774,Species,Noctuidae,Callopistria juventina,Callopistria juventina,Callopistria juventina,"(Stoll, 1782)",14,17,N
+5776,Species,Noctuidae,Callopistria latreillei,Callopistria latreillei,Callopistria latreillei,"(Duponchel, 1827)",12,14,N
+5781,Species,Noctuidae,Cryphia algae,Cryphia algae,Cryphia algae,"(Fabricius, 1775)",10,13,N
+5785,Species,Noctuidae,Bryophila raptricula,Bryophila raptricula,Bryophila raptricula,"([Denis & Schiffermüller], 1775)",12,14,N
+5788,Species,Noctuidae,Bryophila domestica,Bryophila domestica,Cryphia domestica,"(Hufnagel, 1766)",12,14,N
+5793,Species,Noctuidae,Nyctobrya muralis,Nyctobrya muralis,Nyctobrya muralis,"(Forster, 1771)",12,15,N
+5799,Species,Noctuidae,Pseudeustrotia candidula,Pseudeustrotia candidula,Pseudeustrotia candidula,"([Denis & Schiffermüller], 1775)",10,13,N
+5803,Species,Noctuidae,Spodoptera exigua,Spodoptera exigua,Spodoptera exigua,"(Hübner, [1808])",13,14,N
+5805,Species,Noctuidae,Spodoptera cilium,Spodoptera cilium,Spodoptera cilium,"Guenée, 1852",13,13,N
+5807,Species,Noctuidae,Spodoptera littoralis,Spodoptera littoralis,Spodoptera littoralis,"(Boisduval, 1833)",14,19,N
+5811,Species,Noctuidae,Galgula partita,Galgula partita,Galgula partita,"Guenée, 1852",10,13,N
+5814,Species,Noctuidae,Elaphria venustula,Elaphria venustula,Elaphria venustula,"(Hübner, 1790)",10,11,N
+5819,Species,Noctuidae,Caradrina morpheus,Caradrina morpheus,Caradrina morpheus,"(Hufnagel, 1766)",13,16,N
+5822,Species,Noctuidae,Caradrina kadenii,Caradrina kadenii,Caradrina kadenii,"(Freyer, [1836])",13,15,N
+5825,Species,Noctuidae,Caradrina flavirena,Caradrina flavirena,Caradrina flavirena,"Guenée, 1852",13,15,N
+5827,Species,Noctuidae,Caradrina clavipalpis,Caradrina clavipalpis,Caradrina (Paradrina) clavipalpis,"(Scopoli, 1763)",12,15,N
+5831,Species,Noctuidae,Hoplodrina octogenaria,Hoplodrina octogenaria,Hoplodrina alsines,"(Goeze, 1781)",14,16,N
+5834,Species,Noctuidae,Hoplodrina blanda,Hoplodrina blanda,Hoplodrina blanda,"([Denis & Schiffermüller], 1775)",13,16,N
+5837,Species,Noctuidae,Hoplodrina superstes,Hoplodrina superstes,Hoplodrina superstes,"(Ochsenheimer, 1816)",13,15,N
+5839,Species,Noctuidae,Hoplodrina ambigua,Hoplodrina ambigua,Hoplodrina ambigua,"([Denis & Schiffermüller], 1775)",13,15,N
+5842,Species,Noctuidae,Chilodes maritima,Chilodes maritima,Chilodes maritima,"(Tauscher, 1806)",13,15,N
+5845,Species,Noctuidae,Charanyca trigrammica,Charanyca trigrammica,Charanyca trigrammica,"(Hufnagel, 1766)",15,17,N
+5848,Species,Noctuidae,Rusina ferruginea,Rusina ferruginea,Rusina ferruginea,"(Esper, 1785)",14,18,N
+5854,Species,Noctuidae,Athetis pallustris,Athetis pallustris,Athetis pallustris,"(Hübner, [1808])",9,16,N
+5857,Species,Noctuidae,Athetis hospes,Athetis hospes,Athetis hospes,"(Freyer, [1831])",11,13,N
+5861,Species,Noctuidae,Dypterygia scabriuscula,Dypterygia scabriuscula,Dypterygia scabriuscula,"(Linnaeus, 1758)",16,16,N
+5864,Species,Noctuidae,Trachea atriplicis,Trachea atriplicis,Trachea atriplicis,"(Linnaeus, 1758)",20,22,N
+5867,Species,Noctuidae,Mormo maura,Mormo maura,Mormo maura,"(Linnaeus, 1758)",30,36,N
+5870,Species,Noctuidae,Polyphaenis sericata,Polyphaenis sericata,Polyphaenis sericata,"(Esper, 1787)",17,20,N
+5874,Species,Noctuidae,Thalpophila matura,Thalpophila matura,Thalpophila matura,"(Hufnagel, 1766)",17,20,N
+5878,Species,Noctuidae,Hyppa rectilinea,Hyppa rectilinea,Hyppa rectilinea,"(Esper, 1796)",16,19,N
+5881,Species,Noctuidae,Actinotia polyodon,Actinotia polyodon,Actinotia polyodon,"(Clerck, 1759)",13,15,N
+5884,Species,Noctuidae,Chloantha hyperici,Chloantha hyperici,Chloantha hyperici,"([Denis & Schiffermüller], 1775)",12,16,N
+5888,Species,Noctuidae,Phlogophora meticulosa,Phlogophora meticulosa,Phlogophora meticulosa,"(Linnaeus, 1758)",21,25,N
+5891,Species,Noctuidae,Euplexia lucipara,Euplexia lucipara,Euplexia lucipara,"(Linnaeus, 1758)",14,17,N
+5894,Species,Noctuidae,Pseudenargia ulicis,Pseudenargia ulicis,Pseudenargia ulicis,"(Staudinger, 1859)",17,19,N
+5898,Subspecies,Noctuidae,Calamia tridens tridens,Calamia tridens,Calamia tridens,"(Hufnagel, 1766)",17,18,N
+5900,Subspecies,Noctuidae,Calamia tridens occidentalis,Calamia tridens,Calamia tridens,"Cockayne, 1954",17,18,N
+5903,Species,Noctuidae,Crypsedra gemmea,Crypsedra gemmea,Crypsedra gemmea,"(Treitschke, 1825)",17,20,N
+5906,Species,Noctuidae,Celaena haworthii,Celaena haworthii,Celaena haworthii,"(Curtis, 1829)",10,14,N
+5909,Subspecies,Noctuidae,Helotropha leucostigma leucostigma,Helotropha leucostigma,Helotropha leucostigma,"(Hübner, [1808])",14,17,N
+5912,Subspecies,Noctuidae,Helotropha leucostigma scotica,Helotropha leucostigma,Helotropha leucostigma,"(Cockayne, 1944)",14,17,N
+5914,Species,Noctuidae,Eremobia ochroleuca,Eremobia ochroleuca,Eremobia ochroleuca,"([Denis & Schiffermüller], 1775)",14,16,N
+5917,Species,Noctuidae,Gortyna flavago,Gortyna flavago,Gortyna flavago,"([Denis & Schiffermüller], 1775)",16,19,N
+5920,Subspecies,Noctuidae,Gortyna borelii borelii,Gortyna borelii,Gortyna borelii,"Pierret, 1837",21,24,N
+5921,Subspecies,Noctuidae,Gortyna borelii lunata,Gortyna borelii,Gortyna borelii,"Freyer, [1837]",21,24,N
+5924,Species,Noctuidae,Hydraecia micacea,Hydraecia micacea,Hydraecia micacea,"(Esper, 1789)",14,21,N
+5926,Species,Noctuidae,Hydraecia petasitis,Hydraecia petasitis,Hydraecia petasitis,"Doubleday, 1847",19,23,N
+5928,Subspecies,Noctuidae,Hydraecia osseola osseola,Hydraecia osseola,Hydraecia osseola,"Staudinger, 1882",18,20,N
+5929,Subspecies,Noctuidae,Hydraecia osseola hucherardi,Hydraecia osseola,Hydraecia osseola,"Mabille, 1907",18,20,N
+5932,Subspecies,Noctuidae,Amphipoea fucosa fucosa,Amphipoea fucosa,Amphipoea fucosa,"(Freyer, 1830)",14,16,N
+5933,Subspecies,Noctuidae,Amphipoea fucosa paludis,Amphipoea fucosa,Amphipoea fucosa,"(Tutt, 1888)",14,16,N
+5935,Species,Noctuidae,Amphipoea lucens,Amphipoea lucens,Amphipoea lucens,"(Freyer, 1845)",14,17,N
+5937,Species,Noctuidae,Amphipoea oculea,Amphipoea oculea,Amphipoea oculea,"(Linnaeus, 1761)",12,15,N
+5940,Species,Noctuidae,Amphipoea crinanensis,Amphipoea crinanensis,Amphipoea crinanensis,"(Burrows, 1908)",13,15,N
+5943,Species,Noctuidae,Luperina dumerilii,Luperina dumerilii,Luperina dumerilii,"(Duponchel, 1826)",11,16,N
+5945,Species,Noctuidae,Luperina testacea,Luperina testacea,Luperina testacea,"([Denis & Schiffermüller], 1775)",14,18,N
+5947,Subspecies,Noctuidae,Luperina nickerlii nicklerlii,Luperina nickerlii,Luperina nickerlii,"(Freyer, 1845)",15,18,N
+5948,Subspecies,Noctuidae,Luperina nicklerlii gueneei,Luperina nicklerlii,Luperina nicklerlii,"Doubleday, 1864",15,18,N
+5950,Subspecies,Noctuidae,Luperina nicklerlii knilli,Luperina nicklerlii,Luperina nicklerlii,"Boursin, 1964",15,18,N
+5951,Subspecies,Noctuidae,Luperina nicklerlii leechi,Luperina nicklerlii,Luperina nicklerlii,"Goater, 1976",15,18,N
+5952,Subspecies,Noctuidae,Luperina nicklerlii demuthi,Luperina nicklerlii,Luperina nicklerlii,"Goater & Skinner, 1995",15,18,N
+5954,Species,Noctuidae,Fabula zollikoferi,Fabula zollikoferi,Fabula zollikoferi,"(Freyer, [1836])",18,25,N
+5957,Species,Noctuidae,Rhizedra lutosa,Rhizedra lutosa,Rhizedra lutosa,"(Hübner, [1803])",16,23,N
+5960,Species,Noctuidae,Sedina buettneri,Sedina buettneri,Sedina buettneri,"(Hering, 1858)",12,14,N
+5963,Species,Noctuidae,Nonagria typhae,Nonagria typhae,Nonagria typhae,"(Thunberg, 1784)",20,24,N
+5967,Species,Noctuidae,Arenostola phragmitidis,Arenostola phragmitidis,Arenostola phragmitidis,"(Hübner, [1803])",14,16,N
+5970,Species,Noctuidae,Longalatedes elymi,Longalatedes elymi,Longalatedes elymi,"(Treitschke, 1825)",15,18,N
+5973,Species,Noctuidae,Lenisa geminipuncta,Lenisa geminipuncta,Lenisa geminipuncta,"(Haworth, 1809)",11,16,N
+5976,Species,Noctuidae,Archanara neurica,Archanara neurica,Archanara neurica,"(Hübner, [1808])",12,13,N
+5978,Species,Noctuidae,Archanara dissoluta,Archanara dissoluta,Archanara dissoluta,"(Treitschke, 1825)",12,15,N
+5981,Species,Noctuidae,Coenobia rufa,Coenobia rufa,Coenobia rufa,"(Haworth, 1809)",10,12,N
+5984,Species,Noctuidae,Oria musculosa,Oria musculosa,Oria musculosa,"(Hübner, [1808])",12,16,N
+5987,Species,Noctuidae,Denticucullus pygmina,Denticucullus pygmina,Denticucullus pygmina,"(Haworth, 1809)",10,14,N
+5991,Species,Noctuidae,Photedes fluxa,Photedes fluxa,Photedes fluxa,"(Hübner, [1809])",12,15,N
+5994,Subspecies,Noctuidae,Photedes captiuncula captiuncula,Photedes captiuncula,Photedes captiuncula,"(Treitschke, 1825)",7,9,N
+5996,Subspecies,Noctuidae,Photedes captiuncula expolita,Photedes captiuncula,Photedes captiuncula,"(Stainton, 1855)",7,9,N
+5998,Species,Noctuidae,Photedes minima,Photedes minima,Photedes minima,"(Haworth, 1809)",11,14,N
+6001,Subspecies,Noctuidae,Photedes morrisii morrisii,Photedes morrisii,Photedes morrisii,"(Dale, 1837)",12,14,N
+6003,Subspecies,Noctuidae,Photedes morrisii bondii,Photedes morrisii,Photedes morrisii,"(Knaggs, 1861)",12,14,N
+6005,Species,Noctuidae,Photedes extrema,Photedes extrema,Photedes extrema,"(Hübner, [1809])",11,13,N
+6009,Species,Noctuidae,Protarchanara brevilinea,Protarchanara brevilinea,Protarchanara brevilinea,"(Fenn, 1864)",14,17,N
+6012,Species,Noctuidae,Globia sparganii,Globia sparganii,Globia sparganii,"(Esper, 1789)",15,18,N
+6014,Species,Noctuidae,Globia algae,Globia algae,Globia algae,"(Esper, 1788)",14,18,N
+6018,Species,Noctuidae,Pabulatrix pabulatricula,Pabulatrix pabulatricula,Pabulatrix pabulatricula,"(Brahm, 1791)",14,17,N
+6021,Species,Noctuidae,Apamea remissa,Apamea remissa,Apamea remissa,"(Hübner, [1809])",17,19,N
+6025,Species,Noctuidae,Apamea epomidion,Apamea epomidion,Apamea epomidion,"(Haworth, 1809)",17,20,N
+6029,Species,Noctuidae,Apamea crenata,Apamea crenata,Apamea crenata,"(Hufnagel, 1766)",18,22,N
+6032,Species,Noctuidae,Apamea anceps,Apamea anceps,Apamea anceps,"([Denis & Schiffermüller], 1775)",16,21,N
+6037,Species,Noctuidae,Apamea sordens,Apamea sordens,Apamea sordens,"(Hufnagel, 1766)",16,19,N
+6040,Species,Noctuidae,Apamea unanimis,Apamea unanimis,Apamea unanimis,"(Hübner, [1813])",15,17,N
+6042,Species,Noctuidae,Apamea scolopacina,Apamea scolopacina,Apamea scolopacina,"(Esper, 1788)",14,17,N
+6044,Species,Noctuidae,Apamea oblonga,Apamea oblonga,Apamea oblonga,"(Haworth, 1809)",18,21,N
+6047,Species,Noctuidae,Apamea monoglypha,Apamea monoglypha,Apamea monoglypha,"(Hufnagel, 1766)",19,26,N
+6049,Species,Noctuidae,Apamea lithoxylaea,Apamea lithoxylaea,Apamea lithoxylaea,"([Denis & Schiffermüller], 1775)",18,23,N
+6051,Species,Noctuidae,Apamea sublustris,Apamea sublustris,Apamea sublustris,"(Esper, 1788)",18,21,N
+6053,Subspecies,Noctuidae,Apamea furva furva,Apamea furva,Apamea furva,"([Denis & Schiffermüller], 1775)",16,19,N
+6054,Subspecies,Noctuidae,Apamea furva brittanica,Apamea furva,Apamea furva,"Cockayne, 1950",16,19,N
+6056,Species,Noctuidae,Apamea lateritia,Apamea lateritia,Apamea lateritia,"(Hufnagel, 1766)",19,24,N
+6058,Species,Noctuidae,Apamea exulis,Apamea exulis,Apamea exulis,"(Lefebvre, 1836)",19,20,N
+6065,Species,Noctuidae,Lateroligia ophiogramma,Lateroligia ophiogramma,Lateroligia ophiogramma,"(Esper, 1794)",13,16,N
+6068,Species,Noctuidae,Mesapamea secalis,Mesapamea secalis,Mesapamea secalis,"(Linnaeus, 1758)",12,16,N
+6071,Species,Noctuidae,Mesapamea didyma,Mesapamea didyma,Mesapamea didyma,"(Esper, 1788)",11,16,N
+6071.1,Aggregate,Noctuidae,Mesapamea secalis/didyma,Mesapamea secalis/didyma,Mesapamea secalis/didyma,NA,11,16,Y
+6075,Species,Noctuidae,Litoligia literosa,Litoligia literosa,Mesoligia literosa,"(Haworth, 1809)",10,13,N
+6078,Species,Noctuidae,Mesoligia furuncula,Mesoligia furuncula,Mesoligia furuncula,"([Denis & Schiffermüller], 1775)",10,12,N
+6082,Species,Noctuidae,Oligia strigilis,Oligia strigilis,Oligia strigilis,"(Linnaeus, 1758)",11,13,N
+6084,Species,Noctuidae,Oligia latruncula,Oligia latruncula,Oligia latruncula,"([Denis & Schiffermüller], 1775)",11,13,N
+6086,Species,Noctuidae,Oligia versicolor,Oligia versicolor,Oligia versicolor,"(Borkhausen, 1792)",11,12,N
+6088,Species,Noctuidae,Oligia fasciuncula,Oligia fasciuncula,Oligia fasciuncula,"(Haworth, 1809)",10,12,N
+6091,Species,Noctuidae,Sesamia nonagrioides,Sesamia nonagrioides,Sesamia nonagrioides,"(Lefebvre, 1827)",13,19,N
+6095,Species,Noctuidae,Leucochlaena oditis,Leucochlaena oditis,Leucochlaena oditis,"(Hübner, [1822])",14,16,N
+6100,Species,Noctuidae,Tiliacea citrago,Tiliacea citrago,Tiliacea citrago,"(Linnaeus, 1758)",15,17,N
+6102,Species,Noctuidae,Tiliacea aurago,Tiliacea aurago,Xanthia aurago,"([Denis & Schiffermüller], 1775)",14,16,N
+6106,Species,Noctuidae,Xanthia togata,Xanthia togata,Xanthia togata,"(Esper, 1788)",13,16,N
+6110,Species,Noctuidae,Cirrhia icteritia,Cirrhia icteritia,Xanthia icteritia,"(Hufnagel, 1766)",14,17,N
+6113,Species,Noctuidae,Cirrhia gilvago,Cirrhia gilvago,Xanthia gilvago,"([Denis & Schiffermüller], 1775)",15,18,N
+6116,Species,Noctuidae,Cirrhia ocellaris,Cirrhia ocellaris,Cirrhia ocellaris,"(Borkhausen, 1792)",18,19,N
+6119,Species,Noctuidae,Mesogona acetosellae,Mesogona acetosellae,Mesogona acetosellae,"([Denis & Schiffermüller], 1775)",19,21,N
+6123,Species,Noctuidae,Agrochola lychnidis,Agrochola lychnidis,Agrochola lychnidis,"([Denis & Schiffermüller], 1775)",15,18,N
+6127,Species,Noctuidae,Agrochola litura,Agrochola litura,Agrochola (Anchoscelis) litura,"(Linnaeus, 1761)",14,17,N
+6129,Species,Noctuidae,Agrochola helvola,Agrochola helvola,Agrochola helvola,"(Linnaeus, 1758)",16,18,N
+6132,Species,Noctuidae,Agrochola lota,Agrochola lota,Agrochola (Leptologia) lota,"(Clerck, 1759)",15,18,N
+6134,Species,Noctuidae,Agrochola macilenta,Agrochola macilenta,Agrochola (Leptologia) macilenta,"(Hübner, [1809])",14,16,N
+6137,Species,Noctuidae,Agrochola haematidea,Agrochola haematidea,Agrochola haematidea,"(Duponchel, 1827)",14,15,N
+6140,Species,Noctuidae,Agrochola circellaris,Agrochola circellaris,Agrochola circellaris,"(Hufnagel, 1766)",14,19,N
+6143,Species,Noctuidae,Omphaloscelis lunosa,Omphaloscelis lunosa,Omphaloscelis lunosa,"(Haworth, 1809)",14,17,N
+6147,Species,Noctuidae,Conistra vaccinii,Conistra vaccinii,Conistra vaccinii,"(Linnaeus, 1761)",14,15,N
+6149,Species,Noctuidae,Conistra ligula,Conistra ligula,Conistra ligula,"(Esper, 1791)",13,15,N
+6151,Species,Noctuidae,Conistra rubiginosa,Conistra rubiginosa,Conistra rubiginosa,"(Scopoli, 1763)",15,17,N
+6154,Species,Noctuidae,Conistra rubiginea,Conistra rubiginea,Conistra rubiginea,"([Denis & Schiffermüller], 1775)",15,17,N
+6156,Species,Noctuidae,Conistra erythrocephala,Conistra erythrocephala,Conistra erythrocephala,"([Denis & Schiffermüller], 1775)",16,18,N
+6159,Species,Noctuidae,Jodia croceago,Jodia croceago,Jodia croceago,"([Denis & Schiffermüller], 1775)",14,17,N
+6163,Species,Noctuidae,Lithophane semibrunnea,Lithophane semibrunnea,Lithophane semibrunnea,"(Haworth, 1809)",16,20,N
+6165,Species,Noctuidae,Lithophane socia,Lithophane socia,Lithophane socia,"(Hufnagel, 1766)",17,20,N
+6168,Subspecies,Noctuidae,Lithophane ornitopus ornitopus,Lithophane ornitopus,Lithophane ornitopus,"(Hufnagel, 1766)",17,19,N
+6170,Subspecies,Noctuidae,Lithophane ornitopus lactipennis,Lithophane ornitopus,Lithophane ornitopus,"(Dadd, 1911)",17,19,N
+6172,Subspecies,Noctuidae,Lithophane furcifera furcifera,Lithophane furcifera,Lithophane furcifera,"(Hufnagel, 1766)",17,20,N
+6175,Subspecies,Noctuidae,Lithophane furcifera suffusa,Lithophane furcifera,Lithophane furcifera,"(Tutt, 1892)",17,20,N
+6176,Species,Noctuidae,Lithophane consocia,Lithophane consocia,Lithophane consocia,"(Borkhausen, 1792)",18,20,N
+6178,Species,Noctuidae,Lithophane lamda,Lithophane lamda,Lithophane lamda,"(Fabricius, 1787)",17,20,N
+6182,Subspecies,Noctuidae,Lithophane leautieri leautieri,Lithophane leautieri,Lithophane leautieri hesperica,"(Boisduval, 1829)",17,20,N
+6184,Subspecies,Noctuidae,Lithophane leautieri hesperica,Lithophane leautieri,Lithophane leautieri hesperica,"Boursin, 1957",17,20,N
+6188,Species,Noctuidae,Xylena solidaginis,Xylena solidaginis,Xylena solidaginis,"(Hübner, [1803])",18,21,N
+6191,Species,Noctuidae,Xylena exsoleta,Xylena exsoleta,Xylena exsoleta,"(Linnaeus, 1758)",24,29,N
+6194,Species,Noctuidae,Xylena vetusta,Xylena vetusta,Xylena vetusta,"(Hübner, [1813])",24,29,N
+6197,Species,Noctuidae,Eupsilia transversa,Eupsilia transversa,Eupsilia transversa,"(Hufnagel, 1766)",17,20,N
+6201,Species,Noctuidae,Enargia paleacea,Enargia paleacea,Enargia paleacea,"(Esper, 1791)",17,20,N
+6204,Species,Noctuidae,Ipimorpha retusa,Ipimorpha retusa,Ipimorpha retusa,"(Linnaeus, 1761)",13,15,N
+6206,Species,Noctuidae,Ipimorpha subtusa,Ipimorpha subtusa,Ipimorpha subtusa,"([Denis & Schiffermüller], 1775)",14,16,N
+6210,Species,Noctuidae,Cosmia diffinis,Cosmia diffinis,Cosmia diffinis,"(Linnaeus, 1767)",14,16,N
+6213,Species,Noctuidae,Cosmia affinis,Cosmia affinis,Cosmia affinis,"(Linnaeus, 1767)",12,16,N
+6216,Species,Noctuidae,Cosmia trapezina,Cosmia trapezina,Cosmia trapezina,"(Linnaeus, 1758)",13,16,N
+6219,Species,Noctuidae,Cosmia pyralina,Cosmia pyralina,Cosmia pyralina,"([Denis & Schiffermüller], 1775)",13,16,N
+6222,Species,Noctuidae,Dicycla oo,Dicycla oo,Dicycla oo,"(Linnaeus, 1758)",15,17,N
+6225,Species,Noctuidae,Atethmia centrago,Atethmia centrago,Atethmia centrago,"(Haworth, 1809)",15,18,N
+6229,Species,Noctuidae,Brachylomia viminalis,Brachylomia viminalis,Brachylomia viminalis,"(Fabricius, [1777])",13,15,N
+6232,Species,Noctuidae,Parastichtis suspecta,Parastichtis suspecta,Parastichtis suspecta,"(Hübner, [1817])",14,16,N
+6235,Species,Noctuidae,Apterogenum ypsillon,Apterogenum ypsillon,Parastichtis ypsillon,"([Denis & Schiffermüller], 1775)",15,19,N
+6239,Species,Noctuidae,Dryobota labecula,Dryobota labecula,Dryobota labecula,"(Esper, 1788)",12,15,N
+6242,Species,Noctuidae,Griposia aprilina,Griposia aprilina,Dichonia aprilina,"(Linnaeus, 1758)",18,23,N
+6246,Species,Noctuidae,Dryobotodes eremita,Dryobotodes eremita,Dryobotodes eremita,"(Fabricius, 1775)",15,17,N
+6249,Species,Noctuidae,Dryobotodes roboris,Dryobotodes roboris,Dryobotodes roboris,"(Boisduval, [1828])",12,14,N
+6252,Species,Noctuidae,Dichonioxa tenebrosa,Dichonioxa tenebrosa,Dichonioxa tenebrosa,"(Esper, 1789)",15,17,N
+6255,Species,Noctuidae,Antitype chi,Antitype chi,Antitype chi,"(Linnaeus, 1758)",15,19,N
+6259,Species,Noctuidae,Trigonophora flammea,Trigonophora flammea,Trigonophora flammea,"(Esper, 1785)",20,23,N
+6263,Subspecies,Noctuidae,Aporophyla australis australis,Aporophyla australis,Aporophyla australis,"(Boisduval, 1829)",14,17,N
+6264,Subspecies,Noctuidae,Aporophyla australis pascuea,Aporophyla australis,Aporophyla australis,"(Humphreys & Westwood, 1843)",14,17,N
+6267,Species,Noctuidae,Aporophyla lutulenta,Aporophyla lutulenta,Aporophyla lutulenta,"([Denis & Schiffermüller], 1775)",15,18,N
+6269,Species,Noctuidae,Aporophyla lueneburgensis,Aporophyla lueneburgensis,Aporophyla lueneburgensis,"(Freyer, 1848)",15,17,N
+6271,Species,Noctuidae,Aporophyla nigra,Aporophyla nigra,Aporophyla nigra,"(Haworth, 1809)",17,21,N
+6275,Species,Noctuidae,Dasypolia templi,Dasypolia templi,Dasypolia templi,"(Thunberg, 1792)",18,23,N
+6279,Subspecies,Noctuidae,Polymixis lichenea lichenea,Polymixis lichenea,Polymixis lichenea,"(Hübner, [1813])",15,18,N
+6281,Subspecies,Noctuidae,Polymixis lichenea scillonea,Polymixis lichenea,Polymixis lichenea,"Richardson, 1958",15,18,N
+6283,Subspecies,Noctuidae,Polymixis xanthomista xanthomista,Polymixis xanthomista,Polymixis xanthomista,"(Hübner, [1819])",16,18,N
+6284,Subspecies,Noctuidae,Polymixis xanthomista statices,Polymixis xanthomista,Polymixis xanthomista,"(Gregson, 1869)",16,18,N
+6286,Species,Noctuidae,Polymixis flavicincta,Polymixis flavicincta,Polymixis flavicincta,"([Denis & Schiffermüller], 1775)",17,22,N
+6289,Species,Noctuidae,Mniotype adusta,Mniotype adusta,Mniotype adusta,"(Esper, 1790)",18,21,N
+6291,Species,Noctuidae,Mniotype solieri,Mniotype solieri,Mniotype solieri,"(Boisduval, 1840)",16,19,N
+6293,Species,Noctuidae,Mniotype satura,Mniotype satura,Mniotype satura,"([Denis & Schiffermüller], 1775)",19,23,N
+6299,Species,Noctuidae,Panolis flammea,Panolis flammea,Panolis flammea,"([Denis & Schiffermüller], 1775)",15,16,N
+6305,Species,Noctuidae,Orthosia incerta,Orthosia incerta,Orthosia incerta,"(Hufnagel, 1766)",16,20,N
+6308,Species,Noctuidae,Orthosia miniosa,Orthosia miniosa,Orthosia miniosa,"([Denis & Schiffermüller], 1775)",15,17,N
+6310,Species,Noctuidae,Orthosia cerasi,Orthosia cerasi,Orthosia cerasi,"(Fabricius, 1775)",13,17,N
+6313,Species,Noctuidae,Orthosia cruda,Orthosia cruda,Orthosia cruda,"([Denis & Schiffermüller], 1775)",12,15,N
+6316,Species,Noctuidae,Orthosia populeti,Orthosia populeti,Orthosia populeti,"(Fabricius, 1781)",15,17,N
+6319,Species,Noctuidae,Orthosia gracilis,Orthosia gracilis,Orthosia gracilis,"([Denis & Schiffermüller], 1775)",15,19,N
+6321,Species,Noctuidae,Orthosia opima,Orthosia opima,Orthosia opima,"(Hübner, [1809])",15,17,N
+6325,Species,Noctuidae,Orthosia gothica,Orthosia gothica,Orthosia gothica,"(Linnaeus, 1758)",15,17,N
+6328,Species,Noctuidae,Anorthoa munda,Anorthoa munda,Anorthoa munda,"([Denis & Schiffermüller], 1775)",17,20,N
+6331,Species,Noctuidae,Egira conspicillaris,Egira conspicillaris,Egira conspicillaris,"(Linnaeus, 1758)",16,18,N
+6335,Species,Noctuidae,Tholera cespitis,Tholera cespitis,Tholera cespitis,"([Denis & Schiffermüller], 1775)",15,19,N
+6337,Species,Noctuidae,Tholera decimalis,Tholera decimalis,Tholera decimalis,"(Poda, 1761)",16,22,N
+6340,Species,Noctuidae,Cerapteryx graminis,Cerapteryx graminis,Cerapteryx graminis,"(Linnaeus, 1758)",12,17,N
+6345,Species,Noctuidae,Anarta trifolii,Anarta trifolii,Discestra trifolii,"(Hufnagel, 1766)",14,18,N
+6347,Species,Noctuidae,Anarta melanopa,Anarta melanopa,Anarta melanopa,"(Thunberg, 1791)",11,13,N
+6350,Species,Noctuidae,Anarta myrtilli,Anarta myrtilli,Anarta myrtilli,"(Linnaeus, 1761)",10,12,N
+6353,Species,Noctuidae,Coranarta cordigera,Coranarta cordigera,Coranarta cordigera,"(Thunberg, 1788)",10,12,N
+6356,Species,Noctuidae,Polia bombycina,Polia bombycina,Polia bombycina,"(Hufnagel, 1766)",19,23,N
+6360,Species,Noctuidae,Polia hepatica,Polia hepatica,Polia hepatica,"(Clerck, 1759)",21,25,N
+6365,Species,Noctuidae,Polia nebulosa,Polia nebulosa,Polia nebulosa,"(Hufnagel, 1766)",21,26,N
+6368,Subspecies,Noctuidae,Pachetra sagittigera sagittigera,Pachetra sagittigera,Pachetra sagittigera,"(Hufnagel, 1766)",17,20,N
+6370,Subspecies,Noctuidae,Pachetra sagittigera britannica,Pachetra sagittigera,Pachetra sagittigera,"Turner, 1933",17,20,N
+6374,Species,Noctuidae,Lacanobia w-latinum,Lacanobia w-latinum,Lacanobia w-latinum,"(Hufnagel, 1766)",18,21,N
+6378,Species,Noctuidae,Lacanobia thalassina,Lacanobia thalassina,Lacanobia thalassina,"(Hufnagel, 1766)",16,20,N
+6380,Species,Noctuidae,Lacanobia contigua,Lacanobia contigua,Lacanobia contigua,"([Denis & Schiffermüller], 1775)",16,19,N
+6382,Species,Noctuidae,Lacanobia suasa,Lacanobia suasa,Lacanobia suasa,"([Denis & Schiffermüller], 1775)",15,20,N
+6386,Species,Noctuidae,Lacanobia oleracea,Lacanobia oleracea,Lacanobia oleracea,"(Linnaeus, 1758)",14,19,N
+6388,Species,Noctuidae,Lacanobia splendens,Lacanobia splendens,Lacanobia splendens,"(Hübner, [1808])",16,18,N
+6390,Species,Noctuidae,Lacanobia blenna,Lacanobia blenna,Lacanobia blenna,"(Hübner, [1824])",15,17,N
+6394,Species,Noctuidae,Melanchra persicariae,Melanchra persicariae,Melanchra persicariae,"(Linnaeus, 1761)",16,21,N
+6397,Species,Noctuidae,Ceramica pisi,Ceramica pisi,Ceramica pisi,"(Linnaeus, 1758)",16,20,N
+6400,Species,Noctuidae,Papestra biren,Papestra biren,Papestra biren,"(Goeze, 1781)",15,18,N
+6405,Species,Noctuidae,Hada plebeja,Hada plebeja,Hada plebeja,"(Linnaeus, 1761)",14,17,N
+6410,Species,Noctuidae,Mamestra brassicae,Mamestra brassicae,Mamestra brassicae,"(Linnaeus, 1758)",14,22,N
+6414,Species,Noctuidae,Sideridis turbida,Sideridis turbida,Sideridis turbida,"(Esper, 1790)",17,20,N
+6418,Species,Noctuidae,Sideridis rivularis,Sideridis rivularis,Sideridis rivularis,"(Fabricius, 1775)",14,16,N
+6422,Subspecies,Noctuidae,Sideridis reticulata reticulata,Sideridis reticulata,Sideridis reticulata,"(Goeze, 1781)",17,19,N
+6425,Subspecies,Noctuidae,Sideridis reticulata marginosa,Sideridis reticulata,Sideridis reticulata,"(Haworth, 1809)",17,19,N
+6427,Subspecies,Noctuidae,Sideridis reticulata hibernica,Sideridis reticulata,Sideridis reticulata,"(Cockayne, 1944)",17,19,N
+6430,Subspecies,Noctuidae,Conisania andalusica andalusica,Conisania andalusica,Conisania andalusica,"(Staudinger, 1859)",15,19,N
+6432,Subspecies,Noctuidae,Conisania andalusica barrettii,Conisania andalusica,Conisania andalusica,"(Doubleday, 1864)",15,19,N
+6435,Species,Noctuidae,Hecatera bicolorata,Hecatera bicolorata,Hecatera bicolorata,"(Hufnagel, 1766)",13,15,N
+6438,Species,Noctuidae,Hecatera dysodea,Hecatera dysodea,Hecatera dysodea,"([Denis & Schiffermüller], 1775)",14,15,N
+6443,Species,Noctuidae,Hadena bicruris,Hadena bicruris,Hadena bicruris,"(Hufnagel, 1766)",14,17,N
+6446,Species,Noctuidae,Hadena compta,Hadena compta,Hadena compta,"([Denis & Schiffermüller], 1775)",13,15,N
+6448,Species,Noctuidae,Hadena confusa,Hadena confusa,Hadena confusa,"(Hufnagel, 1766)",14,16,N
+6452,Species,Noctuidae,Hadena albimacula,Hadena albimacula,Hadena albimacula,"(Borkhausen, 1792)",15,17,N
+6454,Subspecies,Noctuidae,Hadena caesia caesia,Hadena caesia,Hadena caesia,"([Denis & Schiffermüller], 1775)",15,17,N
+6455,Subspecies,Noctuidae,Hadena caesia mananii,Hadena caesia,Hadena caesia,"(Gregson, 1866)",15,17,N
+6458,Subspecies,Noctuidae,Hadena perplexa perplexa,Hadena perplexa,Hadena perplexa,"([Denis & Schiffermüller], 1775)",13,15,N
+6461,Subspecies,Noctuidae,Hadena perplexa capsophila,Hadena perplexa,Hadena perplexa,"(Duponchel, 1842)",13,15,N
+6463,Species,Noctuidae,Hadena irregularis,Hadena irregularis,Hadena irregularis,"(Hufnagel, 1766)",14,15,N
+6468,Species,Noctuidae,Mythimna turca,Mythimna turca,Mythimna turca,"(Linnaeus, 1761)",18,23,N
+6470,Species,Noctuidae,Mythimna pudorina,Mythimna pudorina,Mythimna pudorina,"([Denis & Schiffermüller], 1775)",16,19,N
+6473,Species,Noctuidae,Mythimna conigera,Mythimna conigera,Mythimna conigera,"([Denis & Schiffermüller], 1775)",15,17,N
+6475,Species,Noctuidae,Mythimna pallens,Mythimna pallens,Mythimna pallens,"(Linnaeus, 1758)",14,17,N
+6477,Species,Noctuidae,Mythimna favicolor,Mythimna favicolor,Mythimna favicolor,"(Barrett, 1896)",16,18,N
+6479,Species,Noctuidae,Mythimna impura,Mythimna impura,Mythimna impura,"(Hübner, [1808])",14,18,N
+6481,Species,Noctuidae,Mythimna straminea,Mythimna straminea,Mythimna straminea,"(Treitschke, 1825)",14,18,N
+6483,Species,Noctuidae,Mythimna vitellina,Mythimna vitellina,Mythimna vitellina,"(Hübner, [1808])",12,14,N
+6486,Species,Noctuidae,Mythimna unipuncta,Mythimna unipuncta,Mythimna unipuncta,"(Haworth, 1809)",18,21,N
+6489,Species,Noctuidae,Mythimna albipuncta,Mythimna albipuncta,Mythimna albipuncta,"([Denis & Schiffermüller], 1775)",14,17,N
+6491,Species,Noctuidae,Mythimna ferrago,Mythimna ferrago,Mythimna (Hyphilare) ferrago,"(Fabricius, 1787)",15,18,N
+6496,Species,Noctuidae,Mythimna litoralis,Mythimna litoralis,Mythimna litoralis,"(Curtis, 1827)",15,18,N
+6498,Species,Noctuidae,Mythimna l-album,Mythimna l-album,Mythimna l-album,"(Linnaeus, 1767)",15,16,N
+6502,Species,Noctuidae,Leucania comma,Leucania comma,Mythimna comma,"(Linnaeus, 1761)",16,19,N
+6504,Species,Noctuidae,Leucania obsoleta,Leucania obsoleta,Leucania obsoleta,"(Hübner, [1803])",15,18,N
+6506,Species,Noctuidae,Leucania putrescens,Leucania putrescens,Leucania putrescens,"(Hübner, [1824])",14,17,N
+6509,Species,Noctuidae,Leucania loreyi,Leucania loreyi,Leucania loreyi,"(Duponchel, 1827)",16,17,N
+6512,Species,Noctuidae,Senta flammea,Senta flammea,Senta flammea,"(Curtis, 1828)",14,18,N
+6516,Species,Noctuidae,Eriopygodes imbecilla,Eriopygodes imbecilla,Eriopygodes imbecilla,"(Fabricius, 1794)",10,13,N
+6521,Species,Noctuidae,Peridroma saucia,Peridroma saucia,Peridroma saucia,"(Hübner, [1808])",19,23,N
+6526,Species,Noctuidae,Actebia praecox,Actebia praecox,Actebia praecox,"(Linnaeus, 1758)",17,21,N
+6528,Species,Noctuidae,Actebia fennica,Actebia fennica,Actebia fennica,"(Tauscher, 1806)",16,18,N
+6532,Species,Noctuidae,Dichagyris flammatra,Dichagyris flammatra,Dichagyris flammatra,"([Denis & Schiffermüller], 1775)",19,21,N
+6536,Species,Noctuidae,Euxoa cursoria,Euxoa cursoria,Euxoa cursoria,"(Hufnagel, 1766)",14,18,N
+6538,Subspecies,Noctuidae,Euxoa obelisca obelisca,Euxoa obelisca,Euxoa obelisca,"([Denis & Schiffermüller], 1775)",14,18,N
+6539,Subspecies,Noctuidae,Euxoa obelisca grisea,Euxoa obelisca,Euxoa obelisca,"(Tutt, 1902)",14,18,N
+6541,Species,Noctuidae,Euxoa tritici,Euxoa tritici,Euxoa tritici,"(Linnaeus, 1761)",13,17,N
+6546,Species,Noctuidae,Euxoa nigricans,Euxoa nigricans,Euxoa nigricans,"(Linnaeus, 1761)",15,18,N
+6549,Species,Noctuidae,Agrotis bigramma,Agrotis bigramma,Agrotis bigramma,"(Esper, 1790)",16,20,N
+6552,Species,Noctuidae,Agrotis cinerea,Agrotis cinerea,Agrotis cinerea,"([Denis & Schiffermüller], 1775)",13,17,N
+6554,Species,Noctuidae,Agrotis exclamationis,Agrotis exclamationis,Agrotis exclamationis,"(Linnaeus, 1758)",15,19,N
+6556,Species,Noctuidae,Agrotis graslini,Agrotis graslini,Agrotis graslini,"Rambur, 1848",15,20,N
+6558,Species,Noctuidae,Agrotis segetum,Agrotis segetum,Agrotis segetum,"([Denis & Schiffermüller], 1775)",16,21,N
+6560,Species,Noctuidae,Agrotis clavis,Agrotis clavis,Agrotis clavis,"(Hufnagel, 1766)",14,18,N
+6563,Species,Noctuidae,Agrotis herzogi,Agrotis herzogi,Agrotis herzogi,"Rebel, 1911",15,17,N
+6565,Species,Noctuidae,Agrotis vestigialis,Agrotis vestigialis,Agrotis vestigialis,"(Hufnagel, 1766)",14,18,N
+6567,Species,Noctuidae,Agrotis ripae,Agrotis ripae,Agrotis ripae,"(Hübner, [1823])",14,18,N
+6569,Subspecies,Noctuidae,Agrotis trux trux,Agrotis trux,Agrotis trux,"(Hübner, [1824])",16,19,N
+6570,Subspecies,Noctuidae,Agrotis trux lunigera,Agrotis trux,Agrotis trux,"Stephens, 1829",16,19,N
+6572,Subspecies,Noctuidae,Agrotis puta puta,Agrotis puta,Agrotis puta,"(Hübner, [1803])",12,16,N
+6574,Subspecies,Noctuidae,Agrotis puta insula,Agrotis puta,Agrotis puta,"Richardson, 1958",12,16,N
+6575,Species,Noctuidae,Agrotis catalaunensis,Agrotis catalaunensis,Agrotis catalaunensis,"(Millière, 1873)",15,16,N
+6578,Species,Noctuidae,Agrotis ipsilon,Agrotis ipsilon,Agrotis ipsilon,"(Hufnagel, 1766)",15,25,N
+6582,Species,Noctuidae,Axylia putris,Axylia putris,Axylia putris,"(Linnaeus, 1761)",14,16,N
+6585,Species,Noctuidae,Ochropleura plecta,Ochropleura plecta,Ochropleura plecta,"(Linnaeus, 1761)",12,15,N
+6587,Species,Noctuidae,Ochropleura leucogaster,Ochropleura leucogaster,Ochropleura leucogaster,"(Freyer, [1831])",13,16,N
+6590,Species,Noctuidae,Diarsia dahlii,Diarsia dahlii,Diarsia dahlii,"(Hübner, [1813])",15,18,N
+6592,Species,Noctuidae,Diarsia brunnea,Diarsia brunnea,Diarsia brunnea,"([Denis & Schiffermüller], 1775)",16,20,N
+6594,Subspecies,Noctuidae,Diarsia mendica mendica,Diarsia mendica,Diarsia mendica,"(Fabricius, 1775)",13,17,N
+6599,Subspecies,Noctuidae,Diarsia mendica thulei,Diarsia mendica,Diarsia mendica,"(Staudinger, 1891)",13,17,N
+6600,Subspecies,Noctuidae,Diarsia mendica orkneyensis,Diarsia mendica,Diarsia mendica,"(Bytinski-Salz, 1939)",13,17,N
+6601,Species,Noctuidae,Diarsia rubi,Diarsia rubi,Diarsia rubi,"(Vieweg, 1790)",12,16,N
+6603,Species,Noctuidae,Diarsia florida,Diarsia florida,Diarsia florida,"(Schmidt, 1859)",15,17,N
+6606,Species,Noctuidae,Cerastis rubricosa,Cerastis rubricosa,Cerastis rubricosa,"([Denis & Schiffermüller], 1775)",14,17,N
+6608,Species,Noctuidae,Cerastis leucographa,Cerastis leucographa,Cerastis leucographa,"([Denis & Schiffermüller], 1775)",14,16,N
+6611,Species,Noctuidae,Lycophotia porphyrea,Lycophotia porphyrea,Lycophotia porphyrea,"([Denis & Schiffermüller], 1775)",12,15,N
+6615,Species,Noctuidae,Rhyacia simulans,Rhyacia simulans,Rhyacia simulans,"(Hufnagel, 1766)",17,21,N
+6617,Species,Noctuidae,Rhyacia lucipeta,Rhyacia lucipeta,Rhyacia lucipeta,"([Denis & Schiffermüller], 1775)",23,29,N
+6620,Species,Noctuidae,Standfussiana lucernea,Standfussiana lucernea,Standfussiana lucernea,"(Linnaeus, 1758)",17,21,N
+6623,Species,Noctuidae,Noctua pronuba,Noctua pronuba,Noctua pronuba,"(Linnaeus, 1758)",21,26,N
+6625,Species,Noctuidae,Noctua fimbriata,Noctua fimbriata,Noctua fimbriata,"(Schreber, 1759)",22,27,N
+6628,Species,Noctuidae,Noctua orbona,Noctua orbona,Noctua orbona,"(Hufnagel, 1766)",17,20,N
+6631,Species,Noctuidae,Noctua comes,Noctua comes,Noctua comes,"Hübner, [1813]",16,21,N
+6634,Subspecies,Noctuidae,Noctua interjecta interjecta,Noctua interjecta,Noctua interjecta,"Hübner, [1803]",14,17,N
+6635,Subspecies,Noctuidae,Noctua interjecta caliginosa,Noctua interjecta,Noctua interjecta,"(Schawerda, 1919)",14,17,N
+6637,Species,Noctuidae,Noctua janthina,Noctua janthina,Noctua janthina,"[Denis & Schiffermüller], 1775",16,18,N
+6639,Species,Noctuidae,Noctua janthe,Noctua janthe,Noctua janthe,"(Borkhausen, 1792)",16,20,N
+6643,Species,Noctuidae,Spaelotis ravida,Spaelotis ravida,Spaelotis ravida,"([Denis & Schiffermüller], 1775)",18,22,N
+6647,Species,Noctuidae,Eurois occulta,Eurois occulta,Eurois occulta,"(Linnaeus, 1758)",24,27,N
+6650,Species,Noctuidae,Graphiphora augur,Graphiphora augur,Graphiphora augur,"(Fabricius, 1775)",18,21,N
+6653,Species,Noctuidae,Anaplectoides prasina,Anaplectoides prasina,Anaplectoides prasina,"([Denis & Schiffermüller], 1775)",20,25,N
+6657,Species,Noctuidae,Xestia baja,Xestia baja,Xestia baja,"([Denis & Schiffermüller], 1775)",17,21,N
+6659,Species,Noctuidae,Xestia stigmatica,Xestia stigmatica,Xestia stigmatica,"(Hübner, [1813])",17,20,N
+6662,Species,Noctuidae,Xestia castanea,Xestia castanea,Xestia castanea,"(Esper, 1798)",16,18,N
+6664,Subspecies,Noctuidae,Xestia agathina agathina,Xestia agathina,Xestia agathina,"(Duponchel, 1827)",14,16,N
+6666,Subspecies,Noctuidae,Xestia agathina hebridicola,Xestia agathina,Xestia agathina,"(Staudinger, 1901)",14,16,N
+6667,Species,Noctuidae,Xestia xanthographa,Xestia xanthographa,Xestia xanthographa,"([Denis & Schiffermüller], 1775)",14,17,N
+6669,Species,Noctuidae,Xestia sexstrigata,Xestia sexstrigata,Xestia sexstrigata,"(Haworth, 1809)",15,17,N
+6673,Species,Noctuidae,Xestia c-nigrum,Xestia c-nigrum,Xestia c-nigrum,"(Linnaeus, 1758)",14,19,N
+6675,Species,Noctuidae,Xestia ditrapezium,Xestia ditrapezium,Xestia ditrapezium,"([Denis & Schiffermüller], 1775)",17,19,N
+6677,Species,Noctuidae,Xestia triangulum,Xestia triangulum,Xestia triangulum,"(Hufnagel, 1766)",17,19,N
+6680,Species,Noctuidae,Xestia ashworthii,Xestia ashworthii,Xestia ashworthii,"(Doubleday, 1855)",16,20,N
+6683,Subspecies,Noctuidae,Xestia alpicola alpicola,Xestia alpicola,Xestia alpicola,"(Zetterstedt, 1839)",15,17,N
+6686,Subspecies,Noctuidae,Xestia alpicola alpina,Xestia alpicola,Xestia alpicola,"(Humphreys & Westwood, 1843)",15,17,N
+6689,Species,Noctuidae,Coenophila subrosea,Coenophila subrosea,Coenophila subrosea,"(Stephens, 1829)",17,22,N
+6693,Species,Noctuidae,Eugnorisma glareosa,Eugnorisma glareosa,Eugnorisma glareosa,"(Esper, 1788)",15,16,N
+6696,Species,Noctuidae,Eugnorisma depuncta,Eugnorisma depuncta,Eugnorisma depuncta,"(Linnaeus, 1761)",16,20,N
+6699,Species,Noctuidae,Protolampra sobrina,Protolampra sobrina,Protolampra sobrina,"(Duponchel, [1843])",14,17,N
+6702,Species,Noctuidae,Naenia typica,Naenia typica,Naenia typica,"(Linnaeus, 1758)",17,22,N
+6708,Species,Nolidae,Meganola strigula,Meganola strigula,Meganola strigula,"([Denis & Schiffermüller], 1775)",9,11,N
+6710,Species,Nolidae,Meganola albula,Meganola albula,Meganola albula,"([Denis & Schiffermüller], 1775)",10,11,N
+6714,Species,Nolidae,Nola cucullatella,Nola cucullatella,Nola cucullatella,"(Linnaeus, 1758)",8,10,N
+6716,Species,Nolidae,Nola confusalis,Nola confusalis,Nola confusalis,"(Herrich-Schäffer, 1847)",9,11,N
+6719,Species,Nolidae,Nola aerugula,Nola aerugula,Nola aerugula,"(Hübner, 1793)",8,9,N
+6723,Species,Nolidae,Nola chlamitulalis,Nola chlamitulalis,Nola chlamitulalis,"(Hübner, [1813])",7,10,N
+6729,Species,Nolidae,Bena bicolorana,Bena bicolorana,Bena bicolorana,"(Fuessly, 1775)",19,23,N
+6734,Subspecies,Nolidae,Pseudoips prasinana prasinana,Pseudoips prasinana,Pseudoips prasinana,"(Linnaeus, 1758)",16,19,N
+6736,Subspecies,Nolidae,Pseudoips prasinana britannica,Pseudoips prasinana,Pseudoips prasinana,"(Warren, 1913)",16,19,N
+6740,Species,Nolidae,Nycteola revayana,Nycteola revayana,Nycteola revayana,"(Scopoli, 1772)",11,13,N
+6743,Species,Nolidae,Nycteola asiatica,Nycteola asiatica,Nycteola asiatica,"(Krulikovsky, 1904)",11,13,N
+6746,Species,Nolidae,Earias clorana,Earias clorana,Earias clorana,"(Linnaeus, 1761)",10,12,N
+6749,Species,Nolidae,Earias insulana,Earias insulana,Earias insulana,"(Boisduval, 1833)",10,12,N
+6750,Species,Nolidae,Earias biplaga,Earias biplaga,Earias biplaga,"(Walker, 1866)",11,12,N
+6751,Species,Nolidae,Earias vittella,Earias vittella,Earias vittella,"(Fabricius, 1775)",10,12,N
+3425,Species,Pyralidae,Aphomia sociella,Aphomia sociella,Aphomia sociella,"(Linnaeus, 1758)",12,17,N
+3428,Species,Pyralidae,Aphomia zelleri,Aphomia zelleri,Aphomia zelleri,"(Joannis, 1932)",9,17,N
+3439,Species,Pyralidae,Achroia grisella,Achroia grisella,Achroia grisella,"(Fabricius, 1794)",7,11,N
+3442,Species,Pyralidae,Galleria mellonella,Galleria mellonella,Galleria mellonella,"(Linnaeus, 1758)",14,19,N
+3447,Species,Pyralidae,Cryptoblabes bistriga,Cryptoblabes bistriga,Cryptoblabes bistriga,"(Haworth, 1811)",8,9,N
+3450,Species,Pyralidae,Salebriopsis albicilla,Salebriopsis albicilla,Salebriopsis albicilla,"(Herrich-Schäffer, 1849)",8,10,N
+3453,Species,Pyralidae,Elegia similella,Elegia similella,Elegia similella,"(Zincken, 1818)",9,10,N
+3455,Species,Pyralidae,Ortholepis betulae,Ortholepis betulae,Ortholepis betulae,"(Goeze, 1778)",9,13,N
+3457,Species,Pyralidae,Matilella fusca,Matilella fusca,Matilella fusca,"(Haworth, 1811)",11,13,N
+3459,Species,Pyralidae,Moitrelia obductella,Moitrelia obductella,Moitrelia obductella,"(Zeller, 1839)",10,12,N
+3461,Species,Pyralidae,Pempeliella ornatella,Pempeliella ornatella,Pempeliella ornatella,"([Denis & Schiffermüller], 1775)",11,13,N
+3464,Species,Pyralidae,Delplanqueia dilutella,Delplanqueia dilutella,Delplanqueia dilutella,"([Denis & Schiffermüller], 1775)",8,11,N
+3466,Species,Pyralidae,Sciota hostilis,Sciota hostilis,Sciota hostilis,"(Stephens, 1834)",10,12,N
+3467,Species,Pyralidae,Sciota adelphella,Sciota adelphella,Sciota adelphella,"(Fischer von Röslerstamm, 1836)",10,12,N
+3470,Species,Pyralidae,Pima boisduvaliella,Pima boisduvaliella,Pima boisduvaliella,"(Guenée, 1845)",10,12,N
+3475,Species,Pyralidae,Oncocera semirubella,Oncocera semirubella,Oncocera semirubella,"(Scopoli, 1763)",11,14,N
+3479,Species,Pyralidae,Pempelia palumbella,Pempelia palumbella,Pempelia palumbella,"([Denis & Schiffermüller], 1775)",11,13,N
+3481,Species,Pyralidae,Rhodophaea formosa,Rhodophaea formosa,Rhodophaea formosa,"(Haworth, 1811)",9,11,N
+3483,Species,Pyralidae,Dioryctria sylvestrella,Dioryctria sylvestrella,Dioryctria sylvestrella,"(Ratzeburg, 1840)",13,17,N
+3485,Species,Pyralidae,Dioryctria schuetzeella,Dioryctria schuetzeella,Dioryctria schuetzeella,"Fuchs, 1899",10,13,N
+3486,Species,Pyralidae,Dioryctria simplicella,Dioryctria simplicella,Dioryctria simplicella,"Heinemann, 1863",11,14,N
+3488,Species,Pyralidae,Dioryctria abietella,Dioryctria abietella,Dioryctria abietella,"([Denis & Schiffermüller], 1775)",12,15,N
+3490,Species,Pyralidae,Phycita roborella,Phycita roborella,Phycita roborella,"([Denis & Schiffermüller], 1775)",11,14,N
+3493,Species,Pyralidae,Hypochalcia ahenella,Hypochalcia ahenella,Hypochalcia ahenella,"([Denis & Schiffermüller], 1775)",9,14,N
+3495,Species,Pyralidae,Epischnia asteris,Epischnia asteris,Epischnia asteris,"Staudinger, 1870",11,14,N
+3498,Species,Pyralidae,Nephopterix angustella,Nephopterix angustella,Nephopterix angustella,"(Hübner, 1796)",9,11,N
+3503,Species,Pyralidae,Acrobasis repandana,Acrobasis repandana,Acrobasis repandana,"(Fabricius, 1798)",9,11,N
+3506,Species,Pyralidae,Acrobasis advenella,Acrobasis advenella,Acrobasis advenella,"(Zincken, 1818)",9,10,N
+3507,Species,Pyralidae,Acrobasis suavella,Acrobasis suavella,Acrobasis suavella,"(Zincken, 1818)",10,12,N
+3508,Species,Pyralidae,Acrobasis marmorea,Acrobasis marmorea,Acrobasis marmorea,"(Haworth, 1811)",8,10,N
+3509,Species,Pyralidae,Acrobasis consociella,Acrobasis consociella,Acrobasis consociella,"(Hübner, [1813])",9,11,N
+3511,Species,Pyralidae,Apomyelois bistriatella,Apomyelois bistriatella,Apomyelois bistriatella,"(Hulst, 1887)",7,12,N
+3520,Species,Pyralidae,Myelois circumvoluta,Myelois circumvoluta,Myelois circumvoluta,"(Fourcroy, 1785)",13,17,N
+3524,Species,Pyralidae,Gymnancyla canella,Gymnancyla canella,Gymnancyla canella,"([Denis & Schiffermüller], 1775)",10,12,N
+3533,Species,Pyralidae,Assara terebrella,Assara terebrella,Assara terebrella,"(Zincken, 1818)",8,12,N
+3535,Species,Pyralidae,Euzophera pinguis,Euzophera pinguis,Euzophera pinguis,"(Haworth, 1811)",11,13,N
+3537,Species,Pyralidae,Euzophera cinerosella,Euzophera cinerosella,Euzophera cinerosella,"(Zeller, 1839)",9,12,N
+3540,Species,Pyralidae,Nyctegretis lineana,Nyctegretis lineana,Nyctegretis lineana,"(Scopoli, 1786)",8,9,N
+3546,Species,Pyralidae,Ancylosis oblitella,Ancylosis oblitella,Ancylosis oblitella,"(Zeller, 1848)",7,10,N
+3548,Species,Pyralidae,Homoeosoma sinuella,Homoeosoma sinuella,Homoeosoma sinuella,"(Fabricius, 1794)",8,11,N
+3549,Species,Pyralidae,Homoeosoma nebulella,Homoeosoma nebulella,Homoeosoma nebulella,"([Denis & Schiffermüller], 1775)",9,13,N
+3550,Species,Pyralidae,Homoeosoma nimbella,Homoeosoma nimbella,Homoeosoma nimbella,"(Duponchel, 1837)",8,11,N
+3552,Species,Pyralidae,Phycitodes maritima,Phycitodes maritima,Phycitodes maritima,"(Tengström, 1848)",8,10,N
+3555,Species,Pyralidae,Phycitodes binaevella,Phycitodes binaevella,Phycitodes binaevella,"(Hübner, [1813])",10,13,N
+3556,Species,Pyralidae,Phycitodes saxicola,Phycitodes saxicola,Phycitodes saxicola,"(Vaughan, 1870)",7,10,N
+3559,Species,Pyralidae,Vitula biviella,Vitula biviella,Vitula biviella,"(Zeller, 1848)",6,9,N
+3561,Species,Pyralidae,Plodia interpunctella,Plodia interpunctella,Plodia interpunctella,"(Hübner, [1813])",7,10,N
+3564,Species,Pyralidae,Ephestia kuehniella,Ephestia kuehniella,Ephestia kuehniella,"Zeller, 1879",8,13,N
+3566,Species,Pyralidae,Ephestia elutella,Ephestia elutella,Ephestia elutella,"(Hübner, 1796)",6,10,N
+3569,Species,Pyralidae,Ephestia unicolorella,Ephestia unicolorella,Ephestia unicolorella,"Staudinger, 1881",6,10,N
+3573,Species,Pyralidae,Cadra figulilella,Cadra figulilella,Cadra figulilella,"(Gregson, 1871)",6,10,N
+3576,Species,Pyralidae,Cadra cautella,Cadra cautella,Cadra cautella,"(Walker, 1863)",6,10,N
+3580,Species,Pyralidae,Cadra calidella,Cadra calidella,Cadra calidella,"(Guenée, 1845)",6,10,N
+3585,Species,Pyralidae,Anerastia lotella,Anerastia lotella,Anerastia lotella,"(Hübner, [1813])",9,12,N
+3589,Species,Pyralidae,Synaphe punctalis,Synaphe punctalis,Synaphe punctalis,"(Fabricius, 1775)",10,13,N
+3593,Species,Pyralidae,Pyralis farinalis,Pyralis farinalis,Pyralis farinalis,"(Linnaeus, 1758)",11,14,N
+3599,Species,Pyralidae,Aglossa pinguinalis,Aglossa pinguinalis,Aglossa pinguinalis,"(Linnaeus, 1758)",12,18,N
+3603,Species,Pyralidae,Hypsopygia costalis,Hypsopygia costalis,Hypsopygia costalis,"(Fabricius, 1775)",8,10,N
+3606,Species,Pyralidae,Hypsopygia glaucinalis,Hypsopygia glaucinalis,Hypsopygia glaucinalis,"(Linnaeus, 1758)",10,14,N
+3609,Species,Pyralidae,Endotricha flammealis,Endotricha flammealis,Endotricha flammealis,"([Denis & Schiffermüller], 1775)",8,10,N
+3617,Species,Crambidae,Pyrausta cingulata,Pyrausta cingulata,Pyrausta cingulata,"(Linnaeus, 1758)",7,8,N
+3618,Species,Crambidae,Pyrausta sanguinalis,Pyrausta sanguinalis,Pyrausta sanguinalis,"(Linnaeus, 1767)",7,9,N
+3619,Species,Crambidae,Pyrausta despicata,Pyrausta despicata,Pyrausta despicata,"(Scopoli, 1763)",7,9,N
+3621,Species,Crambidae,Pyrausta aurata,Pyrausta aurata,Pyrausta aurata,"(Scopoli, 1763)",7,9,N
+3623,Species,Crambidae,Pyrausta purpuralis,Pyrausta purpuralis,Pyrausta purpuralis,"(Linnaeus, 1758)",7,11,N
+3624,Species,Crambidae,Pyrausta ostrinalis,Pyrausta ostrinalis,Pyrausta ostrinalis,"(Hübner, 1796)",7,10,N
+3625,Species,Crambidae,Pyrausta nigrata,Pyrausta nigrata,Pyrausta nigrata,"(Scopoli, 1763)",7,8,N
+3634,Species,Crambidae,Nascia cilialis,Nascia cilialis,Nascia cilialis,"(Hübner, 1796)",11,13,N
+3636,Species,Crambidae,Sitochroa palealis,Sitochroa palealis,Sitochroa palealis,"([Denis & Schiffermüller], 1775)",13,16,N
+3637,Species,Crambidae,Sitochroa verticalis,Sitochroa verticalis,Sitochroa verticalis,"(Linnaeus, 1758)",12,15,N
+3639,Species,Crambidae,Anania fuscalis,Anania fuscalis,Anania fuscalis,"([Denis & Schiffermüller], 1775)",10,13,N
+3640,Species,Crambidae,Anania lancealis,Anania lancealis,Anania lancealis,"([Denis & Schiffermüller], 1775)",13,16,N
+3641,Species,Crambidae,Anania coronata,Anania coronata,Anania coronata,"(Hufnagel, 1767)",11,13,N
+3643,Species,Crambidae,Anania stachydalis,Anania stachydalis,Anania stachydalis,"(Zincken, 1821)",11,12,N
+3644,Species,Crambidae,Anania perlucidalis,Anania perlucidalis,Anania perlucidalis,"(Hübner, [1809])",10,12,N
+3645,Species,Crambidae,Anania terrealis,Anania terrealis,Anania terrealis,"(Treitschke, 1829)",12,13,N
+3646,Species,Crambidae,Anania crocealis,Anania crocealis,Anania crocealis,"(Hübner, 1796)",11,12,N
+3647,Species,Crambidae,Anania verbascalis,Anania verbascalis,Anania verbascalis,"([Denis & Schiffermüller], 1775)",11,13,N
+3648,Species,Crambidae,Anania funebris,Anania funebris,Anania funebris,"(Ström, 1768)",10,11,N
+3650,Species,Crambidae,Anania hortulata,Anania hortulata,Anania hortulata,"(Linnaeus, 1758)",13,16,N
+3658,Species,Crambidae,Ostrinia nubilalis,Ostrinia nubilalis,Ostrinia nubilalis,"(Hübner, 1796)",13,18,N
+3661,Species,Crambidae,Paratalanta pandalis,Paratalanta pandalis,Paratalanta pandalis,"(Hübner, [1825])",12,14,N
+3663,Species,Crambidae,Paratalanta hyalinalis,Paratalanta hyalinalis,Paratalanta hyalinalis,"(Hübner, 1796)",14,16,N
+3666,Species,Crambidae,Udea ferrugalis,Udea ferrugalis,Udea ferrugalis,"(Hübner, 1796)",9,11,N
+3669,Species,Crambidae,Udea fulvalis,Udea fulvalis,Udea fulvalis,"(Hübner, [1809])",10,14,N
+3670,Species,Crambidae,Udea lutealis,Udea lutealis,Udea lutealis,"(Hübner, [1809])",11,12,N
+3672,Species,Crambidae,Udea prunalis,Udea prunalis,Udea prunalis,"([Denis & Schiffermüller], 1775)",11,13,N
+3674,Species,Crambidae,Udea uliginosalis,Udea uliginosalis,Udea uliginosalis,"(Stephens, 1834)",11,14,N
+3675,Species,Crambidae,Udea decrepitalis,Udea decrepitalis,Udea decrepitalis,"(Herrich-Schäffer, 1848)",11,13,N
+3676,Species,Crambidae,Udea olivalis,Udea olivalis,Udea olivalis,"([Denis & Schiffermüller], 1775)",12,13,N
+3678,Species,Crambidae,Pleuroptya ruralis,Pleuroptya ruralis,Pleuroptya ruralis,"(Scopoli, 1763)",15,17,N
+3681,Species,Crambidae,Mecyna flavalis,Mecyna flavalis,Mecyna flavalis,"([Denis & Schiffermüller], 1775)",11,14,N
+3682,Species,Crambidae,Mecyna asinalis,Mecyna asinalis,Mecyna asinalis,"(Hübner, [1819])",11,15,N
+3684,Species,Crambidae,Agrotera nemoralis,Agrotera nemoralis,Agrotera nemoralis,"(Scopoli, 1763)",9,11,N
+3701,Species,Crambidae,Palpita vitrealis,Palpita vitrealis,Palpita vitrealis,"(Rossi, 1794)",13,15,N
+3706,Species,Crambidae,Dolicharthria punctalis,Dolicharthria punctalis,Dolicharthria punctalis,"([Denis & Schiffermüller], 1775)",10,12,N
+3710,Species,Crambidae,Nomophila noctuella,Nomophila noctuella,Nomophila noctuella,"([Denis & Schiffermüller], 1775)",12,15,N
+3720,Species,Crambidae,Cynaeda dentalis,Cynaeda dentalis,Cynaeda dentalis,"([Denis & Schiffermüller], 1775)",10,14,N
+3723,Species,Crambidae,Evergestis forficalis,Evergestis forficalis,Evergestis forficalis,"(Linnaeus, 1758)",13,15,N
+3725,Species,Crambidae,Evergestis extimalis,Evergestis extimalis,Evergestis extimalis,"(Scopoli, 1763)",12,16,N
+3726,Species,Crambidae,Evergestis limbata,Evergestis limbata,Evergestis limbata,"(Linnaeus, 1767)",10,11,N
+3727,Species,Crambidae,Evergestis pallidata,Evergestis pallidata,Evergestis pallidata,"(Hufnagel, 1767)",12,14,N
+3733,Species,Crambidae,Scoparia subfusca,Scoparia subfusca,Scoparia subfusca,"Haworth, 1811",10,13,N
+3736,Species,Crambidae,Scoparia basistrigalis,Scoparia basistrigalis,Scoparia basistrigalis,"Knaggs, 1866",10,11,N
+3737,Species,Crambidae,Scoparia ambigualis,Scoparia ambigualis,Scoparia ambigualis,"(Treitschke, 1829)",8,11,N
+3739,Species,Crambidae,Scoparia ancipitella,Scoparia ancipitella,Scoparia ancipitella,"(La Harpe, 1855)",9,11,N
+3741,Species,Crambidae,Scoparia pyralella,Scoparia pyralella,Scoparia pyralella,"([Denis & Schiffermüller], 1775)",8,10,N
+3745,Species,Crambidae,Eudonia lacustrata,Eudonia lacustrata,Eudonia lacustrata,"(Panzer, 1804)",8,9,N
+3748,Species,Crambidae,Eudonia murana,Eudonia murana,Eudonia murana,"(Curtis, 1827)",9,12,N
+3749,Species,Crambidae,Eudonia angustea,Eudonia angustea,Eudonia angustea,"(Curtis, 1827)",8,10,N
+3751,Species,Crambidae,Eudonia alpina,Eudonia alpina,Eudonia alpina,"(Curtis, 1850)",10,12,N
+3753,Species,Crambidae,Eudonia lineola,Eudonia lineola,Eudonia lineola,"(Curtis, 1827)",9,10,N
+3754,Species,Crambidae,Eudonia delunella,Eudonia delunella,Eudonia delunella,"(Stainton, 1849)",8,9,N
+3757,Species,Crambidae,Eudonia truncicolella,Eudonia truncicolella,Eudonia truncicolella,"(Stainton, 1849)",9,11,N
+3758,Species,Crambidae,Eudonia mercurella,Eudonia mercurella,Eudonia mercurella,"(Linnaeus, 1758)",7,9,N
+3761,Species,Crambidae,Eudonia pallida,Eudonia pallida,Eudonia pallida,"(Curtis, 1827)",8,9,N
+3766,Species,Crambidae,Chilo phragmitella,Chilo phragmitella,Chilo phragmitella,"(Hübner, [1810])",12,19,N
+3770,Species,Crambidae,Calamotropha paludella,Calamotropha paludella,Calamotropha paludella,"(Hübner, [1824])",12,15,N
+3772,Species,Crambidae,Chrysoteuchia culmella,Chrysoteuchia culmella,Chrysoteuchia culmella,"(Linnaeus, 1758)",9,12,N
+3775,Species,Crambidae,Crambus pascuella,Crambus pascuella,Crambus pascuella,"(Linnaeus, 1758)",11,13,N
+3776,Species,Crambidae,Crambus silvella,Crambus silvella,Crambus silvella,"(Hübner, [1813])",10,13,N
+3777,Species,Crambidae,Crambus uliginosellus,Crambus uliginosellus,Crambus uliginosellus,"Zeller, 1850",9,11,N
+3778,Species,Crambidae,Crambus ericella,Crambus ericella,Crambus ericella,"(Hübner, [1813])",10,14,N
+3779,Species,Crambidae,Crambus pratella,Crambus pratella,Crambus pratella,"(Linnaeus, 1758)",10,12,N
+3781,Species,Crambidae,Crambus lathoniellus,Crambus lathoniellus,Crambus lathoniellus,"(Zincken, 1817)",9,11,N
+3784,Species,Crambidae,Crambus hamella,Crambus hamella,Crambus hamella,"(Thunberg, 1788)",12,13,N
+3785,Species,Crambidae,Crambus perlella,Crambus perlella,Crambus perlella,"(Scopoli, 1763)",11,14,N
+3788,Species,Crambidae,Agriphila tristella,Agriphila tristella,Agriphila tristella,"([Denis & Schiffermüller], 1775)",12,14,N
+3789,Species,Crambidae,Agriphila inquinatella,Agriphila inquinatella,Agriphila inquinatella,"([Denis & Schiffermüller], 1775)",11,14,N
+3790,Species,Crambidae,Agriphila latistria,Agriphila latistria,Agriphila latistria,"(Haworth, 1811)",11,13,N
+3791,Species,Crambidae,Agriphila selasella,Agriphila selasella,Agriphila selasella,"(Hübner, [1813])",11,15,N
+3792,Species,Crambidae,Agriphila straminella,Agriphila straminella,Agriphila straminella,"([Denis & Schiffermüller], 1775)",8,10,N
+3794,Species,Crambidae,Agriphila geniculea,Agriphila geniculea,Agriphila geniculea,"(Haworth, 1811)",10,13,N
+3796,Species,Crambidae,Catoptria permutatellus,Catoptria permutatellus,Catoptria permutatellus,"(Herrich-Schäffer, 1848)",11,14,N
+3799,Species,Crambidae,Catoptria pinella ,Catoptria pinella ,Catoptria pinella ,"(Linnaeus, 1758)",10,13,N
+3800,Species,Crambidae,Catoptria margaritella,Catoptria margaritella,Catoptria margaritella,"([Denis & Schiffermüller], 1775)",10,12,N
+3801,Species,Crambidae,Catoptria furcatellus,Catoptria furcatellus,Catoptria furcatellus,"(Zetterstedt, 1839)",9,11,N
+3802,Species,Crambidae,Catoptria falsella,Catoptria falsella,Catoptria falsella,"([Denis & Schiffermüller], 1775)",9,12,N
+3811,Species,Crambidae,Thisanotia chrysonuchella,Thisanotia chrysonuchella,Thisanotia chrysonuchella,"(Scopoli, 1763)",11,13,N
+3813,Species,Crambidae,Pediasia fascelinella,Pediasia fascelinella,Pediasia fascelinella,"(Hübner, [1813])",12,15,N
+3815,Species,Crambidae,Pediasia contaminella,Pediasia contaminella,Pediasia contaminella,"(Hübner, 1796)",10,14,N
+3816,Species,Crambidae,Pediasia aridella,Pediasia aridella,Pediasia aridella,"(Thunberg, 1788)",10,13,N
+3818,Species,Crambidae,Platytes cerussella,Platytes cerussella,Platytes cerussella,"([Denis & Schiffermüller], 1775)",5,8,N
+3819,Species,Crambidae,Platytes alpinella,Platytes alpinella,Platytes alpinella,"(Hübner, [1813])",9,11,N
+3824,Species,Crambidae,Elophila nymphaeata,Elophila nymphaeata,Elophila nymphaeata,"(Linnaeus, 1758)",12,16,N
+3827,Species,Crambidae,Acentria ephemerella,Acentria ephemerella,Acentria ephemerella,"([Denis & Schiffermüller], 1775)",6,8,N
+3831,Species,Crambidae,Cataclysta lemnata,Cataclysta lemnata,Cataclysta lemnata,"(Linnaeus, 1758)",8,11,N
+3834,Species,Crambidae,Parapoynx stratiotata,Parapoynx stratiotata,Parapoynx stratiotata,"(Linnaeus, 1758)",10,14,N
+3837,Species,Crambidae,Nymphula nitidulata,Nymphula nitidulata,Nymphula nitidulata,"(Hufnagel, 1767)",10,12,N
+3844,Species,Crambidae,Schoenobius gigantella,Schoenobius gigantella,Schoenobius gigantella,"([Denis & Schiffermüller], 1775)",12,23,N
+3846,Species,Crambidae,Donacaula forficella,Donacaula forficella,Donacaula forficella,"(Thunberg, 1794)",11,17,N
+3847,Species,Crambidae,Donacaula mucronella,Donacaula mucronella,Donacaula mucronella,"([Denis & Schiffermüller], 1775)",11,17,N
+5000,Species,Tortricidae,Agapeta hamana,Agapeta hamana,Agapeta hamana,NA,8,12,Y
+5001,Species,Psychidae,Narycia duplicella,Narycia duplicella,Narycia duplicella,NA,4,6,Y
+5002,Species,Yponomeutidae,Yponomeuta evonymella,Yponomeuta evonymella,Yponomeuta evonymella,NA,9.5,12.5,Y
+5003,Species,Noctuidae,Acronicta species,Acronicta species,Acronicta species,NA,13,22,Y
+5004,Species,Geometridae,Eupithecia species,Eupithecia species,Eupithecia species,NA,7,15,Y
+5005,Species,Noctuidae,Oligia species,Oligia species,Oligia species,NA,10,13,Y
+5006,Species,Plutellidae,Plutella xylostella,Plutella xylostella,Plutella xylostella,NA,6,8.5,Y

@@ -57,10 +57,12 @@ DF.comb <- DF.comb[,-c(5,6,9,10)]
 ## before doing anything else, let's pick out training and testing datasets
 
 # create frequency frame
-frequencies <- ddply(DF.comb, .(SPECIES,FAMILY), summarise,
+frequencies <- ddply(DF.comb, .(SPECIES,BINOMIAL,FAMILY), summarise,
                      COUNT = length(DRY_MASS))
 
 summary(frequencies)
+
+write.csv(frequencies, file = "Data/Frequencies.csv", row.names = F)
 
 
 # use those lists to pick out data
@@ -261,7 +263,7 @@ p1 <- ggplot(DF.comb.good, aes(x=FOREWING_LENGTH, y=DRY_MASS, colour=FAMILY, sha
   scale_colour_manual(name = "Family", values = c("tan1","steelblue1", "palevioletred3", "skyblue4", "firebrick3", "seagreen3", "darkorchid3", "darkslategray", "orangered", "deepskyblue", "maroon3"))+
   scale_y_log10(limits = c(1,1000))+
   scale_x_log10(limits = c(5,50))+
-  ggtitle("Individuals")+
+  ggtitle("\nIndividuals")+
   theme(plot.title = element_text(hjust = 0.5))
 
 p1 
@@ -279,7 +281,7 @@ p2 <- ggplot(DF.comb.good, aes(x=FOREWING_LENGTH, y=DRY_MASS, colour=FAM.CRUDE, 
   scale_colour_manual(name = "Family", values = c("grey80", "tan1", "steelblue1", "palevioletred3", "seagreen3"))+
   scale_y_log10(limits = c(1,1000))+
   scale_x_log10(limits = c(5,50))+
-  ggtitle("Individuals")+
+  ggtitle("\nIndividuals")+
   theme(plot.title = element_text(hjust = 0.5))
 
 
@@ -327,7 +329,7 @@ q1 <- ggplot(species, aes(x=Mean.fw, y=Mean.bm, colour=FAMILY, shape=FAMILY, fil
   scale_fill_manual(name = "Family", values = c("tan1","steelblue1", "palevioletred3", "skyblue4", "firebrick3", "seagreen3", "darkorchid3", "darkslategray", "orangered", "deepskyblue", "maroon3")) +
   scale_y_log10(limits = c(0.5,1000))+
   scale_x_log10(limits = c(5,50))+
-  ggtitle("Species means")+
+  ggtitle("\nSpecies means")+
   theme(plot.title = element_text(hjust = 0.5))
 
 
@@ -346,7 +348,7 @@ q2 <- ggplot(crude, aes(x=Mean.fw, y=Mean.bm, colour=FAM.CRUDE, shape=FAM.CRUDE)
   scale_x_log10(limits = c(5,50))+
   scale_shape_manual(name = "Family", values = c(15,15,15,16,17))+
   scale_colour_manual(name = "Family", values = c("grey80", "tan1", "steelblue1", "palevioletred3", "seagreen3"))+
-  ggtitle("Species means")+
+  ggtitle("\nSpecies means")+
   theme(plot.title = element_text(hjust = 0.5))
 
 q2 
@@ -725,7 +727,7 @@ pred.sample <- ggplot(srichnew, aes(x=Biomass,y=Pred_Biomass,fill=Abundance))+
   theme(panel.grid = element_blank())+
   scale_x_log10(limits = c(10,2000))+
   scale_y_log10(limits = c(10,2000))+
-  xlab("Measured dry mass (mg) of samples of moths")+
+  xlab("Measured dry mass (mg) of samples of moths\n")+
   ylab("Predicted dry mass\n (mg) of samples of moths")
 
 
@@ -740,7 +742,7 @@ resids.sample <- ggplot(srichnew, aes(x=Abundance, y = DIFF, fill = Abundance))+
   scale_fill_distiller(palette = "YlOrRd", direction = 2)+
   theme_light()+
   theme(panel.grid = element_blank())+
-  xlab("Abundance of moths in samples")+
+  xlab("Abundance of moths in samples\n")+
   ylab("Residual of predicted dry mass\n (mg) of samples of moths")
 
 resids.sample
@@ -992,7 +994,7 @@ pred.sp <- ggplot(spec.pred, aes(x=MEAN_DRY_MASS,y=PRED_DRY_MASS,fill=N))+
   theme(panel.grid = element_blank())+
   scale_y_log10(limits = c(1,1000))+
   scale_x_log10(limits = c(1,1000))+
-  xlab("Mean measured dry mass (mg) of moth species")+
+  xlab("Mean measured dry mass (mg) of moth species\n")+
   ylab("Predicted dry mass\n (mg) of moth species")
 
 
@@ -1007,7 +1009,7 @@ resids.sp <- ggplot(spec.pred, aes(x=N, y = DIFF, fill = N))+
   scale_fill_distiller(palette = "YlOrRd", direction = 2)+
   theme_light()+
   theme(panel.grid = element_blank())+
- xlab("Sampled individuals of species")+
+ xlab("Sampled individuals of species\n")+
   ylab("Residual of predicted dry mass\n (mg) of moth species")
 
 resids.sp
@@ -1076,7 +1078,7 @@ mod5plot <- ggplot(srichnew, aes(x=Abundance, y=Biomass))+
   geom_point()+
   geom_abline(intercept = summary(mod5)$coefficients[1,1], slope = summary(mod5)$coefficients[2,1])+
   xlim(0, 40) + ylim(20, 2000)+
-  xlab("Abundance")+
+  xlab("Abundance\n")+
   ylab("Biomass (mg)")+
   theme_light()+
   theme(panel.grid = element_blank())+
@@ -1116,7 +1118,7 @@ mod5plot.p <- ggplot(srichnew, aes(x=Abundance, y=Pred_Biomass))+
   geom_point()+
   geom_abline(intercept = summary(mod5p)$coefficients[1,1], slope = summary(mod5p)$coefficients[2,1])+
   xlim(0, 40) + ylim(20, 2000)+
-  xlab("Abundance")+
+  xlab("Abundance\n")+
   ylab("Predicted biomass (mg)")+
   theme_light()+
   theme(panel.grid = element_blank())+
@@ -1152,7 +1154,7 @@ mod6plot <- ggplot(srichnew, aes(x=Richness, y=Biomass))+
   geom_point()+
   geom_abline(intercept = summary(mod6)$coefficients[1,1], slope = summary(mod6)$coefficients[2,1])+
   xlim(0, 20)+ylim(20,2000)+
-  xlab("Species richness")+
+  xlab("Species richness\n")+
   ylab("Biomass(mg)")+
   theme_light()+
   theme(panel.grid = element_blank())
@@ -1186,7 +1188,7 @@ mod6plot.p <- ggplot(srichnew, aes(x=Richness, y=Pred_Biomass))+
   geom_point()+
   geom_abline(intercept = summary(mod6p)$coefficients[1,1], slope = summary(mod6p)$coefficients[2,1])+
   xlim(0, 20)+ylim(20,2000)+
-  xlab("Species richness")+
+  xlab("Species richness\n")+
   ylab("Predicted biomass(mg)")+
   theme_light()+
   theme(panel.grid = element_blank())
@@ -1217,7 +1219,7 @@ mod7plot <- ggplot(srichnew, aes(x=Shannon, y=Biomass))+
   geom_point()+
   geom_abline(intercept = summary(mod7)$coefficients[1,1], slope = summary(mod7)$coefficients[2,1])+
   xlim(0, 3) + ylim(20, 2000)+
-  xlab("Shannon's H")+
+  xlab("Shannon's H\n")+
   ylab("Biomass (mg)")+
   theme_light()+
   theme(panel.grid = element_blank())
@@ -1247,7 +1249,7 @@ mod7plot.p <- ggplot(srichnew, aes(x=Shannon, y=Pred_Biomass))+
   geom_point()+
   geom_abline(intercept = summary(mod7p)$coefficients[1,1], slope = summary(mod7p)$coefficients[2,1])+
   xlim(0, 3) + ylim(20, 2000)+
-  xlab("Shannon's H")+
+  xlab("Shannon's H\n")+
   ylab("Predicted biomass (mg)")+
   theme_light()+
   theme(panel.grid = element_blank())
@@ -1520,7 +1522,7 @@ mod8plot <- ggplot(annual, aes(x=Abundance, y=EST.BIOMASS))+
   geom_point()+
   geom_abline(intercept = summary(mod8)$coefficients[1,1], slope = summary(mod8)$coefficients[2,1])+
   xlim(0, 500) + ylim(0, 20000)+
-  xlab("Abundance")+
+  xlab("Abundance\n")+
   ylab("Biomass (mg)")+
   theme_light()+
   ggtitle("Historic dataset")+
@@ -1561,7 +1563,7 @@ mod9plot <- ggplot(annual, aes(x=Richness, y=EST.BIOMASS))+
   geom_point()+
   geom_abline(intercept = summary(mod9)$coefficients[1,1], slope = summary(mod9)$coefficients[2,1])+
   xlim(0, 100)+ylim(00,20000)+
-  xlab("Species richness")+
+  xlab("Species richness\n")+
   ylab("Biomass(mg)")+
   theme_light()+
   theme(panel.grid = element_blank())
@@ -1610,14 +1612,14 @@ m2d <- grid.arrange(mod8plot, mod9plot, mod10plot, ncol=1)
 
 ggsave("Plots/Fig3b.svg", m2d, device = svg, width = 16, height = 24, units = "cm")
 
-m2 <- grid.arrange(mod5plot + ggtitle("Sampled moths, \nmeasured biomass")  + xlab(" "),
+m2 <- grid.arrange(mod5plot + ggtitle("Sampled moths, \nmeasured biomass")  + xlab(" \n"),
                    mod5plot.p + ggtitle("Sampled moths, \npredicted biomass") + ylab(" "),
-                   mod8plot + ggtitle("Historic dataset, \npredicted biomass") + xlab(" ")+ ylab(" "), 
-                   mod6plot + xlab(" "), mod6plot.p + ylab(" "), mod9plot + xlab(" ") + ylab(" "), 
+                   mod8plot + ggtitle("Historical dataset, \npredicted biomass") + xlab(" \n")+ ylab(" "), 
+                   mod6plot + xlab(" \n"), mod6plot.p + ylab(" "), mod9plot + xlab(" \n") + ylab(" "), 
                    ncol=3)
 
 
-ggsave("Plots/Fig3.svg", m2, device = svg, width = 28, height = 16, units = "cm")
+ggsave("Plots/Fig3.svg", m2, device = svg, width = 28, height = 17, units = "cm")
 
 
 ## and now relate each thing to year

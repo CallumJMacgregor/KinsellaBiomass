@@ -1,0 +1,615 @@
+DATE,SITE,BAG_CODE,SPECIES,BINOMIAL,FAMILY,DRY_MASS,FOREWING_LENGTH
+14/06/2018,2,B39,Agriphila straminella,Agriphila straminella,Crambidae,4.4,10
+19/06/2018,3,C7,Agriphila straminella,Agriphila straminella,Crambidae,5.8,11
+19/06/2018,3,B74,Agriphila straminella,Agriphila straminella,Crambidae,3.4,9
+19/06/2018,3,C44,Agriphila straminella,Agriphila straminella,Crambidae,5.5,11
+28/06/2018,3,E18,Agriphila straminella,Agriphila straminella,Crambidae,3.1,10
+06/07/2018,2,F80,Agriphila straminella,Agriphila straminella,Crambidae,2.9,10
+11/07/2018,3,F11,Agriphila straminella,Agriphila straminella,Crambidae,2.1,9
+12/07/2018,2,F22,Agriphila straminella,Agriphila straminella,Crambidae,2,8
+13/07/2018,3,G35,Agriphila straminella,Agriphila straminella,Crambidae,1.4,9
+13/07/2018,3,F84,Agriphila straminella,Agriphila straminella,Crambidae,1.8,8
+19/07/2018,3,G67,Agriphila straminella,Agriphila straminella,Crambidae,2.6,9
+20/07/2018,1,G102,Agriphila straminella,Agriphila straminella,Crambidae,2.6,9
+20/07/2018,1,H73,Agriphila straminella,Agriphila straminella,Crambidae,3.5,10
+20/07/2018,3,G55,Agriphila straminella,Agriphila straminella,Crambidae,4.1,10
+20/06/2018,2,D97,Brown China-mark,Elophila nymphaeata,Crambidae,5.2,13
+10/07/2018,3,F9,Catoptria pinella ,Catoptria pinella ,Crambidae,3.1,9
+13/07/2018,2,G15,Catoptria pinella ,Catoptria pinella ,Crambidae,5.5,10
+18/07/2018,3,G90,Catoptria pinella ,Catoptria pinella ,Crambidae,5.1,11
+20/07/2018,3,H5,Catoptria pinella ,Catoptria pinella ,Crambidae,5.1,10
+14/06/2018,2,B37,Chrysoteuchia culmella,Chrysoteuchia culmella,Crambidae,5.4,18
+19/06/2018,2,C24,Chrysoteuchia culmella,Chrysoteuchia culmella,Crambidae,4.8,10
+19/06/2018,2,C11,Chrysoteuchia culmella,Chrysoteuchia culmella,Crambidae,5,11
+20/06/2018,3,D61,Chrysoteuchia culmella,Chrysoteuchia culmella,Crambidae,3.1,10
+21/06/2018,3,D75,Chrysoteuchia culmella,Chrysoteuchia culmella,Crambidae,3.9,10
+28/06/2018,3,E19,Chrysoteuchia culmella,Chrysoteuchia culmella,Crambidae,5.2,9
+04/07/2018,2,D71,Crambus perlella,Crambus perlella,Crambidae,9.7,14
+10/07/2018,3,D70,Crambus perlella,Crambus perlella,Crambidae,1.6,8
+10/07/2018,3,D17,Donacaula forficella,Donacaula forficella,Crambidae,8.6,13
+19/07/2018,1,G89,Donacaula forficella,Donacaula forficella,Crambidae,2.2,8
+13/07/2018,3,F89,Eudonia pallida,Eudonia pallida,Crambidae,1.4,7
+22/06/2018,2,D52,Eudonia truncicolella,Eudonia truncicolella,Crambidae,3.6,9
+04/07/2018,1,E55,Eudonia truncicolella,Eudonia truncicolella,Crambidae,2.8,8
+20/07/2018,1,H1,Eudonia truncicolella,Eudonia truncicolella,Crambidae,1.7,8
+18/07/2018,1,G31,Mother of Pearl,Pleuroptya ruralis,Crambidae,18.8,16
+20/07/2018,1,G56,Mother of Pearl,Pleuroptya ruralis,Crambidae,15.4,16
+06/07/2018,2,E94,Ringed China-mark,Parapoynx stratiotata,Crambidae,8.2,15
+06/07/2018,1,F57,Scoparia pyralella,Scoparia pyralella,Crambidae,2.1,8
+06/07/2018,2,F52,Scoparia pyralella,Scoparia pyralella,Crambidae,1.2,8
+19/06/2018,3,C64,Unidentified 1,Unidentified 1,Crambidae,5,8
+20/06/2018,2,C101,Unidentified 2,Unidentified 2,Crambidae,18.8,15
+14/06/2018,1,B47,Beautiful Hook-tip,Laspeyria flexula,Erebidae,8.1,14
+27/06/2018,3,D8,Beautiful Hook-tip,Laspeyria flexula,Erebidae,7,14
+13/06/2018,1,B87,Buff Ermine,Spilosoma luteum,Erebidae,41.9,17
+13/06/2018,1,B17,Buff Ermine,Spilosoma luteum,Erebidae,54.8,17
+13/06/2018,2,B88,Buff Ermine,Spilosoma luteum,Erebidae,48.3,16
+14/06/2018,1,B24,Buff Ermine,Spilosoma luteum,Erebidae,35,17
+14/06/2018,2,B6,Buff Ermine,Spilosoma luteum,Erebidae,39.4,17
+15/06/2018,2,C71,Buff Ermine,Spilosoma luteum,Erebidae,60,19
+26/06/2018,3,E99,Buff Ermine,Spilosoma luteum,Erebidae,51,15
+28/06/2018,3,E44,Buff Ermine,Spilosoma luteum,Erebidae,53.8,17
+13/07/2018,2,E81,Buff Ermine,Spilosoma luteum,Erebidae,37.2,19
+15/06/2018,1,C36,Common Footman,Eilema lurideola,Erebidae,13.7,17
+27/06/2018,3,C14,Common Footman,Eilema lurideola,Erebidae,9.9,17
+28/06/2018,3,E10,Common Footman,Eilema lurideola,Erebidae,12.9,15
+28/06/2018,3,D14,Common Footman,Eilema lurideola,Erebidae,8.5,15
+03/07/2018,2,C25,Common Footman,Eilema lurideola,Erebidae,11.1,17
+03/07/2018,2,C41,Common Footman,Eilema lurideola,Erebidae,11.8,15
+04/07/2018,2,D11,Common Footman,Eilema lurideola,Erebidae,11.6,17
+04/07/2018,2,E9,Common Footman,Eilema lurideola,Erebidae,7.1,14
+04/07/2018,2,E41,Common Footman,Eilema lurideola,Erebidae,11.5,16
+04/07/2018,2,E46,Common Footman,Eilema lurideola,Erebidae,11.7,16
+04/07/2018,2,D102,Common Footman,Eilema lurideola,Erebidae,13.7,16
+04/07/2018,2,D40,Common Footman,Eilema lurideola,Erebidae,9.3,16
+04/07/2018,2,D74,Common Footman,Eilema lurideola,Erebidae,9.5,15
+04/07/2018,2,E38,Common Footman,Eilema lurideola,Erebidae,14.6,16
+04/07/2018,2,E40,Common Footman,Eilema lurideola,Erebidae,9.4,16
+04/07/2018,2,E72,Common Footman,Eilema lurideola,Erebidae,9.2,16
+04/07/2018,2,E101,Common Footman,Eilema lurideola,Erebidae,9.7,16
+06/07/2018,2,E7,Common Footman,Eilema lurideola,Erebidae,7.3,16
+06/07/2018,2,E89,Common Footman,Eilema lurideola,Erebidae,14,16
+06/07/2018,2,E82,Common Footman,Eilema lurideola,Erebidae,10.4,15
+10/07/2018,2,F8,Common Footman,Eilema lurideola,Erebidae,8.5,15
+10/07/2018,2,F34,Common Footman,Eilema lurideola,Erebidae,9.7,14
+10/07/2018,2,F33,Common Footman,Eilema lurideola,Erebidae,8.9,16
+10/07/2018,2,E69,Common Footman,Eilema lurideola,Erebidae,8,16
+10/07/2018,2,F69,Common Footman,Eilema lurideola,Erebidae,9.4,16
+10/07/2018,2,F17,Common Footman,Eilema lurideola,Erebidae,8.2,14
+11/07/2018,3,F87,Common Footman,Eilema lurideola,Erebidae,10,14
+13/07/2018,2,F15,Common Footman,Eilema lurideola,Erebidae,8.3,15
+28/06/2018,3,D39,Dingy Footman,Eilema griseola,Erebidae,19.2,16
+04/07/2018,2,E67,Dingy Footman,Eilema griseola,Erebidae,10.2,16
+06/07/2018,2,E37,Dingy Footman,Eilema griseola,Erebidae,8.5,15
+06/07/2018,2,D2,Dingy Footman,Eilema griseola,Erebidae,8.9,15
+10/07/2018,2,F83,Dingy Footman,Eilema griseola,Erebidae,12.4,16
+11/07/2018,3,D13,Dingy Footman,Eilema griseola,Erebidae,13.5,16
+12/07/2018,2,E63,Dingy Footman,Eilema griseola,Erebidae,15.6,15
+12/07/2018,3,F38,Dingy Footman,Eilema griseola,Erebidae,13,16
+12/07/2018,3,G44,Dingy Footman,Eilema griseola,Erebidae,13.7,16
+13/07/2018,1,E27,Dingy Footman,Eilema griseola,Erebidae,17.1,18
+13/07/2018,1,F27,Dingy Footman,Eilema griseola,Erebidae,11.5,16
+13/07/2018,2,G45,Dingy Footman,Eilema griseola,Erebidae,18.1,17
+13/07/2018,3,G43,Dingy Footman,Eilema griseola,Erebidae,8.7,15
+13/07/2018,3,E2,Dingy Footman,Eilema griseola,Erebidae,7.4,16
+13/07/2018,3,G83,Dingy Footman,Eilema griseola,Erebidae,7.2,15
+18/07/2018,3,H74,Dingy Footman,Eilema griseola,Erebidae,15,16
+26/06/2018,3,E45,Garden Tiger,Arctia caja,Erebidae,199.6,30
+28/06/2018,3,E95,Garden Tiger,Arctia caja,Erebidae,339.5,28
+03/07/2018,2,D42,Garden Tiger,Arctia caja,Erebidae,220.6,33
+12/07/2018,3,G11,Ruby Tiger,Phragmatobia fuliginosa,Erebidae,42.6,15
+13/07/2018,2,F13,Ruby Tiger,Phragmatobia fuliginosa,Erebidae,37.2,14
+13/07/2018,2,G46,Ruby Tiger,Phragmatobia fuliginosa,Erebidae,43.1,19
+13/07/2018,3,F53,Ruby Tiger,Phragmatobia fuliginosa,Erebidae,50.1,14
+13/07/2018,3,D4,Ruby Tiger,Phragmatobia fuliginosa,Erebidae,27.4,13
+13/07/2018,3,G5,Ruby Tiger,Phragmatobia fuliginosa,Erebidae,36.1,14
+18/07/2018,3,G33,Ruby Tiger,Phragmatobia fuliginosa,Erebidae,31.2,14
+18/07/2018,3,G87,Ruby Tiger,Phragmatobia fuliginosa,Erebidae,39.8,14
+20/07/2018,3,G95,Ruby Tiger,Phragmatobia fuliginosa,Erebidae,31.7,13
+20/07/2018,3,G86,Ruby Tiger,Phragmatobia fuliginosa,Erebidae,31.3,14
+14/06/2018,2,B76,Straw Dot,Rivula sericealis,Erebidae,3.1,9
+19/06/2018,2,C92,Straw Dot,Rivula sericealis,Erebidae,3.1,9
+21/06/2018,2,D10,Straw Dot,Rivula sericealis,Erebidae,2.6,9
+12/07/2018,3,G39,White Satin,Leucoma salicis,Erebidae,37.7,20
+10/07/2018,2,G50,Yellow-tail,Euproctis similis,Erebidae,25.9,17
+12/07/2018,2,F30,Yellow-tail,Euproctis similis,Erebidae,19,15
+13/07/2018,2,F66,Yellow-tail,Euproctis similis,Erebidae,15.9,15
+03/07/2018,1,D50,Barred Straw,Eulithis pyraliata,Geometridae,7,17
+19/06/2018,3,C43,Blood-vein,Timandra comae,Geometridae,8.4,16
+22/06/2018,3,D66,Blood-vein,Timandra comae,Geometridae,6.7,15
+26/06/2018,1,E36,Clouded Border,Lomaspilis marginata,Geometridae,3.5,11
+20/07/2018,1,G101,Common White Wave,Cabera pusaria,Geometridae,5,15
+13/07/2018,3,F81,Dark-barred Twin-spot Carpet,Xanthorhoe ferrugata,Geometridae,4.6,12
+03/07/2018,1,E66,Early Thorn,Selenia dentaria,Geometridae,17,17
+13/06/2018,1,B49,Green Carpet,Colostygia pectinataria,Geometridae,5.4,12
+13/06/2018,1,B102,Green Carpet,Colostygia pectinataria,Geometridae,9.3,15
+28/06/2018,1,E29,Green Pug,Pasiphila rectangulata,Geometridae,3.5,8
+10/07/2018,3,F76,July Highflyer,Hydriomena furcata,Geometridae,15.2,17
+04/07/2018,2,E22,Large Emerald,Geometra papilionaria,Geometridae,30.2,22
+13/07/2018,2,F56,Least Carpet,Idaea rusticata,Geometridae,3.3,10
+13/06/2018,1,B22,Light Emerald,Campaea margaritata,Geometridae,17.8,19
+13/06/2018,1,B101,Light Emerald,Campaea margaritata,Geometridae,19.3,18
+13/06/2018,1,B30,Light Emerald,Campaea margaritata,Geometridae,17.7,19
+26/06/2018,1,E5,Light Emerald,Campaea margaritata,Geometridae,23.1,20
+28/06/2018,1,E59,Light Emerald,Campaea margaritata,Geometridae,11.7,19
+03/07/2018,1,E24,Light Emerald,Campaea margaritata,Geometridae,11.3,19
+04/07/2018,1,E57,Light Emerald,Campaea margaritata,Geometridae,18.1,22
+18/07/2018,1,H2,Light Emerald,Campaea margaritata,Geometridae,12.2,17
+13/06/2018,1,B26,May Highflyer,Hydriomena impluviata,Geometridae,5.6,11
+06/07/2018,1,D6,Peppered Moth,Biston betularia,Geometridae,74.3,20
+15/06/2018,1,C69,Riband Wave,Idaea aversata,Geometridae,6.5,13
+28/06/2018,1,D78,Riband Wave,Idaea aversata,Geometridae,7.7,14
+10/07/2018,3,G48,Riband Wave,Idaea aversata,Geometridae,11.5,15
+11/07/2018,3,G74,Riband Wave,Idaea aversata,Geometridae,5.3,15
+13/07/2018,3,G2,Riband Wave,Idaea aversata,Geometridae,8.3,14
+13/07/2018,3,F25,Riband Wave,Idaea aversata,Geometridae,7.2,14
+13/07/2018,3,G69,Riband Wave,Idaea aversata,Geometridae,11.5,15
+19/07/2018,1,G62,Riband Wave,Idaea aversata,Geometridae,9.7,14
+20/07/2018,1,H41,Riband Wave,Idaea aversata,Geometridae,6.3,13
+04/07/2018,1,D5,Scalloped Oak,Crocallis elinguaria,Geometridae,48.7,16
+11/07/2018,2,G82,Scalloped Oak,Crocallis elinguaria,Geometridae,37.4,18
+12/07/2018,3,F4,Scalloped Oak,Crocallis elinguaria,Geometridae,40.9,18
+18/07/2018,3,H38,Scalloped Oak,Crocallis elinguaria,Geometridae,42.8,18
+12/07/2018,3,G7,Shaded Broad-bar,Scotopteryx chenopodiata,Geometridae,19.7,16
+13/06/2018,1,B58,Silver-ground Carpet,Xanthorhoe montanata,Geometridae,5.1,11
+14/06/2018,1,B93,Silver-ground Carpet,Xanthorhoe montanata,Geometridae,9.4,15
+14/06/2018,2,B70,Silver-ground Carpet,Xanthorhoe montanata,Geometridae,7.3,15
+19/06/2018,2,B41,Silver-ground Carpet,Xanthorhoe montanata,Geometridae,8.9,17
+26/06/2018,1,E87,Silver-ground Carpet,Xanthorhoe montanata,Geometridae,6.6,14
+26/06/2018,1,E31,Silver-ground Carpet,Xanthorhoe montanata,Geometridae,7.4,13
+20/06/2018,3,D92,Single-dotted Wave,Idaea dimidiata,Geometridae,2.4,9
+03/07/2018,1,C97,Single-dotted Wave,Idaea dimidiata,Geometridae,3,10
+12/07/2018,2,E96,Slender Pug,Eupithecia tenuiata,Geometridae,1.1,8
+19/07/2018,1,G71,Small Fan-footed Wave,Idaea biselata,Geometridae,1.7,10
+20/07/2018,1,G41,Small Fan-footed Wave,Idaea biselata,Geometridae,1.9,10
+27/06/2018,1,E75,Willow Beauty,Peribatodes rhomboidaria,Geometridae,17.2,21
+29/06/2018,1,E88,Willow Beauty,Peribatodes rhomboidaria,Geometridae,11.6,18
+04/07/2018,1,D7,Willow Beauty,Peribatodes rhomboidaria,Geometridae,13.3,21
+10/07/2018,2,F50,Willow Beauty,Peribatodes rhomboidaria,Geometridae,12.1,21
+13/06/2018,1,B92,Common Swift,Hepialus lupulinus,Hepialidae,21.9,11
+13/06/2018,1,B29,Common Swift,Hepialus lupulinus,Hepialidae,31.2,17
+14/06/2018,2,B10,Common Swift,Hepialus lupulinus,Hepialidae,22.3,13
+19/06/2018,2,C80,Ghost Moth,Hepialus humuli,Hepialidae,181.4,27
+21/06/2018,3,D20,Ghost Moth,Hepialus humuli,Hepialidae,200.3,28
+21/06/2018,3,D55,Ghost Moth,Hepialus humuli,Hepialidae,134.4,26
+06/07/2018,2,F79,Ghost Moth,Hepialus humuli,Hepialidae,162.9,25
+13/07/2018,1,G6,Ghost Moth,Hepialus humuli,Hepialidae,97.7,23
+22/06/2018,3,D86,Drinker,Euthrix potatoria,Lasiocampidae,143.5,29
+28/06/2018,1,E62,Drinker,Euthrix potatoria,Lasiocampidae,103.5,23
+28/06/2018,3,E53,Drinker,Euthrix potatoria,Lasiocampidae,138.5,20
+03/07/2018,2,D76,Drinker,Euthrix potatoria,Lasiocampidae,137.2,22
+04/07/2018,2,D72,Drinker,Euthrix potatoria,Lasiocampidae,117.2,20
+06/07/2018,2,F72,Drinker,Euthrix potatoria,Lasiocampidae,82.8,19
+06/07/2018,2,F1,Drinker,Euthrix potatoria,Lasiocampidae,64.1,21
+10/07/2018,2,F2,Drinker,Euthrix potatoria,Lasiocampidae,141.4,21
+10/07/2018,3,F18,Drinker,Euthrix potatoria,Lasiocampidae,105.3,21
+10/07/2018,3,G47,Drinker,Euthrix potatoria,Lasiocampidae,63.7,19
+11/07/2018,3,G9,Drinker,Euthrix potatoria,Lasiocampidae,155.1,20
+11/07/2018,3,G75,Drinker,Euthrix potatoria,Lasiocampidae,184.6,23
+11/07/2018,3,F44,Drinker,Euthrix potatoria,Lasiocampidae,164,22
+11/07/2018,3,G49,Drinker,Euthrix potatoria,Lasiocampidae,139.6,22
+11/07/2018,3,F61,Drinker,Euthrix potatoria,Lasiocampidae,128.6,21
+11/07/2018,3,F24,Drinker,Euthrix potatoria,Lasiocampidae,101.3,21
+13/07/2018,3,F73,Drinker,Euthrix potatoria,Lasiocampidae,107.8,20
+13/07/2018,3,K103,Drinker,Euthrix potatoria,Lasiocampidae,141.8,23
+18/07/2018,3,H42,Drinker,Euthrix potatoria,Lasiocampidae,126.5,21
+18/07/2018,3,H71,Drinker,Euthrix potatoria,Lasiocampidae,81.5,20
+29/06/2018,1,D103,Oak Eggar,Lasiocampa quercus,Lasiocampidae,167.2,32
+29/06/2018,1,E83,Angle Shades,Phlogophora meticulosa,Noctuidae,51.3,21
+14/06/2018,2,B7,Beautiful Golden Y,Autographa pulchrina,Noctuidae,34.9,14
+19/06/2018,3,B69,Bright-line Brown-eye,Lacanobia oleracea,Noctuidae,44.4,16
+21/06/2018,2,C33,Bright-line Brown-eye,Lacanobia oleracea,Noctuidae,42.5,17
+12/07/2018,3,G77,Bright-line Brown-eye,Lacanobia oleracea,Noctuidae,42.1,17
+10/07/2018,2,F5,Burnished Brass,Diachrysia chrysitis,Noctuidae,37.7,15
+13/07/2018,3,F19,Burnished Brass,Diachrysia chrysitis,Noctuidae,45.3,18
+20/06/2018,3,D60,Clay,Mythimna (Hyphilare) ferrago,Noctuidae,51.5,16
+27/06/2018,3,D59,Clay,Mythimna (Hyphilare) ferrago,Noctuidae,58.1,14
+10/07/2018,3,D69,Clay,Mythimna (Hyphilare) ferrago,Noctuidae,48.8,17
+10/07/2018,3,F51,Clay,Mythimna (Hyphilare) ferrago,Noctuidae,51.2,16
+12/07/2018,3,F43,Clay,Mythimna (Hyphilare) ferrago,Noctuidae,44.1,17
+13/07/2018,3,G81,Clay,Mythimna (Hyphilare) ferrago,Noctuidae,40.2,17
+20/07/2018,1,H8,Clay,Mythimna (Hyphilare) ferrago,Noctuidae,24.9,15
+20/07/2018,3,H75,Clay,Mythimna (Hyphilare) ferrago,Noctuidae,36.1,18
+11/07/2018,3,F64,Cloaked Minor,Mesoligia furuncula,Noctuidae,10.5,11
+10/07/2018,2,G1,Common Rustic,Mesapamea secalis/didyma,Noctuidae,25.8,13
+10/07/2018,2,F71,Common Rustic,Mesapamea secalis/didyma,Noctuidae,40.2,15
+10/07/2018,3,F62,Common Rustic,Mesapamea secalis/didyma,Noctuidae,37.9,15
+10/07/2018,3,E1,Common Rustic,Mesapamea secalis/didyma,Noctuidae,21.8,14
+10/07/2018,3,D27,Common Rustic,Mesapamea secalis/didyma,Noctuidae,19.1,12
+11/07/2018,3,F98,Common Rustic,Mesapamea secalis/didyma,Noctuidae,26.3,14
+13/07/2018,2,F45,Common Rustic,Mesapamea secalis/didyma,Noctuidae,25.7,13
+13/07/2018,3,F63,Common Rustic,Mesapamea secalis/didyma,Noctuidae,27.2,13
+13/07/2018,3,F55,Common Rustic,Mesapamea secalis/didyma,Noctuidae,25.2,14
+13/07/2018,3,D88,Common Rustic,Mesapamea secalis/didyma,Noctuidae,40.3,13
+13/07/2018,3,G4,Common Rustic,Mesapamea secalis/didyma,Noctuidae,23,14
+13/07/2018,3,F99,Common Rustic,Mesapamea secalis/didyma,Noctuidae,32.4,15
+18/07/2018,1,G27,Common Rustic,Mesapamea secalis/didyma,Noctuidae,28.1,13
+18/07/2018,1,F97,Common Rustic,Mesapamea secalis/didyma,Noctuidae,21,12
+18/07/2018,1,G64,Common Rustic,Mesapamea secalis/didyma,Noctuidae,40.7,14
+18/07/2018,1,F31,Common Rustic,Mesapamea secalis/didyma,Noctuidae,24.8,13
+18/07/2018,1,F95,Common Rustic,Mesapamea secalis/didyma,Noctuidae,28,14
+18/07/2018,3,G34,Common Rustic,Mesapamea secalis/didyma,Noctuidae,27.3,13
+19/07/2018,1,F60,Common Rustic,Mesapamea secalis/didyma,Noctuidae,19.1,13
+19/07/2018,1,F14,Common Rustic,Mesapamea secalis/didyma,Noctuidae,32.1,14
+20/07/2018,1,G29,Common Rustic,Mesapamea secalis/didyma,Noctuidae,23.6,13
+20/07/2018,1,G91,Common Rustic,Mesapamea secalis/didyma,Noctuidae,27.1,13
+20/07/2018,3,H39,Common Rustic,Mesapamea secalis/didyma,Noctuidae,45.6,16
+20/07/2018,3,H70,Common Rustic,Mesapamea secalis/didyma,Noctuidae,35.8,14
+20/07/2018,3,H69,Common Rustic,Mesapamea secalis/didyma,Noctuidae,28.7,13
+20/07/2018,3,G60,Common Rustic,Mesapamea secalis/didyma,Noctuidae,30.5,14
+20/07/2018,3,G57,Common Rustic,Mesapamea secalis/didyma,Noctuidae,23.9,11
+20/07/2018,3,H37,Common Rustic,Mesapamea secalis/didyma,Noctuidae,36.6,13
+13/06/2018,2,B57,Common Wainscot,Mythimna pallens,Noctuidae,36.4,15
+15/06/2018,2,C4,Common Wainscot,Mythimna pallens,Noctuidae,40.8,16
+20/06/2018,3,C45,Common Wainscot,Mythimna pallens,Noctuidae,31.4,15
+28/06/2018,1,E14,Common Wainscot,Mythimna pallens,Noctuidae,35.4,14
+28/06/2018,3,D44,Common Wainscot,Mythimna pallens,Noctuidae,55.3,15
+13/07/2018,1,F101,Copper Underwing,Amphipyra pyramidea,Noctuidae,109.4,21
+20/07/2018,3,H7,Copper Underwing,Amphipyra pyramidea,Noctuidae,119.5,21
+14/06/2018,2,B52,Dark Arches,Apamea monoglypha,Noctuidae,82.6,21
+19/06/2018,3,C51,Dark Arches,Apamea monoglypha,Noctuidae,93.3,22
+19/06/2018,3,C85,Dark Arches,Apamea monoglypha,Noctuidae,143.9,23
+19/06/2018,3,C28,Dark Arches,Apamea monoglypha,Noctuidae,106.6,22
+20/06/2018,3,D89,Dark Arches,Apamea monoglypha,Noctuidae,107.3,22
+21/06/2018,3,D63,Dark Arches,Apamea monoglypha,Noctuidae,86.8,24
+21/06/2018,3,D98,Dark Arches,Apamea monoglypha,Noctuidae,100.1,25
+22/06/2018,2,D19,Dark Arches,Apamea monoglypha,Noctuidae,97.9,22
+22/06/2018,2,D34,Dark Arches,Apamea monoglypha,Noctuidae,76,21
+22/06/2018,2,D99,Dark Arches,Apamea monoglypha,Noctuidae,81,23
+22/06/2018,3,D84,Dark Arches,Apamea monoglypha,Noctuidae,132.4,23
+26/06/2018,1,E79,Dark Arches,Apamea monoglypha,Noctuidae,93,24
+27/06/2018,3,D96,Dark Arches,Apamea monoglypha,Noctuidae,113.4,23
+27/06/2018,3,E51,Dark Arches,Apamea monoglypha,Noctuidae,105.6,22
+03/07/2018,1,E12,Dark Arches,Apamea monoglypha,Noctuidae,61.7,20
+03/07/2018,2,E21,Dark Arches,Apamea monoglypha,Noctuidae,104.5,22
+03/07/2018,2,E21,Dark Arches,Apamea monoglypha,Noctuidae,104.5,22
+03/07/2018,2,D38,Dark Arches,Apamea monoglypha,Noctuidae,87.8,22
+03/07/2018,2,D68,Dark Arches,Apamea monoglypha,Noctuidae,79.8,22
+03/07/2018,2,E25,Dark Arches,Apamea monoglypha,Noctuidae,102.3,22
+04/07/2018,2,E34,Dark Arches,Apamea monoglypha,Noctuidae,64.6,20
+04/07/2018,2,C15,Dark Arches,Apamea monoglypha,Noctuidae,22.9,13
+06/07/2018,2,F54,Dark Arches,Apamea monoglypha,Noctuidae,79.1,21
+06/07/2018,2,F88,Dark Arches,Apamea monoglypha,Noctuidae,152.1,24
+06/07/2018,2,F35,Dark Arches,Apamea monoglypha,Noctuidae,90.8,23
+06/07/2018,2,F16,Dark Arches,Apamea monoglypha,Noctuidae,109.2,21
+10/07/2018,2,F100,Dark Arches,Apamea monoglypha,Noctuidae,90.2,21
+10/07/2018,2,G16,Dark Arches,Apamea monoglypha,Noctuidae,91.1,21
+10/07/2018,2,G14,Dark Arches,Apamea monoglypha,Noctuidae,103.2,21
+10/07/2018,2,F85,Dark Arches,Apamea monoglypha,Noctuidae,75.4,19
+19/07/2018,3,G26,Dark Dagger,Acronicta tridens,Noctuidae,30,17
+13/06/2018,1,B18,Double Square-spot,Xestia triangulum,Noctuidae,59.3,17
+20/06/2018,3,D62,Double Square-spot,Xestia triangulum,Noctuidae,60.6,18
+21/06/2018,3,C22,Double Square-spot,Xestia triangulum,Noctuidae,61.3,19
+26/06/2018,1,E77,Double Square-spot,Xestia triangulum,Noctuidae,54.1,17
+26/06/2018,1,E11,Double Square-spot,Xestia triangulum,Noctuidae,80.3,19
+26/06/2018,1,D90,Double Square-spot,Xestia triangulum,Noctuidae,49.8,16
+26/06/2018,1,D93,Double Square-spot,Xestia triangulum,Noctuidae,57.4,17
+26/06/2018,3,E86,Double Square-spot,Xestia triangulum,Noctuidae,56.6,16
+27/06/2018,3,C95,Double Square-spot,Xestia triangulum,Noctuidae,52.1,18
+28/06/2018,1,E92,Double Square-spot,Xestia triangulum,Noctuidae,81.4,18
+28/06/2018,3,D22,Double Square-spot,Xestia triangulum,Noctuidae,62.1,17
+29/06/2018,1,E50,Double Square-spot,Xestia triangulum,Noctuidae,58.5,17
+29/06/2018,1,E52,Double Square-spot,Xestia triangulum,Noctuidae,42.4,17
+29/06/2018,1,E4,Double Square-spot,Xestia triangulum,Noctuidae,41.9,18
+29/06/2018,1,E74,Double Square-spot,Xestia triangulum,Noctuidae,46.8,15
+29/06/2018,1,E85,Double Square-spot,Xestia triangulum,Noctuidae,81.7,18
+29/06/2018,1,C56,Double Square-spot,Xestia triangulum,Noctuidae,45.8,16
+29/06/2018,1,C65,Double Square-spot,Xestia triangulum,Noctuidae,62.1,18
+03/07/2018,1,C75,Double Square-spot,Xestia triangulum,Noctuidae,56.9,19
+03/07/2018,1,C98,Double Square-spot,Xestia triangulum,Noctuidae,46,18
+03/07/2018,1,C53,Double Square-spot,Xestia triangulum,Noctuidae,31.8,15
+03/07/2018,1,C59,Double Square-spot,Xestia triangulum,Noctuidae,68.1,19
+04/07/2018,1,C52,Double Square-spot,Xestia triangulum,Noctuidae,71.5,17
+04/07/2018,1,C90,Double Square-spot,Xestia triangulum,Noctuidae,73.7,19
+04/07/2018,1,C31,Double Square-spot,Xestia triangulum,Noctuidae,43.1,18
+04/07/2018,1,D9,Double Square-spot,Xestia triangulum,Noctuidae,72.1,17
+04/07/2018,1,E60,Double Square-spot,Xestia triangulum,Noctuidae,54.4,17
+04/07/2018,1,D49,Double Square-spot,Xestia triangulum,Noctuidae,62.5,18
+04/07/2018,1,D45,Double Square-spot,Xestia triangulum,Noctuidae,82,17
+13/07/2018,3,G36,Double Square-spot,Xestia triangulum,Noctuidae,25.8,16
+03/07/2018,1,E76,Dun-bar,Cosmia trapezina,Noctuidae,6.7,14
+04/07/2018,1,D57,Dun-bar,Cosmia trapezina,Noctuidae,15.6,13
+04/07/2018,1,C48,Dun-bar,Cosmia trapezina,Noctuidae,14.2,13
+06/07/2018,1,D12,Dun-bar,Cosmia trapezina,Noctuidae,21.1,14
+06/07/2018,1,F3,Dun-bar,Cosmia trapezina,Noctuidae,19.3,14
+06/07/2018,1,F49,Dun-bar,Cosmia trapezina,Noctuidae,18.3,14
+06/07/2018,1,F6,Dun-bar,Cosmia trapezina,Noctuidae,20.7,12
+12/07/2018,3,G84,Dun-bar,Cosmia trapezina,Noctuidae,16.7,13
+13/07/2018,1,E30,Dun-bar,Cosmia trapezina,Noctuidae,18.9,14
+13/07/2018,1,G12,Dun-bar,Cosmia trapezina,Noctuidae,24.2,14
+13/07/2018,1,F47,Dun-bar,Cosmia trapezina,Noctuidae,21.7,13
+13/07/2018,1,G73,Dun-bar,Cosmia trapezina,Noctuidae,23.2,13
+13/07/2018,1,F41,Dun-bar,Cosmia trapezina,Noctuidae,16.9,14
+13/07/2018,3,G13,Dun-bar,Cosmia trapezina,Noctuidae,12.9,12
+18/07/2018,1,H6,Dun-bar,Cosmia trapezina,Noctuidae,16.1,14
+18/07/2018,1,G92,Dun-bar,Cosmia trapezina,Noctuidae,19.3,13
+18/07/2018,1,G59,Dun-bar,Cosmia trapezina,Noctuidae,16.8,14
+18/07/2018,1,G20,Dun-bar,Cosmia trapezina,Noctuidae,15.2,14
+18/07/2018,1,G61,Dun-bar,Cosmia trapezina,Noctuidae,16.3,13
+18/07/2018,1,G68,Dun-bar,Cosmia trapezina,Noctuidae,17.4,15
+18/07/2018,1,H72,Dun-bar,Cosmia trapezina,Noctuidae,16.2,13
+19/07/2018,1,G38,Dun-bar,Cosmia trapezina,Noctuidae,15.2,13
+19/07/2018,1,G25,Dun-bar,Cosmia trapezina,Noctuidae,18.1,13
+19/07/2018,1,G40,Dun-bar,Cosmia trapezina,Noctuidae,15.4,16
+19/07/2018,1,G99,Dun-bar,Cosmia trapezina,Noctuidae,36.2,14
+19/07/2018,3,F29,Dun-bar,Cosmia trapezina,Noctuidae,60.4,17
+20/07/2018,1,G66,Dun-bar,Cosmia trapezina,Noctuidae,16.1,13
+20/07/2018,1,F93,Dun-bar,Cosmia trapezina,Noctuidae,15.1,12
+13/06/2018,2,B66,Dusky Brocade,Apamea remissa,Noctuidae,46.3,19
+19/06/2018,3,C32,Dusky Brocade,Apamea remissa,Noctuidae,49.3,17
+04/07/2018,2,D37,Dusky Brocade,Apamea remissa,Noctuidae,34.8,15
+11/07/2018,3,F32,Dusky Sallow,Eremobia ochroleuca,Noctuidae,25.3,13
+11/07/2018,3,F28,Dusky Sallow,Eremobia ochroleuca,Noctuidae,21.2,14
+12/07/2018,2,F40,Dusky Sallow,Eremobia ochroleuca,Noctuidae,19.9,14
+12/07/2018,2,F92,Dusky Sallow,Eremobia ochroleuca,Noctuidae,24.2,13
+12/07/2018,3,F75,Dusky Sallow,Eremobia ochroleuca,Noctuidae,20.6,13
+12/07/2018,3,F42,Dusky Sallow,Eremobia ochroleuca,Noctuidae,44.1,13
+13/07/2018,2,F74,Dusky Sallow,Eremobia ochroleuca,Noctuidae,20.5,13
+19/06/2018,2,C54,Flame Shoulder,Ochropleura plecta,Noctuidae,15.9,12
+19/06/2018,3,C20,Flame Shoulder,Ochropleura plecta,Noctuidae,22.1,12
+12/07/2018,3,G70,Flame Shoulder,Ochropleura plecta,Noctuidae,25.2,12
+13/06/2018,2,B85,Heart & Dart,Agrotis exclamationis,Noctuidae,48.4,16
+14/06/2018,1,B15,Heart & Dart,Agrotis exclamationis,Noctuidae,69,16
+14/06/2018,2,B27,Heart & Dart,Agrotis exclamationis,Noctuidae,52.8,17
+14/06/2018,2,B55,Heart & Dart,Agrotis exclamationis,Noctuidae,75.6,15
+14/06/2018,2,B3,Heart & Dart,Agrotis exclamationis,Noctuidae,76.9,18
+14/06/2018,2,B54,Heart & Dart,Agrotis exclamationis,Noctuidae,36.8,13
+14/06/2018,2,B1,Heart & Dart,Agrotis exclamationis,Noctuidae,48,15
+14/06/2018,2,B77,Heart & Dart,Agrotis exclamationis,Noctuidae,52.9,17
+14/06/2018,2,C1,Heart & Dart,Agrotis exclamationis,Noctuidae,53.1,15
+15/06/2018,2,C35,Heart & Dart,Agrotis exclamationis,Noctuidae,45.6,18
+19/06/2018,2,C9,Heart & Dart,Agrotis exclamationis,Noctuidae,59.9,16
+19/06/2018,2,C58,Heart & Dart,Agrotis exclamationis,Noctuidae,54.8,17
+19/06/2018,2,C87,Heart & Dart,Agrotis exclamationis,Noctuidae,54,16
+19/06/2018,2,C61,Heart & Dart,Agrotis exclamationis,Noctuidae,56.1,17
+19/06/2018,2,C67,Heart & Dart,Agrotis exclamationis,Noctuidae,47.2,17
+19/06/2018,3,C16,Heart & Dart,Agrotis exclamationis,Noctuidae,51.4,17
+19/06/2018,3,C84,Heart & Dart,Agrotis exclamationis,Noctuidae,56.1,16
+19/06/2018,3,B43,Heart & Dart,Agrotis exclamationis,Noctuidae,48.3,16
+20/06/2018,3,C89,Heart & Dart,Agrotis exclamationis,Noctuidae,35.1,17
+20/06/2018,3,C10,Heart & Dart,Agrotis exclamationis,Noctuidae,41,17
+21/06/2018,2,D51,Heart & Dart,Agrotis exclamationis,Noctuidae,73,18
+21/06/2018,3,D56,Heart & Dart,Agrotis exclamationis,Noctuidae,68,19
+21/06/2018,3,C30,Heart & Dart,Agrotis exclamationis,Noctuidae,59.7,18
+21/06/2018,3,C50,Heart & Dart,Agrotis exclamationis,Noctuidae,41.7,16
+21/06/2018,3,C79,Heart & Dart,Agrotis exclamationis,Noctuidae,58,18
+26/06/2018,3,E16,Heart & Dart,Agrotis exclamationis,Noctuidae,44.5,15
+04/07/2018,2,D29,Heart & Dart,Agrotis exclamationis,Noctuidae,50.9,17
+04/07/2018,2,D30,Heart & Dart,Agrotis exclamationis,Noctuidae,52,16
+06/07/2018,2,F90,Heart & Dart,Agrotis exclamationis,Noctuidae,55.1,15
+06/07/2018,2,E71,Heart & Dart,Agrotis exclamationis,Noctuidae,45.1,17
+13/06/2018,1,B90,Ingrailed Clay,Diarsia mendica,Noctuidae,33,16
+13/06/2018,1,B95,Ingrailed Clay,Diarsia mendica,Noctuidae,51.2,15
+13/06/2018,1,B94,Ingrailed Clay,Diarsia mendica,Noctuidae,34.3,16
+14/06/2018,1,B34,Ingrailed Clay,Diarsia mendica,Noctuidae,30.9,15
+14/06/2018,1,B86,Ingrailed Clay,Diarsia mendica,Noctuidae,22.4,14
+14/06/2018,1,B80,Ingrailed Clay,Diarsia mendica,Noctuidae,25.4,14
+15/06/2018,1,B40,Ingrailed Clay,Diarsia mendica,Noctuidae,22.7,15
+15/06/2018,1,C70,Ingrailed Clay,Diarsia mendica,Noctuidae,42.3,16
+15/06/2018,1,C74,Ingrailed Clay,Diarsia mendica,Noctuidae,43.5,16
+26/06/2018,1,D35,Ingrailed Clay,Diarsia mendica,Noctuidae,29.4,16
+26/06/2018,1,D101,Ingrailed Clay,Diarsia mendica,Noctuidae,36.8,16
+26/06/2018,1,E42,Ingrailed Clay,Diarsia mendica,Noctuidae,23.7,13
+26/06/2018,1,C96,Ingrailed Clay,Diarsia mendica,Noctuidae,23.6,14
+26/06/2018,1,E8,Ingrailed Clay,Diarsia mendica,Noctuidae,28.6,14
+14/06/2018,2,B36,Large Yellow Underwing,Noctua pronuba,Noctuidae,110.3,23
+19/06/2018,2,C47,Large Yellow Underwing,Noctua pronuba,Noctuidae,114.2,23
+19/06/2018,2,C17,Large Yellow Underwing,Noctua pronuba,Noctuidae,129.8,25
+19/06/2018,2,C78,Large Yellow Underwing,Noctua pronuba,Noctuidae,121.4,25
+20/06/2018,2,D85,Large Yellow Underwing,Noctua pronuba,Noctuidae,93.7,24
+20/06/2018,3,D94,Large Yellow Underwing,Noctua pronuba,Noctuidae,135.8,25
+20/06/2018,3,D95,Large Yellow Underwing,Noctua pronuba,Noctuidae,102.3,23
+21/06/2018,2,D46,Large Yellow Underwing,Noctua pronuba,Noctuidae,157.2,24
+21/06/2018,2,D64,Large Yellow Underwing,Noctua pronuba,Noctuidae,208.4,28
+26/06/2018,1,E84,Large Yellow Underwing,Noctua pronuba,Noctuidae,119.1,25
+28/06/2018,1,E102,Large Yellow Underwing,Noctua pronuba,Noctuidae,170.1,24
+03/07/2018,1,D48,Large Yellow Underwing,Noctua pronuba,Noctuidae,210.4,26
+03/07/2018,1,D79,Large Yellow Underwing,Noctua pronuba,Noctuidae,106.8,24
+04/07/2018,1,E23,Large Yellow Underwing,Noctua pronuba,Noctuidae,113,25
+04/07/2018,1,D77,Large Yellow Underwing,Noctua pronuba,Noctuidae,135.6,26
+04/07/2018,1,D80,Large Yellow Underwing,Noctua pronuba,Noctuidae,273.1,25
+04/07/2018,1,E6,Large Yellow Underwing,Noctua pronuba,Noctuidae,295.1,26
+06/07/2018,2,F77,Large Yellow Underwing,Noctua pronuba,Noctuidae,196.5,25
+11/07/2018,2,G79,Large Yellow Underwing,Noctua pronuba,Noctuidae,302.9,24
+11/07/2018,3,F70,Large Yellow Underwing,Noctua pronuba,Noctuidae,427.1,23
+12/07/2018,2,G8,Large Yellow Underwing,Noctua pronuba,Noctuidae,379.4,26
+13/07/2018,2,F39,Large Yellow Underwing,Noctua pronuba,Noctuidae,206.7,21
+13/07/2018,3,G3,Large Yellow Underwing,Noctua pronuba,Noctuidae,109.9,24
+13/06/2018,2,B20,Lychnis,Hadena bicruris,Noctuidae,47.4,16
+21/06/2018,2,D87,Lychnis,Hadena bicruris,Noctuidae,41.2,16
+13/06/2018,1,B50,Marbled Minor,Oligia strigilis,Noctuidae,28.3,12
+13/06/2018,2,B98,Marbled Minor,Oligia strigilis,Noctuidae,25.3,10
+14/06/2018,1,B51,Marbled Minor,Oligia strigilis,Noctuidae,19.3,13
+14/06/2018,1,B56,Marbled Minor,Oligia strigilis,Noctuidae,15.3,9
+14/06/2018,1,B75,Marbled Minor,Oligia strigilis,Noctuidae,23.5,13
+14/06/2018,1,C3,Marbled Minor,Oligia strigilis,Noctuidae,25,12
+14/06/2018,1,C5,Marbled Minor,Oligia strigilis,Noctuidae,16.3,12
+14/06/2018,2,B48,Marbled Minor,Oligia strigilis,Noctuidae,18,10
+14/06/2018,2,B21,Marbled Minor,Oligia strigilis,Noctuidae,20.9,11
+14/06/2018,2,B13,Marbled Minor,Oligia strigilis,Noctuidae,14.9,12
+14/06/2018,2,B14,Marbled Minor,Oligia strigilis,Noctuidae,19.2,11
+14/06/2018,2,B82,Marbled Minor,Oligia strigilis,Noctuidae,20.6,11
+15/06/2018,2,C72,Marbled Minor,Oligia strigilis,Noctuidae,25.3,13
+19/06/2018,3,C21,Marbled Minor,Oligia strigilis,Noctuidae,18.9,12
+19/06/2018,3,C46,Marbled Minor,Oligia strigilis,Noctuidae,14.4,11
+19/06/2018,3,C12,Marbled Minor,Oligia strigilis,Noctuidae,20.7,12
+20/06/2018,3,A91,Marbled Minor,Oligia strigilis,Noctuidae,20,12
+26/06/2018,1,C82,Marbled Minor,Oligia strigilis,Noctuidae,21.5,12
+13/06/2018,1,B60,Middle-barred Minor,Oligia fasciuncula,Noctuidae,11.4,10
+13/06/2018,1,B59,Middle-barred Minor,Oligia fasciuncula,Noctuidae,10.4,9
+13/06/2018,1,B63,Middle-barred Minor,Oligia fasciuncula,Noctuidae,10.1,10
+13/06/2018,1,B28,Middle-barred Minor,Oligia fasciuncula,Noctuidae,9.6,9
+13/06/2018,1,B99,Middle-barred Minor,Oligia fasciuncula,Noctuidae,16.7,10
+13/06/2018,1,B100,Middle-barred Minor,Oligia fasciuncula,Noctuidae,10.7,9
+14/06/2018,1,B97,Middle-barred Minor,Oligia fasciuncula,Noctuidae,9.4,8
+14/06/2018,1,B23,Middle-barred Minor,Oligia fasciuncula,Noctuidae,10.6,9
+14/06/2018,1,B62,Middle-barred Minor,Oligia fasciuncula,Noctuidae,11.5,9
+14/06/2018,1,B72,Middle-barred Minor,Oligia fasciuncula,Noctuidae,8.1,10
+14/06/2018,2,B11,Middle-barred Minor,Oligia fasciuncula,Noctuidae,10.6,10
+14/06/2018,2,B9,Middle-barred Minor,Oligia fasciuncula,Noctuidae,8.4,8
+14/06/2018,2,B71,Middle-barred Minor,Oligia fasciuncula,Noctuidae,9.5,9
+14/06/2018,2,B46,Middle-barred Minor,Oligia fasciuncula,Noctuidae,11.2,10
+14/06/2018,2,B73,Middle-barred Minor,Oligia fasciuncula,Noctuidae,10.1,10
+14/06/2018,2,B19,Middle-barred Minor,Oligia fasciuncula,Noctuidae,10.3,9
+14/06/2018,2,B84,Middle-barred Minor,Oligia fasciuncula,Noctuidae,9.9,9
+14/06/2018,2,B31,Middle-barred Minor,Oligia fasciuncula,Noctuidae,10.4,10
+14/06/2018,2,B32,Middle-barred Minor,Oligia fasciuncula,Noctuidae,10.8,9
+15/06/2018,1,B91,Middle-barred Minor,Oligia fasciuncula,Noctuidae,10.2,10
+15/06/2018,1,B61,Middle-barred Minor,Oligia fasciuncula,Noctuidae,13.3,11
+15/06/2018,1,B42,Middle-barred Minor,Oligia fasciuncula,Noctuidae,8.4,9
+15/06/2018,1,B38,Middle-barred Minor,Oligia fasciuncula,Noctuidae,10.7,10
+15/06/2018,1,B53,Middle-barred Minor,Oligia fasciuncula,Noctuidae,11.4,10
+15/06/2018,1,B25,Middle-barred Minor,Oligia fasciuncula,Noctuidae,9.9,9
+15/06/2018,1,B83,Middle-barred Minor,Oligia fasciuncula,Noctuidae,10.1,10
+15/06/2018,1,B67,Middle-barred Minor,Oligia fasciuncula,Noctuidae,12,10
+15/06/2018,1,B5,Middle-barred Minor,Oligia fasciuncula,Noctuidae,10,10
+15/06/2018,1,B44,Middle-barred Minor,Oligia fasciuncula,Noctuidae,9.9,9
+15/06/2018,1,B89,Middle-barred Minor,Oligia fasciuncula,Noctuidae,11.4,11
+15/06/2018,1,B2,Middle-barred Minor,Oligia fasciuncula,Noctuidae,10.8,10
+15/06/2018,1,B12,Middle-barred Minor,Oligia fasciuncula,Noctuidae,12.6,10
+15/06/2018,1,B81,Middle-barred Minor,Oligia fasciuncula,Noctuidae,9.5,9
+15/06/2018,1,C6,Middle-barred Minor,Oligia fasciuncula,Noctuidae,11.1,10
+15/06/2018,1,C39,Middle-barred Minor,Oligia fasciuncula,Noctuidae,15.4,10
+15/06/2018,1,C2,Middle-barred Minor,Oligia fasciuncula,Noctuidae,13.1,11
+15/06/2018,1,C37,Middle-barred Minor,Oligia fasciuncula,Noctuidae,11.4,10
+27/06/2018,1,E100,Mottled Rustic,Caradrina morpheus,Noctuidae,24.1,14
+12/07/2018,2,F10,Mouse Moth,Amphipyra tragopoginis,Noctuidae,36.8,15
+13/06/2018,2,B78,Poplar Grey,Acronicta megacephala,Noctuidae,41.1,16
+15/06/2018,1,B35,Poplar Grey,Acronicta megacephala,Noctuidae,50.1,19
+10/07/2018,2,F91,Poplar Grey,Acronicta megacephala,Noctuidae,45.1,15
+12/07/2018,3,G10,Poplar Grey,Acronicta megacephala,Noctuidae,56.7,19
+20/07/2018,1,H36,Ruby Tiger,Phragmatobia fuliginosa,Erebidae,28.7,13
+21/06/2018,3,C57,Rustic,Hoplodrina blanda,Noctuidae,23.5,15
+04/07/2018,2,E98,Rustic,Hoplodrina blanda,Noctuidae,11.8,13
+04/07/2018,2,E78,Rustic,Hoplodrina blanda,Noctuidae,26.9,14
+06/07/2018,2,D16,Rustic,Hoplodrina blanda,Noctuidae,44,13
+19/06/2018,2,C86,Rustic Shoulder-knot,Apamea sordens,Noctuidae,27.1,15
+19/06/2018,3,C8,Rustic Shoulder-knot,Apamea sordens,Noctuidae,19.1,15
+19/06/2018,3,C88,Setaceous Hebrew Character,Xestia c-nigrum,Noctuidae,34.5,17
+14/06/2018,2,B65,Shoulder-striped Wainscot,Mythimna comma,Noctuidae,38.5,15
+20/06/2018,3,C29,Shoulder-striped Wainscot,Mythimna comma,Noctuidae,35,16
+21/06/2018,3,C19,Shoulder-striped Wainscot,Mythimna comma,Noctuidae,38.1,16
+13/07/2018,2,H76,Shuttle-shaped Dart,Agrotis puta,Noctuidae,25.8,12
+19/07/2018,3,F26,Shuttle-shaped Dart,Agrotis puta,Noctuidae,22.5,12
+20/07/2018,3,G18,Shuttle-shaped Dart,Agrotis puta,Noctuidae,33.5,14
+13/07/2018,2,F65,Silver Y,Autographa gamma,Noctuidae,36,17
+19/06/2018,2,C77,Smoky Wainscot,Mythimna impura,Noctuidae,30.1,15
+21/06/2018,2,D33,Smoky Wainscot,Mythimna impura,Noctuidae,26.5,13
+21/06/2018,3,D58,Smoky Wainscot,Mythimna impura,Noctuidae,41.5,16
+22/06/2018,2,D91,Smoky Wainscot,Mythimna impura,Noctuidae,40.2,16
+26/06/2018,1,D65,Smoky Wainscot,Mythimna impura,Noctuidae,32.9,14
+26/06/2018,1,E73,Smoky Wainscot,Mythimna impura,Noctuidae,37.8,15
+27/06/2018,3,E35,Smoky Wainscot,Mythimna impura,Noctuidae,29.4,13
+27/06/2018,3,D18,Smoky Wainscot,Mythimna impura,Noctuidae,34.7,15
+27/06/2018,3,E48,Smoky Wainscot,Mythimna impura,Noctuidae,37.5,15
+27/06/2018,3,C23,Smoky Wainscot,Mythimna impura,Noctuidae,38.4,16
+28/06/2018,1,E32,Smoky Wainscot,Mythimna impura,Noctuidae,37.8,14
+28/06/2018,1,D26,Smoky Wainscot,Mythimna impura,Noctuidae,39.2,14
+28/06/2018,1,C34,Smoky Wainscot,Mythimna impura,Noctuidae,33.2,15
+29/06/2018,1,E47,Smoky Wainscot,Mythimna impura,Noctuidae,37.2,16
+29/06/2018,3,E97,Smoky Wainscot,Mythimna impura,Noctuidae,30.2,13
+03/07/2018,1,C68,Smoky Wainscot,Mythimna impura,Noctuidae,38.1,15
+03/07/2018,1,C62,Smoky Wainscot,Mythimna impura,Noctuidae,36.2,14
+03/07/2018,1,C94,Smoky Wainscot,Mythimna impura,Noctuidae,33.5,14
+03/07/2018,1,D47,Smoky Wainscot,Mythimna impura,Noctuidae,40.3,15
+03/07/2018,1,C100,Smoky Wainscot,Mythimna impura,Noctuidae,38.2,15
+03/07/2018,2,C66,Smoky Wainscot,Mythimna impura,Noctuidae,48,16
+03/07/2018,2,C102,Smoky Wainscot,Mythimna impura,Noctuidae,35,16
+04/07/2018,1,C26,Smoky Wainscot,Mythimna impura,Noctuidae,34.8,15
+04/07/2018,1,D23,Smoky Wainscot,Mythimna impura,Noctuidae,36.2,15
+04/07/2018,1,D81,Smoky Wainscot,Mythimna impura,Noctuidae,37.1,15
+04/07/2018,1,D31,Smoky Wainscot,Mythimna impura,Noctuidae,30,14
+04/07/2018,2,E13,Smoky Wainscot,Mythimna impura,Noctuidae,33.2,14
+04/07/2018,2,E58,Smoky Wainscot,Mythimna impura,Noctuidae,32.1,13
+04/07/2018,2,E70,Smoky Wainscot,Mythimna impura,Noctuidae,31.4,15
+04/07/2018,2,E20,Smoky Wainscot,Mythimna impura,Noctuidae,36.6,14
+14/06/2018,1,B96,The Flame,Axylia putris,Noctuidae,27.6,14
+13/06/2018,1,B16,Treble Lines,Charanyca trigrammica,Noctuidae,36.2,14
+20/06/2018,3,C93,Turnip Moth,Agrotis segetum,Noctuidae,53.3,18
+19/06/2018,2,C49,Uncertain,Hoplodrina alsines,Noctuidae,41.5,15
+22/06/2018,2,D53,Uncertain,Hoplodrina alsines,Noctuidae,40.4,15
+22/06/2018,3,D36,Uncertain,Hoplodrina alsines,Noctuidae,29.5,13
+26/06/2018,1,C91,Uncertain,Hoplodrina alsines,Noctuidae,38.4,14
+26/06/2018,1,D54,Uncertain,Hoplodrina alsines,Noctuidae,30.2,14
+26/06/2018,1,E65,Uncertain,Hoplodrina alsines,Noctuidae,26.9,13
+27/06/2018,3,D1,Uncertain,Hoplodrina alsines,Noctuidae,34,15
+27/06/2018,3,D21,Uncertain,Hoplodrina alsines,Noctuidae,30.9,14
+29/06/2018,1,E54,Uncertain,Hoplodrina alsines,Noctuidae,32.9,14
+29/06/2018,1,E43,Uncertain,Hoplodrina alsines,Noctuidae,31.9,15
+29/06/2018,1,C13,Uncertain,Hoplodrina alsines,Noctuidae,33.8,16
+29/06/2018,1,D100,Uncertain,Hoplodrina alsines,Noctuidae,31.5,14
+29/06/2018,1,E39,Uncertain,Hoplodrina alsines,Noctuidae,23.6,13
+29/06/2018,1,D67,Uncertain,Hoplodrina alsines,Noctuidae,28,12
+03/07/2018,1,C18,Uncertain,Hoplodrina alsines,Noctuidae,17.6,13
+04/07/2018,1,E3,Uncertain,Hoplodrina alsines,Noctuidae,32.7,13
+04/07/2018,1,D32,Uncertain,Hoplodrina alsines,Noctuidae,34.7,15
+04/07/2018,1,D83,Uncertain,Hoplodrina alsines,Noctuidae,35.2,13
+05/07/2018,3,E15,Uncertain,Hoplodrina alsines,Noctuidae,22.2,14
+04/07/2018,2,D15,Uncertain,Hoplodrina alsines,Noctuidae,24.9,13
+04/07/2018,2,C83,Uncertain,Hoplodrina alsines,Noctuidae,22.8,13
+06/07/2018,1,E17,Uncertain,Hoplodrina alsines,Noctuidae,47,14
+06/07/2018,1,F82,Uncertain,Hoplodrina alsines,Noctuidae,26.7,14
+06/07/2018,1,F46,Uncertain,Hoplodrina alsines,Noctuidae,21.4,13
+06/07/2018,2,F7,Uncertain,Hoplodrina alsines,Noctuidae,29.2,13
+06/07/2018,2,E64,Uncertain,Hoplodrina alsines,Noctuidae,22.3,12
+06/07/2018,2,E56,Uncertain,Hoplodrina alsines,Noctuidae,31.4,13
+06/07/2018,2,E49,Uncertain,Hoplodrina alsines,Noctuidae,26.9,12
+06/07/2018,2,E68,Uncertain,Hoplodrina alsines,Noctuidae,36.1,13
+06/07/2018,2,D3,Uncertain,Hoplodrina alsines,Noctuidae,34.4,13
+06/07/2018,2,D73,Uncertain,Hoplodrina alsines,Noctuidae,32,13
+06/07/2018,2,D43,Uncertain,Hoplodrina alsines,Noctuidae,27.3,13
+06/07/2018,2,E80,Uncertain,Hoplodrina alsines,Noctuidae,30.6,14
+06/07/2018,2,E90,Uncertain,Hoplodrina alsines,Noctuidae,36.3,13
+14/06/2018,2,B64,White Ermine,Spilosoma lubricipeda,Erebidae,47.6,18
+14/06/2018,2,B4,White Ermine,Spilosoma lubricipeda,Erebidae,39.9,17
+14/06/2018,2,B79,White Ermine,Spilosoma lubricipeda,Erebidae,42.7,18
+15/06/2018,1,C40,Buff-tip,Phalera bucephala,Notodontidae,636.7,28
+21/06/2018,2,D25,Buff-tip,Phalera bucephala,Notodontidae,224.8,28
+04/07/2018,1,E93,Buff-tip,Phalera bucephala,Notodontidae,175,26
+04/07/2018,2,D41,Buff-tip,Phalera bucephala,Notodontidae,101.4,24
+04/07/2018,2,E26,Buff-tip,Phalera bucephala,Notodontidae,55.9,20
+11/07/2018,3,F102,Coxcomb Prominent,Ptilodon capucina,Notodontidae,74.6,19
+26/06/2018,1,E28,Lesser Swallow Prominent,Pheosia gnoma,Notodontidae,97.4,20
+13/06/2018,1,A93,Pale Prominent,Pterostoma palpina,Notodontidae,63.5,19
+15/06/2018,1,C73,Narycia duplicella,Narycia duplicella,Psychidae,0,4
+19/07/2018,1,G94,Unidentified species 3,Unidentified species 3,Pterophoridae,1.6,10
+15/06/2018,1,B8,Bee Moth,Aphomia sociella,Pyralidae,20.1,15
+15/06/2018,1,C38,Bee Moth,Aphomia sociella,Pyralidae,18,15
+19/06/2018,2,C55,Bee Moth,Aphomia sociella,Pyralidae,18.9,16
+28/06/2018,1,D82,Bee Moth,Aphomia sociella,Pyralidae,21.7,16
+28/06/2018,1,C76,Bee Moth,Aphomia sociella,Pyralidae,16.2,15
+13/07/2018,2,F59,Bee Moth,Aphomia sociella,Pyralidae,5.1,12
+19/07/2018,1,G78,Bee Moth,Aphomia sociella,Pyralidae,9.9,14
+12/07/2018,3,F78,Lesser Wax Moth,Achroia grisella,Pyralidae,2,8
+14/06/2018,2,B68,Elephant Hawk-moth,Deilephila elpenor,Sphingidae,144,28
+14/06/2018,2,B103,Eyed Hawk-moth,Smerinthus ocellata,Sphingidae,753.2,37
+15/06/2018,2,C103,Eyed Hawk-moth,Smerinthus ocellata,Sphingidae,306.8,36
+10/07/2018,2,E103,Poplar Hawk-moth,Laothoe populi,Sphingidae,369.1,36
+12/07/2018,2,F103,Poplar Hawk-moth,Laothoe populi,Sphingidae,291.4,35
+12/07/2018,2,G103,Poplar Hawk-moth,Laothoe populi,Sphingidae,361.4,40
+12/07/2018,2,H103,Poplar Hawk-moth,Laothoe populi,Sphingidae,356,36
+12/07/2018,3,I103,Poplar Hawk-moth,Laothoe populi,Sphingidae,319.7,38
+13/07/2018,2,J103,Poplar Hawk-moth,Laothoe populi,Sphingidae,312.8,34
+19/07/2018,1,L103,Poplar Hawk-moth,Laothoe populi,Sphingidae,482.5,38
+14/06/2018,2,B45,Agapeta hamana,Agapeta hamana,Tortricidae,3.7,7
+19/06/2018,2,C63,Agapeta hamana,Agapeta hamana,Tortricidae,3.7,8
+06/07/2018,1,E91,Agapeta hamana,Agapeta hamana,Tortricidae,6,10
+06/07/2018,2,F37,Agapeta hamana,Agapeta hamana,Tortricidae,3,9
+06/07/2018,2,F21,Agapeta hamana,Agapeta hamana,Tortricidae,7.4,10
+10/07/2018,2,F36,Agapeta hamana,Agapeta hamana,Tortricidae,2.9,8
+11/07/2018,2,F86,Agapeta hamana,Agapeta hamana,Tortricidae,12.4,10
+12/07/2018,3,G76,Agapeta hamana,Agapeta hamana,Tortricidae,4.4,8
+20/07/2018,3,G42,Agapeta hamana,Agapeta hamana,Tortricidae,3.5,9
+13/06/2018,2,B33,Unidentified species 4,Unidentified species 4,Tortricidae,2.3,7
+19/06/2018,2,C60,Unidentified species 5,Unidentified species 5,Tortricidae,4.4,9
+19/06/2018,3,C42,Unidentified species 6,Unidentified species 6,Tortricidae,6.3,8
+20/06/2018,3,C81,Unidentified species 7,Unidentified species 7,Tortricidae,7.2,10
+20/06/2018,3,C99,Unidentified species 8,Unidentified species 8,Tortricidae,4.4,10
+26/06/2018,1,E61,Unidentified species 9,Unidentified species 9,Tortricidae,2,8
+04/07/2018,1,D24,Unidentified species 10,Unidentified species 10,Tortricidae,5.1,9
+06/07/2018,2,F58,Unidentified species 11,Unidentified species 11,Tortricidae,2.3,8
+12/07/2018,2,F94,Unidentified species 12,Unidentified species 12,Tortricidae,3,9
+12/07/2018,3,F67,Unidentified species 13,Unidentified species 13,Tortricidae,0.6,7
+12/07/2018,2,F12,Bird-cherry Ermine,Yponomeuta evonymella,Yponomeutidae,4.6,11
+12/07/2018,3,G72,Bird-cherry Ermine,Yponomeuta evonymella,Yponomeutidae,9.2,11
+20/07/2018,3,H3,Bird-cherry Ermine,Yponomeuta evonymella,Yponomeutidae,3.5,8
