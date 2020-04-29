@@ -9,9 +9,8 @@
 .rs.restartR()
 rm(list=ls())
 
-### because tidyverse and ggplot is totally f***ed we have to read in the map data before doing anything else (&%$&U^*%$)
+### because tidyverse and ggplot is broken we have to read in the map data before doing anything else
 map2 <- ggplot2::map_data(map = "world", region = c("UK","Ireland"))
-
 
 ### install if necessary and then load the libraries you need
 
