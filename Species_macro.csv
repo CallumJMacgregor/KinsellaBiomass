@@ -51,6 +51,158 @@ SYSTEM,RANK,FAMILY,NAME,SPECIES,RIS_BINOMIAL,AUTHORITY,FOREWING_LB,FOREWING_UB,E
 3058,Subspecies,Zygaenidae,Zygaena trifolii decreta,Zygaena trifolii,Zygaena trifolii,"Verity, 1925",14,19,N
 3059,Subspecies,Zygaenidae,Zygaena trifolii palustrella,Zygaena trifolii,Zygaena trifolii,"Verity, 1925",14,19,N
 3060,Subspecies,Zygaenidae,Zygaena trifolii subsyracusia,Zygaena trifolii,Zygaena trifolii,"Verity, 1925",14,19,N
+3425,Species,Pyralidae,Aphomia sociella,Aphomia sociella,Aphomia sociella,"(Linnaeus, 1758)",12,17,N
+3428,Species,Pyralidae,Aphomia zelleri,Aphomia zelleri,Aphomia zelleri,"(Joannis, 1932)",9,17,N
+3439,Species,Pyralidae,Achroia grisella,Achroia grisella,Achroia grisella,"(Fabricius, 1794)",7,11,N
+3442,Species,Pyralidae,Galleria mellonella,Galleria mellonella,Galleria mellonella,"(Linnaeus, 1758)",14,19,N
+3447,Species,Pyralidae,Cryptoblabes bistriga,Cryptoblabes bistriga,Cryptoblabes bistriga,"(Haworth, 1811)",8,9,N
+3450,Species,Pyralidae,Salebriopsis albicilla,Salebriopsis albicilla,Salebriopsis albicilla,"(Herrich-Schäffer, 1849)",8,10,N
+3453,Species,Pyralidae,Elegia similella,Elegia similella,Elegia similella,"(Zincken, 1818)",9,10,N
+3455,Species,Pyralidae,Ortholepis betulae,Ortholepis betulae,Ortholepis betulae,"(Goeze, 1778)",9,13,N
+3457,Species,Pyralidae,Matilella fusca,Matilella fusca,Matilella fusca,"(Haworth, 1811)",11,13,N
+3459,Species,Pyralidae,Moitrelia obductella,Moitrelia obductella,Moitrelia obductella,"(Zeller, 1839)",10,12,N
+3461,Species,Pyralidae,Pempeliella ornatella,Pempeliella ornatella,Pempeliella ornatella,"([Denis & Schiffermüller], 1775)",11,13,N
+3464,Species,Pyralidae,Delplanqueia dilutella,Delplanqueia dilutella,Delplanqueia dilutella,"([Denis & Schiffermüller], 1775)",8,11,N
+3466,Species,Pyralidae,Sciota hostilis,Sciota hostilis,Sciota hostilis,"(Stephens, 1834)",10,12,N
+3467,Species,Pyralidae,Sciota adelphella,Sciota adelphella,Sciota adelphella,"(Fischer von Röslerstamm, 1836)",10,12,N
+3470,Species,Pyralidae,Pima boisduvaliella,Pima boisduvaliella,Pima boisduvaliella,"(Guenée, 1845)",10,12,N
+3475,Species,Pyralidae,Oncocera semirubella,Oncocera semirubella,Oncocera semirubella,"(Scopoli, 1763)",11,14,N
+3479,Species,Pyralidae,Pempelia palumbella,Pempelia palumbella,Pempelia palumbella,"([Denis & Schiffermüller], 1775)",11,13,N
+3481,Species,Pyralidae,Rhodophaea formosa,Rhodophaea formosa,Rhodophaea formosa,"(Haworth, 1811)",9,11,N
+3483,Species,Pyralidae,Dioryctria sylvestrella,Dioryctria sylvestrella,Dioryctria sylvestrella,"(Ratzeburg, 1840)",13,17,N
+3485,Species,Pyralidae,Dioryctria schuetzeella,Dioryctria schuetzeella,Dioryctria schuetzeella,"Fuchs, 1899",10,13,N
+3486,Species,Pyralidae,Dioryctria simplicella,Dioryctria simplicella,Dioryctria simplicella,"Heinemann, 1863",11,14,N
+3488,Species,Pyralidae,Dioryctria abietella,Dioryctria abietella,Dioryctria abietella,"([Denis & Schiffermüller], 1775)",12,15,N
+3490,Species,Pyralidae,Phycita roborella,Phycita roborella,Phycita roborella,"([Denis & Schiffermüller], 1775)",11,14,N
+3493,Species,Pyralidae,Hypochalcia ahenella,Hypochalcia ahenella,Hypochalcia ahenella,"([Denis & Schiffermüller], 1775)",9,14,N
+3495,Species,Pyralidae,Epischnia asteris,Epischnia asteris,Epischnia asteris,"Staudinger, 1870",11,14,N
+3498,Species,Pyralidae,Nephopterix angustella,Nephopterix angustella,Nephopterix angustella,"(Hübner, 1796)",9,11,N
+3503,Species,Pyralidae,Acrobasis repandana,Acrobasis repandana,Acrobasis repandana,"(Fabricius, 1798)",9,11,N
+3506,Species,Pyralidae,Acrobasis advenella,Acrobasis advenella,Acrobasis advenella,"(Zincken, 1818)",9,10,N
+3507,Species,Pyralidae,Acrobasis suavella,Acrobasis suavella,Acrobasis suavella,"(Zincken, 1818)",10,12,N
+3508,Species,Pyralidae,Acrobasis marmorea,Acrobasis marmorea,Acrobasis marmorea,"(Haworth, 1811)",8,10,N
+3509,Species,Pyralidae,Acrobasis consociella,Acrobasis consociella,Acrobasis consociella,"(Hübner, [1813])",9,11,N
+3511,Species,Pyralidae,Apomyelois bistriatella,Apomyelois bistriatella,Apomyelois bistriatella,"(Hulst, 1887)",7,12,N
+3520,Species,Pyralidae,Myelois circumvoluta,Myelois circumvoluta,Myelois circumvoluta,"(Fourcroy, 1785)",13,17,N
+3524,Species,Pyralidae,Gymnancyla canella,Gymnancyla canella,Gymnancyla canella,"([Denis & Schiffermüller], 1775)",10,12,N
+3533,Species,Pyralidae,Assara terebrella,Assara terebrella,Assara terebrella,"(Zincken, 1818)",8,12,N
+3535,Species,Pyralidae,Euzophera pinguis,Euzophera pinguis,Euzophera pinguis,"(Haworth, 1811)",11,13,N
+3537,Species,Pyralidae,Euzophera cinerosella,Euzophera cinerosella,Euzophera cinerosella,"(Zeller, 1839)",9,12,N
+3540,Species,Pyralidae,Nyctegretis lineana,Nyctegretis lineana,Nyctegretis lineana,"(Scopoli, 1786)",8,9,N
+3546,Species,Pyralidae,Ancylosis oblitella,Ancylosis oblitella,Ancylosis oblitella,"(Zeller, 1848)",7,10,N
+3548,Species,Pyralidae,Homoeosoma sinuella,Homoeosoma sinuella,Homoeosoma sinuella,"(Fabricius, 1794)",8,11,N
+3549,Species,Pyralidae,Homoeosoma nebulella,Homoeosoma nebulella,Homoeosoma nebulella,"([Denis & Schiffermüller], 1775)",9,13,N
+3550,Species,Pyralidae,Homoeosoma nimbella,Homoeosoma nimbella,Homoeosoma nimbella,"(Duponchel, 1837)",8,11,N
+3552,Species,Pyralidae,Phycitodes maritima,Phycitodes maritima,Phycitodes maritima,"(Tengström, 1848)",8,10,N
+3555,Species,Pyralidae,Phycitodes binaevella,Phycitodes binaevella,Phycitodes binaevella,"(Hübner, [1813])",10,13,N
+3556,Species,Pyralidae,Phycitodes saxicola,Phycitodes saxicola,Phycitodes saxicola,"(Vaughan, 1870)",7,10,N
+3559,Species,Pyralidae,Vitula biviella,Vitula biviella,Vitula biviella,"(Zeller, 1848)",6,9,N
+3561,Species,Pyralidae,Plodia interpunctella,Plodia interpunctella,Plodia interpunctella,"(Hübner, [1813])",7,10,N
+3564,Species,Pyralidae,Ephestia kuehniella,Ephestia kuehniella,Ephestia kuehniella,"Zeller, 1879",8,13,N
+3566,Species,Pyralidae,Ephestia elutella,Ephestia elutella,Ephestia elutella,"(Hübner, 1796)",6,10,N
+3569,Species,Pyralidae,Ephestia unicolorella,Ephestia unicolorella,Ephestia unicolorella,"Staudinger, 1881",6,10,N
+3573,Species,Pyralidae,Cadra figulilella,Cadra figulilella,Cadra figulilella,"(Gregson, 1871)",6,10,N
+3576,Species,Pyralidae,Cadra cautella,Cadra cautella,Cadra cautella,"(Walker, 1863)",6,10,N
+3580,Species,Pyralidae,Cadra calidella,Cadra calidella,Cadra calidella,"(Guenée, 1845)",6,10,N
+3585,Species,Pyralidae,Anerastia lotella,Anerastia lotella,Anerastia lotella,"(Hübner, [1813])",9,12,N
+3589,Species,Pyralidae,Synaphe punctalis,Synaphe punctalis,Synaphe punctalis,"(Fabricius, 1775)",10,13,N
+3593,Species,Pyralidae,Pyralis farinalis,Pyralis farinalis,Pyralis farinalis,"(Linnaeus, 1758)",11,14,N
+3599,Species,Pyralidae,Aglossa pinguinalis,Aglossa pinguinalis,Aglossa pinguinalis,"(Linnaeus, 1758)",12,18,N
+3603,Species,Pyralidae,Hypsopygia costalis,Hypsopygia costalis,Hypsopygia costalis,"(Fabricius, 1775)",8,10,N
+3606,Species,Pyralidae,Hypsopygia glaucinalis,Hypsopygia glaucinalis,Hypsopygia glaucinalis,"(Linnaeus, 1758)",10,14,N
+3609,Species,Pyralidae,Endotricha flammealis,Endotricha flammealis,Endotricha flammealis,"([Denis & Schiffermüller], 1775)",8,10,N
+3617,Species,Crambidae,Pyrausta cingulata,Pyrausta cingulata,Pyrausta cingulata,"(Linnaeus, 1758)",7,8,N
+3618,Species,Crambidae,Pyrausta sanguinalis,Pyrausta sanguinalis,Pyrausta sanguinalis,"(Linnaeus, 1767)",7,9,N
+3619,Species,Crambidae,Pyrausta despicata,Pyrausta despicata,Pyrausta despicata,"(Scopoli, 1763)",7,9,N
+3621,Species,Crambidae,Pyrausta aurata,Pyrausta aurata,Pyrausta aurata,"(Scopoli, 1763)",7,9,N
+3623,Species,Crambidae,Pyrausta purpuralis,Pyrausta purpuralis,Pyrausta purpuralis,"(Linnaeus, 1758)",7,11,N
+3624,Species,Crambidae,Pyrausta ostrinalis,Pyrausta ostrinalis,Pyrausta ostrinalis,"(Hübner, 1796)",7,10,N
+3625,Species,Crambidae,Pyrausta nigrata,Pyrausta nigrata,Pyrausta nigrata,"(Scopoli, 1763)",7,8,N
+3634,Species,Crambidae,Nascia cilialis,Nascia cilialis,Nascia cilialis,"(Hübner, 1796)",11,13,N
+3636,Species,Crambidae,Sitochroa palealis,Sitochroa palealis,Sitochroa palealis,"([Denis & Schiffermüller], 1775)",13,16,N
+3637,Species,Crambidae,Sitochroa verticalis,Sitochroa verticalis,Sitochroa verticalis,"(Linnaeus, 1758)",12,15,N
+3639,Species,Crambidae,Anania fuscalis,Anania fuscalis,Anania fuscalis,"([Denis & Schiffermüller], 1775)",10,13,N
+3640,Species,Crambidae,Anania lancealis,Anania lancealis,Anania lancealis,"([Denis & Schiffermüller], 1775)",13,16,N
+3641,Species,Crambidae,Anania coronata,Anania coronata,Anania coronata,"(Hufnagel, 1767)",11,13,N
+3643,Species,Crambidae,Anania stachydalis,Anania stachydalis,Anania stachydalis,"(Zincken, 1821)",11,12,N
+3644,Species,Crambidae,Anania perlucidalis,Anania perlucidalis,Anania perlucidalis,"(Hübner, [1809])",10,12,N
+3645,Species,Crambidae,Anania terrealis,Anania terrealis,Anania terrealis,"(Treitschke, 1829)",12,13,N
+3646,Species,Crambidae,Anania crocealis,Anania crocealis,Anania crocealis,"(Hübner, 1796)",11,12,N
+3647,Species,Crambidae,Anania verbascalis,Anania verbascalis,Anania verbascalis,"([Denis & Schiffermüller], 1775)",11,13,N
+3648,Species,Crambidae,Anania funebris,Anania funebris,Anania funebris,"(Ström, 1768)",10,11,N
+3650,Species,Crambidae,Anania hortulata,Anania hortulata,Anania hortulata,"(Linnaeus, 1758)",13,16,N
+3658,Species,Crambidae,Ostrinia nubilalis,Ostrinia nubilalis,Ostrinia nubilalis,"(Hübner, 1796)",13,18,N
+3661,Species,Crambidae,Paratalanta pandalis,Paratalanta pandalis,Paratalanta pandalis,"(Hübner, [1825])",12,14,N
+3663,Species,Crambidae,Paratalanta hyalinalis,Paratalanta hyalinalis,Paratalanta hyalinalis,"(Hübner, 1796)",14,16,N
+3666,Species,Crambidae,Udea ferrugalis,Udea ferrugalis,Udea ferrugalis,"(Hübner, 1796)",9,11,N
+3669,Species,Crambidae,Udea fulvalis,Udea fulvalis,Udea fulvalis,"(Hübner, [1809])",10,14,N
+3670,Species,Crambidae,Udea lutealis,Udea lutealis,Udea lutealis,"(Hübner, [1809])",11,12,N
+3672,Species,Crambidae,Udea prunalis,Udea prunalis,Udea prunalis,"([Denis & Schiffermüller], 1775)",11,13,N
+3674,Species,Crambidae,Udea uliginosalis,Udea uliginosalis,Udea uliginosalis,"(Stephens, 1834)",11,14,N
+3675,Species,Crambidae,Udea decrepitalis,Udea decrepitalis,Udea decrepitalis,"(Herrich-Schäffer, 1848)",11,13,N
+3676,Species,Crambidae,Udea olivalis,Udea olivalis,Udea olivalis,"([Denis & Schiffermüller], 1775)",12,13,N
+3678,Species,Crambidae,Pleuroptya ruralis,Pleuroptya ruralis,Pleuroptya ruralis,"(Scopoli, 1763)",15,17,N
+3681,Species,Crambidae,Mecyna flavalis,Mecyna flavalis,Mecyna flavalis,"([Denis & Schiffermüller], 1775)",11,14,N
+3682,Species,Crambidae,Mecyna asinalis,Mecyna asinalis,Mecyna asinalis,"(Hübner, [1819])",11,15,N
+3684,Species,Crambidae,Agrotera nemoralis,Agrotera nemoralis,Agrotera nemoralis,"(Scopoli, 1763)",9,11,N
+3701,Species,Crambidae,Palpita vitrealis,Palpita vitrealis,Palpita vitrealis,"(Rossi, 1794)",13,15,N
+3706,Species,Crambidae,Dolicharthria punctalis,Dolicharthria punctalis,Dolicharthria punctalis,"([Denis & Schiffermüller], 1775)",10,12,N
+3710,Species,Crambidae,Nomophila noctuella,Nomophila noctuella,Nomophila noctuella,"([Denis & Schiffermüller], 1775)",12,15,N
+3720,Species,Crambidae,Cynaeda dentalis,Cynaeda dentalis,Cynaeda dentalis,"([Denis & Schiffermüller], 1775)",10,14,N
+3723,Species,Crambidae,Evergestis forficalis,Evergestis forficalis,Evergestis forficalis,"(Linnaeus, 1758)",13,15,N
+3725,Species,Crambidae,Evergestis extimalis,Evergestis extimalis,Evergestis extimalis,"(Scopoli, 1763)",12,16,N
+3726,Species,Crambidae,Evergestis limbata,Evergestis limbata,Evergestis limbata,"(Linnaeus, 1767)",10,11,N
+3727,Species,Crambidae,Evergestis pallidata,Evergestis pallidata,Evergestis pallidata,"(Hufnagel, 1767)",12,14,N
+3733,Species,Crambidae,Scoparia subfusca,Scoparia subfusca,Scoparia subfusca,"Haworth, 1811",10,13,N
+3736,Species,Crambidae,Scoparia basistrigalis,Scoparia basistrigalis,Scoparia basistrigalis,"Knaggs, 1866",10,11,N
+3737,Species,Crambidae,Scoparia ambigualis,Scoparia ambigualis,Scoparia ambigualis,"(Treitschke, 1829)",8,11,N
+3739,Species,Crambidae,Scoparia ancipitella,Scoparia ancipitella,Scoparia ancipitella,"(La Harpe, 1855)",9,11,N
+3741,Species,Crambidae,Scoparia pyralella,Scoparia pyralella,Scoparia pyralella,"([Denis & Schiffermüller], 1775)",8,10,N
+3745,Species,Crambidae,Eudonia lacustrata,Eudonia lacustrata,Eudonia lacustrata,"(Panzer, 1804)",8,9,N
+3748,Species,Crambidae,Eudonia murana,Eudonia murana,Eudonia murana,"(Curtis, 1827)",9,12,N
+3749,Species,Crambidae,Eudonia angustea,Eudonia angustea,Eudonia angustea,"(Curtis, 1827)",8,10,N
+3751,Species,Crambidae,Eudonia alpina,Eudonia alpina,Eudonia alpina,"(Curtis, 1850)",10,12,N
+3753,Species,Crambidae,Eudonia lineola,Eudonia lineola,Eudonia lineola,"(Curtis, 1827)",9,10,N
+3754,Species,Crambidae,Eudonia delunella,Eudonia delunella,Eudonia delunella,"(Stainton, 1849)",8,9,N
+3757,Species,Crambidae,Eudonia truncicolella,Eudonia truncicolella,Eudonia truncicolella,"(Stainton, 1849)",9,11,N
+3758,Species,Crambidae,Eudonia mercurella,Eudonia mercurella,Eudonia mercurella,"(Linnaeus, 1758)",7,9,N
+3761,Species,Crambidae,Eudonia pallida,Eudonia pallida,Eudonia pallida,"(Curtis, 1827)",8,9,N
+3766,Species,Crambidae,Chilo phragmitella,Chilo phragmitella,Chilo phragmitella,"(Hübner, [1810])",12,19,N
+3770,Species,Crambidae,Calamotropha paludella,Calamotropha paludella,Calamotropha paludella,"(Hübner, [1824])",12,15,N
+3772,Species,Crambidae,Chrysoteuchia culmella,Chrysoteuchia culmella,Chrysoteuchia culmella,"(Linnaeus, 1758)",9,12,N
+3775,Species,Crambidae,Crambus pascuella,Crambus pascuella,Crambus pascuella,"(Linnaeus, 1758)",11,13,N
+3776,Species,Crambidae,Crambus silvella,Crambus silvella,Crambus silvella,"(Hübner, [1813])",10,13,N
+3777,Species,Crambidae,Crambus uliginosellus,Crambus uliginosellus,Crambus uliginosellus,"Zeller, 1850",9,11,N
+3778,Species,Crambidae,Crambus ericella,Crambus ericella,Crambus ericella,"(Hübner, [1813])",10,14,N
+3779,Species,Crambidae,Crambus pratella,Crambus pratella,Crambus pratella,"(Linnaeus, 1758)",10,12,N
+3781,Species,Crambidae,Crambus lathoniellus,Crambus lathoniellus,Crambus lathoniellus,"(Zincken, 1817)",9,11,N
+3784,Species,Crambidae,Crambus hamella,Crambus hamella,Crambus hamella,"(Thunberg, 1788)",12,13,N
+3785,Species,Crambidae,Crambus perlella,Crambus perlella,Crambus perlella,"(Scopoli, 1763)",11,14,N
+3788,Species,Crambidae,Agriphila tristella,Agriphila tristella,Agriphila tristella,"([Denis & Schiffermüller], 1775)",12,14,N
+3789,Species,Crambidae,Agriphila inquinatella,Agriphila inquinatella,Agriphila inquinatella,"([Denis & Schiffermüller], 1775)",11,14,N
+3790,Species,Crambidae,Agriphila latistria,Agriphila latistria,Agriphila latistria,"(Haworth, 1811)",11,13,N
+3791,Species,Crambidae,Agriphila selasella,Agriphila selasella,Agriphila selasella,"(Hübner, [1813])",11,15,N
+3792,Species,Crambidae,Agriphila straminella,Agriphila straminella,Agriphila straminella,"([Denis & Schiffermüller], 1775)",8,10,N
+3794,Species,Crambidae,Agriphila geniculea,Agriphila geniculea,Agriphila geniculea,"(Haworth, 1811)",10,13,N
+3796,Species,Crambidae,Catoptria permutatellus,Catoptria permutatellus,Catoptria permutatellus,"(Herrich-Schäffer, 1848)",11,14,N
+3799,Species,Crambidae,Catoptria pinella ,Catoptria pinella ,Catoptria pinella ,"(Linnaeus, 1758)",10,13,N
+3800,Species,Crambidae,Catoptria margaritella,Catoptria margaritella,Catoptria margaritella,"([Denis & Schiffermüller], 1775)",10,12,N
+3801,Species,Crambidae,Catoptria furcatellus,Catoptria furcatellus,Catoptria furcatellus,"(Zetterstedt, 1839)",9,11,N
+3802,Species,Crambidae,Catoptria falsella,Catoptria falsella,Catoptria falsella,"([Denis & Schiffermüller], 1775)",9,12,N
+3811,Species,Crambidae,Thisanotia chrysonuchella,Thisanotia chrysonuchella,Thisanotia chrysonuchella,"(Scopoli, 1763)",11,13,N
+3813,Species,Crambidae,Pediasia fascelinella,Pediasia fascelinella,Pediasia fascelinella,"(Hübner, [1813])",12,15,N
+3815,Species,Crambidae,Pediasia contaminella,Pediasia contaminella,Pediasia contaminella,"(Hübner, 1796)",10,14,N
+3816,Species,Crambidae,Pediasia aridella,Pediasia aridella,Pediasia aridella,"(Thunberg, 1788)",10,13,N
+3818,Species,Crambidae,Platytes cerussella,Platytes cerussella,Platytes cerussella,"([Denis & Schiffermüller], 1775)",5,8,N
+3819,Species,Crambidae,Platytes alpinella,Platytes alpinella,Platytes alpinella,"(Hübner, [1813])",9,11,N
+3824,Species,Crambidae,Elophila nymphaeata,Elophila nymphaeata,Elophila nymphaeata,"(Linnaeus, 1758)",12,16,N
+3827,Species,Crambidae,Acentria ephemerella,Acentria ephemerella,Acentria ephemerella,"([Denis & Schiffermüller], 1775)",6,8,N
+3831,Species,Crambidae,Cataclysta lemnata,Cataclysta lemnata,Cataclysta lemnata,"(Linnaeus, 1758)",8,11,N
+3834,Species,Crambidae,Parapoynx stratiotata,Parapoynx stratiotata,Parapoynx stratiotata,"(Linnaeus, 1758)",10,14,N
+3837,Species,Crambidae,Nymphula nitidulata,Nymphula nitidulata,Nymphula nitidulata,"(Hufnagel, 1767)",10,12,N
+3844,Species,Crambidae,Schoenobius gigantella,Schoenobius gigantella,Schoenobius gigantella,"([Denis & Schiffermüller], 1775)",12,23,N
+3846,Species,Crambidae,Donacaula forficella,Donacaula forficella,Donacaula forficella,"(Thunberg, 1794)",11,17,N
+3847,Species,Crambidae,Donacaula mucronella,Donacaula mucronella,Donacaula mucronella,"([Denis & Schiffermüller], 1775)",11,17,N
 3852,Species,Drepanidae,Falcaria lacertinaria,Falcaria lacertinaria,Falcaria lacertinaria,"(Linnaeus, 1758)",14,18,N
 3855,Species,Drepanidae,Watsonalla binaria,Watsonalla binaria,Watsonalla binaria,"(Hufnagel, 1767)",13,18,N
 3858,Species,Drepanidae,Watsonalla cultraria,Watsonalla cultraria,Watsonalla cultraria,"(Fabricius, 1775)",12,17,N
@@ -431,6 +583,9 @@ SYSTEM,RANK,FAMILY,NAME,SPECIES,RIS_BINOMIAL,AUTHORITY,FOREWING_LB,FOREWING_UB,E
 4992,Species,Geometridae,Lomographa temerata,Lomographa temerata,Lomographa temerata,"([Denis & Schiffermüller], 1775)",13,15,N
 4996,Species,Geometridae,Aleucis distinctata,Aleucis distinctata,Aleucis distinctata,"(Herrich-Schäffer, [1839])",13,14,N
 5001,Species,Geometridae,Theria primaria,Theria primaria,Theria primaria,"(Haworth, 1809)",14,17,N
+5003,Aggregate,Noctuidae,Acronicta species,Acronicta species,Acronicta species,NA,13,22,N
+5004,Aggregate,Geometridae,Eupithecia species,Eupithecia species,Eupithecia species,NA,7,15,N
+5005,Aggregate,Noctuidae,Oligia species,Oligia species,Oligia species,NA,10,13,N
 5006,Species,Geometridae,Campaea margaritaria,Campaea margaritaria,Campaea margaritata,"(Linnaeus, 1761)",18,26,N
 5010,Species,Geometridae,Hylaea fasciaria,Hylaea fasciaria,Hylaea fasciaria,"(Linnaeus, 1758)",17,21,N
 5011,Species,Geometridae,Pungeleria capreolaria,Pungeleria capreolaria,Pungeleria capreolaria,"([Denis & Schiffermüller], 1775)",16,18,N
@@ -619,8 +774,8 @@ SYSTEM,RANK,FAMILY,NAME,SPECIES,RIS_BINOMIAL,AUTHORITY,FOREWING_LB,FOREWING_UB,E
 5599,Species,Noctuidae,Deltote bankiana,Deltote bankiana,Deltote bankiana,"(Fabricius, 1775)",10,12,N
 5606,Species,Noctuidae,Acontia lucida,Acontia lucida,Acontia lucida,"(Hufnagel, 1766)",12,15,N
 5609,Species,Noctuidae,Acontia trabealis,Acontia trabealis,Acontia trabealis,"(Scopoli, 1763)",10,11,N
-5613,Species,Noctuidae,Aedia leucomelas,Aedia leucomelas,Aedia leucomelas,"(Linnaeus, 1758)",15,18,N
 5612,Species,Noctuidae,Aedia funesta,Aedia funesta,Aedia funesta,"(Esper, 1798)",15,16,N
+5613,Species,Noctuidae,Aedia leucomelas,Aedia leucomelas,Aedia leucomelas,"(Linnaeus, 1758)",15,18,N
 5616,Species,Noctuidae,Tyta luctuosa,Tyta luctuosa,Tyta luctuosa,"([Denis & Schiffermüller], 1775)",12,13,N
 5620,Species,Noctuidae,Colocasia coryli,Colocasia coryli,Colocasia coryli,"(Linnaeus, 1758)",14,17,N
 5624,Species,Noctuidae,Diloba caeruleocephala,Diloba caeruleocephala,Diloba caeruleocephala,"(Linnaeus, 1758)",15,19,N
@@ -779,7 +934,6 @@ SYSTEM,RANK,FAMILY,NAME,SPECIES,RIS_BINOMIAL,AUTHORITY,FOREWING_LB,FOREWING_UB,E
 6065,Species,Noctuidae,Lateroligia ophiogramma,Lateroligia ophiogramma,Lateroligia ophiogramma,"(Esper, 1794)",13,16,N
 6068,Species,Noctuidae,Mesapamea secalis,Mesapamea secalis,Mesapamea secalis,"(Linnaeus, 1758)",12,16,N
 6071,Species,Noctuidae,Mesapamea didyma,Mesapamea didyma,Mesapamea didyma,"(Esper, 1788)",11,16,N
-6071.1,Aggregate,Noctuidae,Mesapamea secalis/didyma,Mesapamea secalis/didyma,Mesapamea secalis/didyma,NA,11,16,Y
 6075,Species,Noctuidae,Litoligia literosa,Litoligia literosa,Mesoligia literosa,"(Haworth, 1809)",10,13,N
 6078,Species,Noctuidae,Mesoligia furuncula,Mesoligia furuncula,Mesoligia furuncula,"([Denis & Schiffermüller], 1775)",10,12,N
 6082,Species,Noctuidae,Oligia strigilis,Oligia strigilis,Oligia strigilis,"(Linnaeus, 1758)",11,13,N
@@ -1013,162 +1167,8 @@ SYSTEM,RANK,FAMILY,NAME,SPECIES,RIS_BINOMIAL,AUTHORITY,FOREWING_LB,FOREWING_UB,E
 6749,Species,Nolidae,Earias insulana,Earias insulana,Earias insulana,"(Boisduval, 1833)",10,12,N
 6750,Species,Nolidae,Earias biplaga,Earias biplaga,Earias biplaga,"(Walker, 1866)",11,12,N
 6751,Species,Nolidae,Earias vittella,Earias vittella,Earias vittella,"(Fabricius, 1775)",10,12,N
-3425,Species,Pyralidae,Aphomia sociella,Aphomia sociella,Aphomia sociella,"(Linnaeus, 1758)",12,17,N
-3428,Species,Pyralidae,Aphomia zelleri,Aphomia zelleri,Aphomia zelleri,"(Joannis, 1932)",9,17,N
-3439,Species,Pyralidae,Achroia grisella,Achroia grisella,Achroia grisella,"(Fabricius, 1794)",7,11,N
-3442,Species,Pyralidae,Galleria mellonella,Galleria mellonella,Galleria mellonella,"(Linnaeus, 1758)",14,19,N
-3447,Species,Pyralidae,Cryptoblabes bistriga,Cryptoblabes bistriga,Cryptoblabes bistriga,"(Haworth, 1811)",8,9,N
-3450,Species,Pyralidae,Salebriopsis albicilla,Salebriopsis albicilla,Salebriopsis albicilla,"(Herrich-Schäffer, 1849)",8,10,N
-3453,Species,Pyralidae,Elegia similella,Elegia similella,Elegia similella,"(Zincken, 1818)",9,10,N
-3455,Species,Pyralidae,Ortholepis betulae,Ortholepis betulae,Ortholepis betulae,"(Goeze, 1778)",9,13,N
-3457,Species,Pyralidae,Matilella fusca,Matilella fusca,Matilella fusca,"(Haworth, 1811)",11,13,N
-3459,Species,Pyralidae,Moitrelia obductella,Moitrelia obductella,Moitrelia obductella,"(Zeller, 1839)",10,12,N
-3461,Species,Pyralidae,Pempeliella ornatella,Pempeliella ornatella,Pempeliella ornatella,"([Denis & Schiffermüller], 1775)",11,13,N
-3464,Species,Pyralidae,Delplanqueia dilutella,Delplanqueia dilutella,Delplanqueia dilutella,"([Denis & Schiffermüller], 1775)",8,11,N
-3466,Species,Pyralidae,Sciota hostilis,Sciota hostilis,Sciota hostilis,"(Stephens, 1834)",10,12,N
-3467,Species,Pyralidae,Sciota adelphella,Sciota adelphella,Sciota adelphella,"(Fischer von Röslerstamm, 1836)",10,12,N
-3470,Species,Pyralidae,Pima boisduvaliella,Pima boisduvaliella,Pima boisduvaliella,"(Guenée, 1845)",10,12,N
-3475,Species,Pyralidae,Oncocera semirubella,Oncocera semirubella,Oncocera semirubella,"(Scopoli, 1763)",11,14,N
-3479,Species,Pyralidae,Pempelia palumbella,Pempelia palumbella,Pempelia palumbella,"([Denis & Schiffermüller], 1775)",11,13,N
-3481,Species,Pyralidae,Rhodophaea formosa,Rhodophaea formosa,Rhodophaea formosa,"(Haworth, 1811)",9,11,N
-3483,Species,Pyralidae,Dioryctria sylvestrella,Dioryctria sylvestrella,Dioryctria sylvestrella,"(Ratzeburg, 1840)",13,17,N
-3485,Species,Pyralidae,Dioryctria schuetzeella,Dioryctria schuetzeella,Dioryctria schuetzeella,"Fuchs, 1899",10,13,N
-3486,Species,Pyralidae,Dioryctria simplicella,Dioryctria simplicella,Dioryctria simplicella,"Heinemann, 1863",11,14,N
-3488,Species,Pyralidae,Dioryctria abietella,Dioryctria abietella,Dioryctria abietella,"([Denis & Schiffermüller], 1775)",12,15,N
-3490,Species,Pyralidae,Phycita roborella,Phycita roborella,Phycita roborella,"([Denis & Schiffermüller], 1775)",11,14,N
-3493,Species,Pyralidae,Hypochalcia ahenella,Hypochalcia ahenella,Hypochalcia ahenella,"([Denis & Schiffermüller], 1775)",9,14,N
-3495,Species,Pyralidae,Epischnia asteris,Epischnia asteris,Epischnia asteris,"Staudinger, 1870",11,14,N
-3498,Species,Pyralidae,Nephopterix angustella,Nephopterix angustella,Nephopterix angustella,"(Hübner, 1796)",9,11,N
-3503,Species,Pyralidae,Acrobasis repandana,Acrobasis repandana,Acrobasis repandana,"(Fabricius, 1798)",9,11,N
-3506,Species,Pyralidae,Acrobasis advenella,Acrobasis advenella,Acrobasis advenella,"(Zincken, 1818)",9,10,N
-3507,Species,Pyralidae,Acrobasis suavella,Acrobasis suavella,Acrobasis suavella,"(Zincken, 1818)",10,12,N
-3508,Species,Pyralidae,Acrobasis marmorea,Acrobasis marmorea,Acrobasis marmorea,"(Haworth, 1811)",8,10,N
-3509,Species,Pyralidae,Acrobasis consociella,Acrobasis consociella,Acrobasis consociella,"(Hübner, [1813])",9,11,N
-3511,Species,Pyralidae,Apomyelois bistriatella,Apomyelois bistriatella,Apomyelois bistriatella,"(Hulst, 1887)",7,12,N
-3520,Species,Pyralidae,Myelois circumvoluta,Myelois circumvoluta,Myelois circumvoluta,"(Fourcroy, 1785)",13,17,N
-3524,Species,Pyralidae,Gymnancyla canella,Gymnancyla canella,Gymnancyla canella,"([Denis & Schiffermüller], 1775)",10,12,N
-3533,Species,Pyralidae,Assara terebrella,Assara terebrella,Assara terebrella,"(Zincken, 1818)",8,12,N
-3535,Species,Pyralidae,Euzophera pinguis,Euzophera pinguis,Euzophera pinguis,"(Haworth, 1811)",11,13,N
-3537,Species,Pyralidae,Euzophera cinerosella,Euzophera cinerosella,Euzophera cinerosella,"(Zeller, 1839)",9,12,N
-3540,Species,Pyralidae,Nyctegretis lineana,Nyctegretis lineana,Nyctegretis lineana,"(Scopoli, 1786)",8,9,N
-3546,Species,Pyralidae,Ancylosis oblitella,Ancylosis oblitella,Ancylosis oblitella,"(Zeller, 1848)",7,10,N
-3548,Species,Pyralidae,Homoeosoma sinuella,Homoeosoma sinuella,Homoeosoma sinuella,"(Fabricius, 1794)",8,11,N
-3549,Species,Pyralidae,Homoeosoma nebulella,Homoeosoma nebulella,Homoeosoma nebulella,"([Denis & Schiffermüller], 1775)",9,13,N
-3550,Species,Pyralidae,Homoeosoma nimbella,Homoeosoma nimbella,Homoeosoma nimbella,"(Duponchel, 1837)",8,11,N
-3552,Species,Pyralidae,Phycitodes maritima,Phycitodes maritima,Phycitodes maritima,"(Tengström, 1848)",8,10,N
-3555,Species,Pyralidae,Phycitodes binaevella,Phycitodes binaevella,Phycitodes binaevella,"(Hübner, [1813])",10,13,N
-3556,Species,Pyralidae,Phycitodes saxicola,Phycitodes saxicola,Phycitodes saxicola,"(Vaughan, 1870)",7,10,N
-3559,Species,Pyralidae,Vitula biviella,Vitula biviella,Vitula biviella,"(Zeller, 1848)",6,9,N
-3561,Species,Pyralidae,Plodia interpunctella,Plodia interpunctella,Plodia interpunctella,"(Hübner, [1813])",7,10,N
-3564,Species,Pyralidae,Ephestia kuehniella,Ephestia kuehniella,Ephestia kuehniella,"Zeller, 1879",8,13,N
-3566,Species,Pyralidae,Ephestia elutella,Ephestia elutella,Ephestia elutella,"(Hübner, 1796)",6,10,N
-3569,Species,Pyralidae,Ephestia unicolorella,Ephestia unicolorella,Ephestia unicolorella,"Staudinger, 1881",6,10,N
-3573,Species,Pyralidae,Cadra figulilella,Cadra figulilella,Cadra figulilella,"(Gregson, 1871)",6,10,N
-3576,Species,Pyralidae,Cadra cautella,Cadra cautella,Cadra cautella,"(Walker, 1863)",6,10,N
-3580,Species,Pyralidae,Cadra calidella,Cadra calidella,Cadra calidella,"(Guenée, 1845)",6,10,N
-3585,Species,Pyralidae,Anerastia lotella,Anerastia lotella,Anerastia lotella,"(Hübner, [1813])",9,12,N
-3589,Species,Pyralidae,Synaphe punctalis,Synaphe punctalis,Synaphe punctalis,"(Fabricius, 1775)",10,13,N
-3593,Species,Pyralidae,Pyralis farinalis,Pyralis farinalis,Pyralis farinalis,"(Linnaeus, 1758)",11,14,N
-3599,Species,Pyralidae,Aglossa pinguinalis,Aglossa pinguinalis,Aglossa pinguinalis,"(Linnaeus, 1758)",12,18,N
-3603,Species,Pyralidae,Hypsopygia costalis,Hypsopygia costalis,Hypsopygia costalis,"(Fabricius, 1775)",8,10,N
-3606,Species,Pyralidae,Hypsopygia glaucinalis,Hypsopygia glaucinalis,Hypsopygia glaucinalis,"(Linnaeus, 1758)",10,14,N
-3609,Species,Pyralidae,Endotricha flammealis,Endotricha flammealis,Endotricha flammealis,"([Denis & Schiffermüller], 1775)",8,10,N
-3617,Species,Crambidae,Pyrausta cingulata,Pyrausta cingulata,Pyrausta cingulata,"(Linnaeus, 1758)",7,8,N
-3618,Species,Crambidae,Pyrausta sanguinalis,Pyrausta sanguinalis,Pyrausta sanguinalis,"(Linnaeus, 1767)",7,9,N
-3619,Species,Crambidae,Pyrausta despicata,Pyrausta despicata,Pyrausta despicata,"(Scopoli, 1763)",7,9,N
-3621,Species,Crambidae,Pyrausta aurata,Pyrausta aurata,Pyrausta aurata,"(Scopoli, 1763)",7,9,N
-3623,Species,Crambidae,Pyrausta purpuralis,Pyrausta purpuralis,Pyrausta purpuralis,"(Linnaeus, 1758)",7,11,N
-3624,Species,Crambidae,Pyrausta ostrinalis,Pyrausta ostrinalis,Pyrausta ostrinalis,"(Hübner, 1796)",7,10,N
-3625,Species,Crambidae,Pyrausta nigrata,Pyrausta nigrata,Pyrausta nigrata,"(Scopoli, 1763)",7,8,N
-3634,Species,Crambidae,Nascia cilialis,Nascia cilialis,Nascia cilialis,"(Hübner, 1796)",11,13,N
-3636,Species,Crambidae,Sitochroa palealis,Sitochroa palealis,Sitochroa palealis,"([Denis & Schiffermüller], 1775)",13,16,N
-3637,Species,Crambidae,Sitochroa verticalis,Sitochroa verticalis,Sitochroa verticalis,"(Linnaeus, 1758)",12,15,N
-3639,Species,Crambidae,Anania fuscalis,Anania fuscalis,Anania fuscalis,"([Denis & Schiffermüller], 1775)",10,13,N
-3640,Species,Crambidae,Anania lancealis,Anania lancealis,Anania lancealis,"([Denis & Schiffermüller], 1775)",13,16,N
-3641,Species,Crambidae,Anania coronata,Anania coronata,Anania coronata,"(Hufnagel, 1767)",11,13,N
-3643,Species,Crambidae,Anania stachydalis,Anania stachydalis,Anania stachydalis,"(Zincken, 1821)",11,12,N
-3644,Species,Crambidae,Anania perlucidalis,Anania perlucidalis,Anania perlucidalis,"(Hübner, [1809])",10,12,N
-3645,Species,Crambidae,Anania terrealis,Anania terrealis,Anania terrealis,"(Treitschke, 1829)",12,13,N
-3646,Species,Crambidae,Anania crocealis,Anania crocealis,Anania crocealis,"(Hübner, 1796)",11,12,N
-3647,Species,Crambidae,Anania verbascalis,Anania verbascalis,Anania verbascalis,"([Denis & Schiffermüller], 1775)",11,13,N
-3648,Species,Crambidae,Anania funebris,Anania funebris,Anania funebris,"(Ström, 1768)",10,11,N
-3650,Species,Crambidae,Anania hortulata,Anania hortulata,Anania hortulata,"(Linnaeus, 1758)",13,16,N
-3658,Species,Crambidae,Ostrinia nubilalis,Ostrinia nubilalis,Ostrinia nubilalis,"(Hübner, 1796)",13,18,N
-3661,Species,Crambidae,Paratalanta pandalis,Paratalanta pandalis,Paratalanta pandalis,"(Hübner, [1825])",12,14,N
-3663,Species,Crambidae,Paratalanta hyalinalis,Paratalanta hyalinalis,Paratalanta hyalinalis,"(Hübner, 1796)",14,16,N
-3666,Species,Crambidae,Udea ferrugalis,Udea ferrugalis,Udea ferrugalis,"(Hübner, 1796)",9,11,N
-3669,Species,Crambidae,Udea fulvalis,Udea fulvalis,Udea fulvalis,"(Hübner, [1809])",10,14,N
-3670,Species,Crambidae,Udea lutealis,Udea lutealis,Udea lutealis,"(Hübner, [1809])",11,12,N
-3672,Species,Crambidae,Udea prunalis,Udea prunalis,Udea prunalis,"([Denis & Schiffermüller], 1775)",11,13,N
-3674,Species,Crambidae,Udea uliginosalis,Udea uliginosalis,Udea uliginosalis,"(Stephens, 1834)",11,14,N
-3675,Species,Crambidae,Udea decrepitalis,Udea decrepitalis,Udea decrepitalis,"(Herrich-Schäffer, 1848)",11,13,N
-3676,Species,Crambidae,Udea olivalis,Udea olivalis,Udea olivalis,"([Denis & Schiffermüller], 1775)",12,13,N
-3678,Species,Crambidae,Pleuroptya ruralis,Pleuroptya ruralis,Pleuroptya ruralis,"(Scopoli, 1763)",15,17,N
-3681,Species,Crambidae,Mecyna flavalis,Mecyna flavalis,Mecyna flavalis,"([Denis & Schiffermüller], 1775)",11,14,N
-3682,Species,Crambidae,Mecyna asinalis,Mecyna asinalis,Mecyna asinalis,"(Hübner, [1819])",11,15,N
-3684,Species,Crambidae,Agrotera nemoralis,Agrotera nemoralis,Agrotera nemoralis,"(Scopoli, 1763)",9,11,N
-3701,Species,Crambidae,Palpita vitrealis,Palpita vitrealis,Palpita vitrealis,"(Rossi, 1794)",13,15,N
-3706,Species,Crambidae,Dolicharthria punctalis,Dolicharthria punctalis,Dolicharthria punctalis,"([Denis & Schiffermüller], 1775)",10,12,N
-3710,Species,Crambidae,Nomophila noctuella,Nomophila noctuella,Nomophila noctuella,"([Denis & Schiffermüller], 1775)",12,15,N
-3720,Species,Crambidae,Cynaeda dentalis,Cynaeda dentalis,Cynaeda dentalis,"([Denis & Schiffermüller], 1775)",10,14,N
-3723,Species,Crambidae,Evergestis forficalis,Evergestis forficalis,Evergestis forficalis,"(Linnaeus, 1758)",13,15,N
-3725,Species,Crambidae,Evergestis extimalis,Evergestis extimalis,Evergestis extimalis,"(Scopoli, 1763)",12,16,N
-3726,Species,Crambidae,Evergestis limbata,Evergestis limbata,Evergestis limbata,"(Linnaeus, 1767)",10,11,N
-3727,Species,Crambidae,Evergestis pallidata,Evergestis pallidata,Evergestis pallidata,"(Hufnagel, 1767)",12,14,N
-3733,Species,Crambidae,Scoparia subfusca,Scoparia subfusca,Scoparia subfusca,"Haworth, 1811",10,13,N
-3736,Species,Crambidae,Scoparia basistrigalis,Scoparia basistrigalis,Scoparia basistrigalis,"Knaggs, 1866",10,11,N
-3737,Species,Crambidae,Scoparia ambigualis,Scoparia ambigualis,Scoparia ambigualis,"(Treitschke, 1829)",8,11,N
-3739,Species,Crambidae,Scoparia ancipitella,Scoparia ancipitella,Scoparia ancipitella,"(La Harpe, 1855)",9,11,N
-3741,Species,Crambidae,Scoparia pyralella,Scoparia pyralella,Scoparia pyralella,"([Denis & Schiffermüller], 1775)",8,10,N
-3745,Species,Crambidae,Eudonia lacustrata,Eudonia lacustrata,Eudonia lacustrata,"(Panzer, 1804)",8,9,N
-3748,Species,Crambidae,Eudonia murana,Eudonia murana,Eudonia murana,"(Curtis, 1827)",9,12,N
-3749,Species,Crambidae,Eudonia angustea,Eudonia angustea,Eudonia angustea,"(Curtis, 1827)",8,10,N
-3751,Species,Crambidae,Eudonia alpina,Eudonia alpina,Eudonia alpina,"(Curtis, 1850)",10,12,N
-3753,Species,Crambidae,Eudonia lineola,Eudonia lineola,Eudonia lineola,"(Curtis, 1827)",9,10,N
-3754,Species,Crambidae,Eudonia delunella,Eudonia delunella,Eudonia delunella,"(Stainton, 1849)",8,9,N
-3757,Species,Crambidae,Eudonia truncicolella,Eudonia truncicolella,Eudonia truncicolella,"(Stainton, 1849)",9,11,N
-3758,Species,Crambidae,Eudonia mercurella,Eudonia mercurella,Eudonia mercurella,"(Linnaeus, 1758)",7,9,N
-3761,Species,Crambidae,Eudonia pallida,Eudonia pallida,Eudonia pallida,"(Curtis, 1827)",8,9,N
-3766,Species,Crambidae,Chilo phragmitella,Chilo phragmitella,Chilo phragmitella,"(Hübner, [1810])",12,19,N
-3770,Species,Crambidae,Calamotropha paludella,Calamotropha paludella,Calamotropha paludella,"(Hübner, [1824])",12,15,N
-3772,Species,Crambidae,Chrysoteuchia culmella,Chrysoteuchia culmella,Chrysoteuchia culmella,"(Linnaeus, 1758)",9,12,N
-3775,Species,Crambidae,Crambus pascuella,Crambus pascuella,Crambus pascuella,"(Linnaeus, 1758)",11,13,N
-3776,Species,Crambidae,Crambus silvella,Crambus silvella,Crambus silvella,"(Hübner, [1813])",10,13,N
-3777,Species,Crambidae,Crambus uliginosellus,Crambus uliginosellus,Crambus uliginosellus,"Zeller, 1850",9,11,N
-3778,Species,Crambidae,Crambus ericella,Crambus ericella,Crambus ericella,"(Hübner, [1813])",10,14,N
-3779,Species,Crambidae,Crambus pratella,Crambus pratella,Crambus pratella,"(Linnaeus, 1758)",10,12,N
-3781,Species,Crambidae,Crambus lathoniellus,Crambus lathoniellus,Crambus lathoniellus,"(Zincken, 1817)",9,11,N
-3784,Species,Crambidae,Crambus hamella,Crambus hamella,Crambus hamella,"(Thunberg, 1788)",12,13,N
-3785,Species,Crambidae,Crambus perlella,Crambus perlella,Crambus perlella,"(Scopoli, 1763)",11,14,N
-3788,Species,Crambidae,Agriphila tristella,Agriphila tristella,Agriphila tristella,"([Denis & Schiffermüller], 1775)",12,14,N
-3789,Species,Crambidae,Agriphila inquinatella,Agriphila inquinatella,Agriphila inquinatella,"([Denis & Schiffermüller], 1775)",11,14,N
-3790,Species,Crambidae,Agriphila latistria,Agriphila latistria,Agriphila latistria,"(Haworth, 1811)",11,13,N
-3791,Species,Crambidae,Agriphila selasella,Agriphila selasella,Agriphila selasella,"(Hübner, [1813])",11,15,N
-3792,Species,Crambidae,Agriphila straminella,Agriphila straminella,Agriphila straminella,"([Denis & Schiffermüller], 1775)",8,10,N
-3794,Species,Crambidae,Agriphila geniculea,Agriphila geniculea,Agriphila geniculea,"(Haworth, 1811)",10,13,N
-3796,Species,Crambidae,Catoptria permutatellus,Catoptria permutatellus,Catoptria permutatellus,"(Herrich-Schäffer, 1848)",11,14,N
-3799,Species,Crambidae,Catoptria pinella ,Catoptria pinella ,Catoptria pinella ,"(Linnaeus, 1758)",10,13,N
-3800,Species,Crambidae,Catoptria margaritella,Catoptria margaritella,Catoptria margaritella,"([Denis & Schiffermüller], 1775)",10,12,N
-3801,Species,Crambidae,Catoptria furcatellus,Catoptria furcatellus,Catoptria furcatellus,"(Zetterstedt, 1839)",9,11,N
-3802,Species,Crambidae,Catoptria falsella,Catoptria falsella,Catoptria falsella,"([Denis & Schiffermüller], 1775)",9,12,N
-3811,Species,Crambidae,Thisanotia chrysonuchella,Thisanotia chrysonuchella,Thisanotia chrysonuchella,"(Scopoli, 1763)",11,13,N
-3813,Species,Crambidae,Pediasia fascelinella,Pediasia fascelinella,Pediasia fascelinella,"(Hübner, [1813])",12,15,N
-3815,Species,Crambidae,Pediasia contaminella,Pediasia contaminella,Pediasia contaminella,"(Hübner, 1796)",10,14,N
-3816,Species,Crambidae,Pediasia aridella,Pediasia aridella,Pediasia aridella,"(Thunberg, 1788)",10,13,N
-3818,Species,Crambidae,Platytes cerussella,Platytes cerussella,Platytes cerussella,"([Denis & Schiffermüller], 1775)",5,8,N
-3819,Species,Crambidae,Platytes alpinella,Platytes alpinella,Platytes alpinella,"(Hübner, [1813])",9,11,N
-3824,Species,Crambidae,Elophila nymphaeata,Elophila nymphaeata,Elophila nymphaeata,"(Linnaeus, 1758)",12,16,N
-3827,Species,Crambidae,Acentria ephemerella,Acentria ephemerella,Acentria ephemerella,"([Denis & Schiffermüller], 1775)",6,8,N
-3831,Species,Crambidae,Cataclysta lemnata,Cataclysta lemnata,Cataclysta lemnata,"(Linnaeus, 1758)",8,11,N
-3834,Species,Crambidae,Parapoynx stratiotata,Parapoynx stratiotata,Parapoynx stratiotata,"(Linnaeus, 1758)",10,14,N
-3837,Species,Crambidae,Nymphula nitidulata,Nymphula nitidulata,Nymphula nitidulata,"(Hufnagel, 1767)",10,12,N
-3844,Species,Crambidae,Schoenobius gigantella,Schoenobius gigantella,Schoenobius gigantella,"([Denis & Schiffermüller], 1775)",12,23,N
-3846,Species,Crambidae,Donacaula forficella,Donacaula forficella,Donacaula forficella,"(Thunberg, 1794)",11,17,N
-3847,Species,Crambidae,Donacaula mucronella,Donacaula mucronella,Donacaula mucronella,"([Denis & Schiffermüller], 1775)",11,17,N
 5000,Species,Tortricidae,Agapeta hamana,Agapeta hamana,Agapeta hamana,NA,8,12,Y
 5001,Species,Psychidae,Narycia duplicella,Narycia duplicella,Narycia duplicella,NA,4,6,Y
 5002,Species,Yponomeutidae,Yponomeuta evonymella,Yponomeuta evonymella,Yponomeuta evonymella,NA,9.5,12.5,Y
-5003,Species,Noctuidae,Acronicta species,Acronicta species,Acronicta species,NA,13,22,Y
-5004,Species,Geometridae,Eupithecia species,Eupithecia species,Eupithecia species,NA,7,15,Y
-5005,Species,Noctuidae,Oligia species,Oligia species,Oligia species,NA,10,13,Y
 5006,Species,Plutellidae,Plutella xylostella,Plutella xylostella,Plutella xylostella,NA,6,8.5,Y
+6071.1,Aggregate,Noctuidae,Mesapamea secalis/didyma,Mesapamea secalis/didyma,Mesapamea secalis/didyma,NA,11,16,N
